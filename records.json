@@ -1,9 +1,9 @@
 {
-  "update": "20250915T221805+0800",
+  "update": "20250915T223523+0800",
   "duplicate": {},
   "stats": {
     "total": 2362,
-    "download": 452,
+    "download": 552,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -6778,6 +6778,24 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "2c909fdd678bf17901678bf876430a91",
+      "title": "中华人民共和国标准化法",
+      "gbrq": "2017-11-04",
+      "sxrq": "2018-01-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 140,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T221551+0800",
+      "my_file": "mobile"
+    },
+    {
       "bbbs": "2c909fdd678bf17901678bf88aa10aeb",
       "title": "中华人民共和国公路法",
       "gbrq": "2017-11-04",
@@ -6814,24 +6832,6 @@
       "my_file": "中华人民共和国反不正当竞争法_20171104.docx"
     },
     {
-      "bbbs": "2c909fdd678bf17901678bf88b600af5",
-      "title": "中华人民共和国港口法",
-      "gbrq": "2017-11-04",
-      "sxrq": "2017-11-05",
-      "sxx": 2,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 140,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T221551+0800",
-      "my_file": "中华人民共和国港口法_20171104.docx"
-    },
-    {
       "bbbs": "2c909fdd678bf17901678bf877540aa5",
       "title": "中华人民共和国会计法",
       "gbrq": "2017-11-04",
@@ -6850,6 +6850,24 @@
       "my_file": "中华人民共和国会计法_20171104.docx"
     },
     {
+      "bbbs": "2c909fdd678bf17901678bf88b600af5",
+      "title": "中华人民共和国港口法",
+      "gbrq": "2017-11-04",
+      "sxrq": "2017-11-05",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 140,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T221551+0800",
+      "my_file": "中华人民共和国港口法_20171104.docx"
+    },
+    {
       "bbbs": "2c909fdd678bf17901678bf887110ae1",
       "title": "中华人民共和国民用航空法",
       "gbrq": "2017-11-04",
@@ -6866,24 +6884,6 @@
       "my_status": 200,
       "my_time": "20250915T221551+0800",
       "my_file": "中华人民共和国民用航空法_20171104.docx"
-    },
-    {
-      "bbbs": "2c909fdd678bf17901678bf876430a91",
-      "title": "中华人民共和国标准化法",
-      "gbrq": "2017-11-04",
-      "sxrq": "2018-01-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 140,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T221551+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf88e4e0b1d",
@@ -7210,11 +7210,11 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8080816f135f46016f20ee6f1f1728",
-      "title": "中华人民共和国进出口商品检验法",
+      "bbbs": "ff8080816f135f46016f20dc6d8216b5",
+      "title": "中华人民共和国港口法",
       "gbrq": "2018-12-29",
       "sxrq": "2018-12-29",
-      "sxx": 2,
+      "sxx": 3,
       "zdjgName": "全国人民代表大会常务委员会",
       "xgzlHighLight": null,
       "flxz": "法律",
@@ -7228,11 +7228,11 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff8080816f135f46016f20dc6d8216b5",
-      "title": "中华人民共和国港口法",
+      "bbbs": "ff8080816f135f46016f20ee6f1f1728",
+      "title": "中华人民共和国进出口商品检验法",
       "gbrq": "2018-12-29",
       "sxrq": "2018-12-29",
-      "sxx": 3,
+      "sxx": 2,
       "zdjgName": "全国人民代表大会常务委员会",
       "xgzlHighLight": null,
       "flxz": "法律",
@@ -7372,24 +7372,6 @@
       "my_file": "中华人民共和国台湾同胞投资保护法_20191228.docx"
     },
     {
-      "bbbs": "ff808081736ba7420173e715adbf36ff",
-      "title": "中华人民共和国城市维护建设税法",
-      "gbrq": "2020-08-11",
-      "sxrq": "2021-09-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 140,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T221551+0800",
-      "my_file": "mobile"
-    },
-    {
       "bbbs": "ff808081736ba7420173e71ef7563753",
       "title": "中华人民共和国契税法",
       "gbrq": "2020-08-11",
@@ -7405,6 +7387,24 @@
       "my_cate": 1,
       "my_status": 200,
       "my_time": "20250915T221624+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081736ba7420173e715adbf36ff",
+      "title": "中华人民共和国城市维护建设税法",
+      "gbrq": "2020-08-11",
+      "sxrq": "2021-09-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 140,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T221551+0800",
       "my_file": "mobile"
     },
     {
@@ -7732,24 +7732,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "ff808181841250d10184281982050f7f",
-      "title": "中华人民共和国畜牧法",
-      "gbrq": "2022-10-30",
-      "sxrq": "2023-03-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 140,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T221551+0800",
-      "my_file": "中华人民共和国畜牧法_20221030.docx"
-    },
-    {
       "bbbs": "ff808181841257210184280f88620ee0",
       "title": "中华人民共和国黄河保护法",
       "gbrq": "2022-10-30",
@@ -7766,6 +7748,24 @@
       "my_status": 200,
       "my_time": "20250915T221551+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808181841250d10184281982050f7f",
+      "title": "中华人民共和国畜牧法",
+      "gbrq": "2022-10-30",
+      "sxrq": "2023-03-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 140,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T221551+0800",
+      "my_file": "中华人民共和国畜牧法_20221030.docx"
     },
     {
       "bbbs": "ff808181865edc1401869b2623bf14a6",
@@ -8158,22 +8158,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "2c909fdd678bf17901678bf746e4068b",
-      "title": "中华人民共和国预防未成年人犯罪法",
-      "gbrq": "2012-10-26",
-      "sxrq": "2013-01-01",
-      "sxx": 2,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 150,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国军人保险法_20120427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf746430681",
@@ -8188,7 +8176,28 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国未成年人保护法_20121026.docx"
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf746e4068b",
+      "title": "中华人民共和国预防未成年人犯罪法",
+      "gbrq": "2012-10-26",
+      "sxrq": "2013-01-01",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 150,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223329+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf74d7106b3",
@@ -8203,7 +8212,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国劳动合同法_20121228.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf74ede06c7",
@@ -8218,7 +8230,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国特种设备安全法_20130629.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf76e990735",
@@ -8233,7 +8248,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国安全生产法_20140831.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7b34f07df",
@@ -8248,7 +8266,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国就业促进法_20150424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7a4d807c1",
@@ -8263,7 +8284,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国老年人权益保障法_20150424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7f9d60889",
@@ -8278,7 +8302,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国反家庭暴力法_20151227.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8464c09c9",
@@ -8293,7 +8320,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国红十字会法_20170224.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf88cfe0b09",
@@ -8308,7 +8338,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国境外非政府组织境内活动管理法_20171104.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8867e0ad7",
@@ -8323,7 +8356,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国母婴保健法_20171104.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf88c0e0aff",
@@ -8338,7 +8374,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国职业病防治法_20171104.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d134c88132b",
@@ -8353,7 +8392,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国残疾人保障法_20181026.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f210989b9179a",
@@ -8368,7 +8410,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国社会保险法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f20f4bf851746",
@@ -8383,7 +8428,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国老年人权益保障法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f20f16ee11737",
@@ -8398,7 +8446,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国劳动法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f212ea20a17f8",
@@ -8413,7 +8464,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国职业病防治法_20181229.docx"
     },
     {
       "bbbs": "ff80808175265dd401753fb9c458127b",
@@ -8428,7 +8482,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国未成年人保护法_20201017.docx"
     },
     {
       "bbbs": "ff80808175265dd40175d58c08410310",
@@ -8443,7 +8500,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国退役军人保障法_20201111.docx"
     },
     {
       "bbbs": "ff80808175265dd40176a88c218f2853",
@@ -8458,7 +8518,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国预防未成年人犯罪法_20201226.docx"
     },
     {
       "bbbs": "ff8081817a66b816017a7956b7db0ad4",
@@ -8473,7 +8536,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国安全生产法_20210610.docx"
     },
     {
       "bbbs": "ff8081817b6472a3017b6577820f0061",
@@ -8488,7 +8554,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国法律援助法_20210820.docx"
     },
     {
       "bbbs": "ff8081817cac3b2d017cac5a6c6f0109",
@@ -8503,7 +8572,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国家庭教育促进法_20211023.docx"
     },
     {
       "bbbs": "ff80818188d7430b0189018493370940",
@@ -8518,7 +8590,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081818f197cf001905e567af635a0",
@@ -8533,7 +8608,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国未成年人保护法_20240426.docx"
     },
     {
       "bbbs": "ff808181927b083b0193fda4bead02ee",
@@ -8548,7 +8626,10 @@
       "flfgCodeId": 150,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国科学技术普及法_20241225.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf683480451",
@@ -8563,7 +8644,10 @@
       "flfgCodeId": 160,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于惩治骗购外汇、逃汇和非法买卖外汇犯罪的决定_19981229.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf78309075d",
@@ -8578,7 +8662,10 @@
       "flfgCodeId": 160,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国反间谍法_20141101.docx"
     },
     {
       "bbbs": "ff8081817dea9c18017deb6ee3650128",
@@ -8593,7 +8680,10 @@
       "flfgCodeId": 160,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国反有组织犯罪法_20211224.docx"
     },
     {
       "bbbs": "ff80818182cf5c220182fd54401023d6",
@@ -8608,7 +8698,10 @@
       "flfgCodeId": 160,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国反电信网络诈骗法_20220902.docx"
     },
     {
       "bbbs": "ff80818187aa32f90187bd2e440b052a",
@@ -8623,7 +8716,10 @@
       "flfgCodeId": 160,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国反间谍法_20230426.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5b4b200cd",
@@ -8638,7 +8734,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定_19870623.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf60a1b023f",
@@ -8653,7 +8752,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国海事诉讼特别程序法_19991225.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf60bd90253",
@@ -8668,7 +8770,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国引渡法_20001228.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf64f28039d",
@@ -8683,7 +8788,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国劳动争议调解仲裁法_20071229.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6726303f7",
@@ -8698,7 +8806,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国农村土地承包经营纠纷调解仲裁法_20090627.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7105c05af",
@@ -8713,7 +8824,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国人民调解法_20100828.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf86e5b0a69",
@@ -8728,7 +8842,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国仲裁法_20170901.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d44e17e1415",
@@ -8743,7 +8860,10 @@
       "flfgCodeId": 170,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "中华人民共和国国际刑事司法协助法_20181026.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8be160b95",
@@ -8758,7 +8878,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国国籍法》在香港特别行政区实施的几个问题的解释_19960515.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8c38f0b9f",
@@ -8773,7 +8896,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国国籍法》在澳门特别行政区实施的几个问题的解释_19981229.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8c4b60ba9",
@@ -8788,7 +8914,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第二十二条第四款和第二十四条第二款第（三）项的解释_19990626.doc"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8cb2f0bb3",
@@ -8803,7 +8932,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百九十四条第一款的解释_20020428.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8cb940bbd",
@@ -8818,7 +8950,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百八十四条第一款的解释_20020428.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8cbd90bc7",
@@ -8833,7 +8968,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百一十三条的解释_20020829.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8cc3f0bd1",
@@ -8848,7 +8986,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223412+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8cc950bdb",
@@ -8863,7 +9004,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》附件一第七条和附件二第三条的解释_20040406.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d12a0c03",
@@ -8878,7 +9022,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关信用卡规定的解释_20041229.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8ccec0be5",
@@ -8893,22 +9040,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "2c909fdd678bf17901678bf8cd440bef",
-      "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释",
-      "gbrq": "2005-12-29",
-      "sxrq": "2005-12-29",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律解释",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 180,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第五十三条第二款的解释_20050427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d0550bf9",
@@ -8923,7 +9058,28 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关出口退税、抵扣税款的其他发票规定的解释_20051229.docx"
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf8cd440bef",
+      "title": "全国人民代表大会常务委员会关于《中华人民共和国刑法》有关文物的规定适用于具有科学价值的古脊椎动物化石、古人类化石的解释",
+      "gbrq": "2005-12-29",
+      "sxrq": "2005-12-29",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律解释",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 180,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d1c90c17",
@@ -8938,7 +9094,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百二十八条、第三百四十二条、第四百一十条的解释_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d1780c0d",
@@ -8953,7 +9112,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第九十三条第二款的解释_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d2190c21",
@@ -8968,7 +9130,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第十三条第一款和第十九条的解释_20110826.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d2890c2b",
@@ -8983,7 +9148,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国澳门特别行政区基本法》附件一第七条和附件二第三条的解释_20111231.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d53b0c71",
@@ -8998,7 +9166,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第二百五十四条第五款、第二百五十七条第二款的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d4f50c67",
@@ -9013,7 +9184,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第二百七十一条第二款的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d4940c5d",
@@ -9028,7 +9202,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑事诉讼法》第七十九条第三款的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d4350c53",
@@ -9043,7 +9220,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三百四十一条、第三百一十二条的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d2cb0c35",
@@ -9058,7 +9238,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第三十条的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d3620c3f",
@@ -9073,7 +9256,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第一百五十八条、第一百五十九条的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d3b60c49",
@@ -9088,7 +9274,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国刑法》第二百六十六条的解释_20140424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d5930c7b",
@@ -9103,7 +9292,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国民法通则》第九十九条第一款、《中华人民共和国婚姻法》第二十二条的解释_20141101.doc"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8d9570c85",
@@ -9118,7 +9310,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》第一百零四条的解释_20161107.docx"
     },
     {
       "bbbs": "ff808181855675b3018562fae41706b0",
@@ -9133,7 +9328,10 @@
       "flfgCodeId": 180,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区维护国家安全法》第十四条和第四十七条的解释_20221230.docx"
     },
     {
       "bbbs": "ff808081774c7a3d01777a0468d721f5",
@@ -9148,7 +9346,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会组成人员守则_19930702.docx"
     },
     {
       "bbbs": "ff808081774c7a3d01776fbed60c1712",
@@ -9163,7 +9364,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于惩治破坏金融秩序犯罪的决定_19950630.docx"
     },
     {
       "bbbs": "ff808081774c72b301776fc26a4c1849",
@@ -9178,7 +9382,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于惩治虚开、伪造和非法出售增值税专用发票犯罪的决定_19951030.docx"
     },
     {
       "bbbs": "ff808081774c72b3017770123a4e1a09",
@@ -9193,7 +9400,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定_19991225.docx"
     },
     {
       "bbbs": "ff808081774c72b30177700aebdb19e4",
@@ -9208,7 +9418,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于加强经济工作监督的决定_20000301.docx"
     },
     {
       "bbbs": "ff808081774c7a3d017770efff5b1b49",
@@ -9223,7 +9436,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于我国加入世界贸易组织的决定_20011109.docx"
     },
     {
       "bbbs": "ff808081774c72b30177716d466a1fd9",
@@ -9238,7 +9454,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于中国银行业监督管理委员会履行原由中国人民银行履行的监督管理职责的决定_20030426.docx"
     },
     {
       "bbbs": "ff808081777d0c94017784688bef08d8",
@@ -9253,7 +9472,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于完善人民陪审员制度的决定_20040828.docx"
     },
     {
       "bbbs": "ff808081777d07c50177844b6e510821",
@@ -9268,7 +9490,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于废止《中华人民共和国农业税条例》的决定_20051229.docx"
     },
     {
       "bbbs": "ff808081777d0c940177844fd08c0882",
@@ -9283,37 +9508,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff808081777d0c940177846af9b508e8",
-      "title": "全国人民代表大会常务委员会关于修改部分法律的决定",
-      "gbrq": "2009-08-27",
-      "sxrq": "2009-08-27",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff808081774c7a3d01776fd72a6c17b7",
-      "title": "全国人民代表大会常务委员会关于惩治走私、制作、贩卖、传播淫秽物品的犯罪分子的决定",
-      "gbrq": "2009-08-27",
-      "sxrq": "2009-08-27",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于废止部分法律的决定_20090627.docx"
     },
     {
       "bbbs": "ff808081774c72b301777114db011dcc",
@@ -9328,7 +9526,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于严惩拐卖、绑架妇女、儿童的犯罪分子的决定_20090827.docx"
     },
     {
       "bbbs": "ff808081777d07c50177846bd50a08b3",
@@ -9343,7 +9544,46 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定_20090827.docx"
+    },
+    {
+      "bbbs": "ff808081777d0c940177846af9b508e8",
+      "title": "全国人民代表大会常务委员会关于修改部分法律的决定",
+      "gbrq": "2009-08-27",
+      "sxrq": "2009-08-27",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff808081774c7a3d01776fd72a6c17b7",
+      "title": "全国人民代表大会常务委员会关于惩治走私、制作、贩卖、传播淫秽物品的犯罪分子的决定",
+      "gbrq": "2009-08-27",
+      "sxrq": "2009-08-27",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081777d07c5017784460a42080a",
@@ -9358,7 +9598,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会公告（中华人民共和国香港特别行政区基本法附件二香港特别行政区立法会的产生办法和表决程序修正案）_20100828.docx"
     },
     {
       "bbbs": "ff808081777d0c9401778045e43f0469",
@@ -9373,7 +9616,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223331+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081774c7a3d017770103f5518e8",
@@ -9388,7 +9634,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于加强网络信息保护的决定_20121228.docx"
     },
     {
       "bbbs": "ff808081777d07c501777f42ee4c01ed",
@@ -9403,7 +9652,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于废止有关劳动教养法律规定的决定_20131228.docx"
     },
     {
       "bbbs": "ff808081774c7a3d017770b9eaff1aa1",
@@ -9418,7 +9670,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权最高人民法院、最高人民检察院在部分地区开展刑事案件速裁程序试点工作的决定_20140627.docx"
     },
     {
       "bbbs": "ff808081774c72b3017779f46207232b",
@@ -9433,7 +9688,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于在北京、上海、广州设立知识产权法院的决定_20140831.docx"
     },
     {
       "bbbs": "ff808081774c72b301776fcf6243189d",
@@ -9448,7 +9706,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权国务院在北京市大兴区等三十三个试点县（市、区）行政区域暂时调整实施有关法律规定的决定_20150227.docx"
     },
     {
       "bbbs": "ff808081774c72b3017770bc12c71be3",
@@ -9463,7 +9724,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于司法鉴定管理问题的决定_20150424.docx"
     },
     {
       "bbbs": "ff808081774c72b30177717074b71ffe",
@@ -9478,7 +9742,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权在部分地区开展人民陪审员制度改革试点工作的决定_20150424.docx"
     },
     {
       "bbbs": "ff808081774c72b3017770b9c8551bd3",
@@ -9493,7 +9760,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权最高人民检察院在部分地区开展公益诉讼试点工作的决定_20150701.docx"
     },
     {
       "bbbs": "ff8080817703add2017719484c07200c",
@@ -9508,7 +9778,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于实行宪法宣誓制度的决定_20180224.docx"
     },
     {
       "bbbs": "ff8080817703add2017719777f1b21b6",
@@ -9523,7 +9796,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于延长授权国务院在北京市大兴区等三十三个试点县（市、区）行政区域暂时调整实施有关法律规定期限的决定（2018）_20181229.docx"
     },
     {
       "bbbs": "ff80808176f4df37017719dc6f113b58",
@@ -9538,7 +9814,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于废止有关收容教育法律规定和制度的决定_20191228.docx"
     },
     {
       "bbbs": "ff8080817703add2017719380c951fbe",
@@ -9553,7 +9832,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全的决定_20200224.docx"
     },
     {
       "bbbs": "ff80808176f4df370177195cc555366f",
@@ -9568,7 +9850,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权国务院在粤港澳大湾区内地九市开展香港法律执业者和澳门执业律师取得内地执业资质和从事律师职业试点工作的决定_20200811.docx"
     },
     {
       "bbbs": "ff80818178efe3620179208999512915",
@@ -9583,7 +9868,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定_20210429.docx"
     },
     {
       "bbbs": "ff808181791904c601792098bbb9033a",
@@ -9598,7 +9886,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权国务院在自由贸易试验区暂时调整适用有关法律规定的决定（不再施行）_20210429.docx"
     },
     {
       "bbbs": "ff80818179f5e0800179f8ad7a6f06ee",
@@ -9613,7 +9904,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于开展第八个五年法治宣传教育的决议_20210610.docx"
     },
     {
       "bbbs": "ff80818179f5e0800179f8a81a530686",
@@ -9628,7 +9922,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权上海市人民代表大会及其常务委员会制定浦东新区法规的决定_20210610.docx"
     },
     {
       "bbbs": "ff8081817b6472a3017b658aca450088",
@@ -9643,7 +9940,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T223301+0800",
+      "my_file": "全国人民代表大会常务委员会关于授权最高人民法院组织开展四级法院审级职能定位改革试点工作的决定_20210820.docx"
     },
     {
       "bbbs": "ff8081817cac46cf017cac746d4b03d5",
