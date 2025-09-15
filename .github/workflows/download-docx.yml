@@ -5,13 +5,13 @@ on:
     branches:
       - main
   schedule:
-    - cron: "15 */3 * * *"
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
 
     permissions:
       contents: write
@@ -40,7 +40,7 @@ jobs:
         # if: github.event.schedule == '0 4 * * *'
         run: |
           pushd ${{ env.SRC_NAME }} && 
-          bash scripts/run-docx.sh v1 50 &&
+          bash scripts/run-docx.sh v1 100 &&
           popd
 
       - name: Git auto commit
