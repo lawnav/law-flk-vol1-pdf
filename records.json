@@ -1,14 +1,11 @@
 {
-  "update": "20250915T201429+0800",
-  "duplicate": {
-    "a": 2,
-    "b": 3
-  },
+  "update": "20250915T211933+0800",
+  "duplicate": {},
   "stats": {
     "total": 2362,
-    "download": 102,
+    "download": 152,
     "error": 0,
-    "duplicate": 2,
+    "duplicate": 0,
     "new": 50
   },
   "data": [
@@ -1021,24 +1018,6 @@
       "my_file": "中华人民共和国个人所得税法_20180831.docx"
     },
     {
-      "bbbs": "ff8080816f135f46016f2106acd11784",
-      "title": "中华人民共和国企业所得税法",
-      "gbrq": "2018-12-29",
-      "sxrq": "2018-12-29",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 140,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "中华人民共和国企业所得税法_20181229.docx"
-    },
-    {
       "bbbs": "ff8080816f135f46016f212401b317cc",
       "title": "中华人民共和国预算法",
       "gbrq": "2018-12-29",
@@ -1055,6 +1034,24 @@
       "my_status": 200,
       "my_time": "20250915T201319+0800",
       "my_file": "中华人民共和国预算法_20181229.docx"
+    },
+    {
+      "bbbs": "ff8080816f135f46016f2106acd11784",
+      "title": "中华人民共和国企业所得税法",
+      "gbrq": "2018-12-29",
+      "sxrq": "2018-12-29",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 140,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "中华人民共和国企业所得税法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d5318af145e",
@@ -1255,24 +1252,6 @@
       "my_file": "中华人民共和国刑事诉讼法_20120314.docx"
     },
     {
-      "bbbs": "2c909fdd678bf17901678bf856910a05",
-      "title": "中华人民共和国民事诉讼法",
-      "gbrq": "2017-06-27",
-      "sxrq": "2017-07-01",
-      "sxx": 2,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 170,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "中华人民共和国民事诉讼法_20170627.docx"
-    },
-    {
       "bbbs": "2c909fdd678bf17901678bf858550a0f",
       "title": "中华人民共和国行政诉讼法",
       "gbrq": "2017-06-27",
@@ -1289,6 +1268,24 @@
       "my_status": 200,
       "my_time": "20250915T201319+0800",
       "my_file": "中华人民共和国行政诉讼法_20170627.docx"
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf856910a05",
+      "title": "中华人民共和国民事诉讼法",
+      "gbrq": "2017-06-27",
+      "sxrq": "2017-07-01",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 170,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "中华人民共和国民事诉讼法_20170627.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d1b81b01351",
@@ -1525,54 +1522,6 @@
       "my_file": "第十四届全国人民代表大会第一次会议选举和决定任命的办法_20230310.docx"
     },
     {
-      "bbbs": "ff808081774c7a3d01777172228b1e5a",
-      "title": "全国人民代表大会关于授权国务院在经济体制改革和对外开放方面可以制定暂行的规定或者条例的决定",
-      "gbrq": null,
-      "sxrq": "1985-04-10",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff808081774c72b3017771719fd52006",
-      "title": "第五届全国人民代表大会第四次会议关于开展全民义务植树运动的决议",
-      "gbrq": null,
-      "sxrq": "1981-12-13",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff808081774c7a3d0177709504c31a29",
-      "title": "全国人民代表大会关于设立香港特别行政区的决定",
-      "gbrq": null,
-      "sxrq": "1990-04-04",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于设立香港特别行政区的决定_.doc"
-    },
-    {
       "bbbs": "ff80808177e75f88017824079b103c1c",
       "title": "全国人民代表大会关于完善香港特别行政区选举制度的决定",
       "gbrq": null,
@@ -1589,42 +1538,6 @@
       "my_status": 200,
       "my_time": "20250915T201319+0800",
       "my_file": "全国人民代表大会关于完善香港特别行政区选举制度的决定_.docx"
-    },
-    {
-      "bbbs": "ff808081774c7a3d01776af002a612f0",
-      "title": "第八届全国人民代表大会第五次会议关于批准设立重庆直辖市的决定",
-      "gbrq": null,
-      "sxrq": "1997-03-14",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "第八届全国人民代表大会第五次会议关于批准设立重庆直辖市的决定_.docx"
-    },
-    {
-      "bbbs": "ff808081777d0c94017780501bf004ac",
-      "title": "全国人民代表大会关于批准香港特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会香港特别行政区基本法委员会的建议的决定",
-      "gbrq": null,
-      "sxrq": "1990-04-04",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于批准香港特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会香港特别行政区基本法委员会的建议的决定_.docx"
     },
     {
       "bbbs": "ff80808176f4df37017719422f1335c6",
@@ -1645,60 +1558,6 @@
       "my_file": "第十三届全国人民代表大会第一次会议选举和决定任命的办法_.docx"
     },
     {
-      "bbbs": "ff808081774c7a3d0177709bf3871a44",
-      "title": "全国人民代表大会关于授权汕头市和珠海市人民代表大会及其常务委员会、人民政府分别制定法规和规章在各自的经济特区实施的决定",
-      "gbrq": null,
-      "sxrq": "1996-03-17",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于授权汕头市和珠海市人民代表大会及其常务委员会、人民政府分别制定法规和规章在各自的经济特区实施的决定_.docx"
-    },
-    {
-      "bbbs": "ff808081777d0c940177804292db0466",
-      "title": "全国人民代表大会关于国务院提请审议授权深圳市制定深圳经济特区法规和规章的议案的决定",
-      "gbrq": null,
-      "sxrq": "1989-04-04",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于国务院提请审议授权深圳市制定深圳经济特区法规和规章的议案的决定_.docx"
-    },
-    {
-      "bbbs": "ff808081774c7a3d01777099ba981a34",
-      "title": "全国人民代表大会关于授权厦门市人民代表大会及其常务委员会和厦门市人民政府分别制定法规和规章在厦门经济特区实施的决定",
-      "gbrq": null,
-      "sxrq": "1994-03-22",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于授权厦门市人民代表大会及其常务委员会和厦门市人民政府分别制定法规和规章在厦门经济特区实施的决定_.docx"
-    },
-    {
       "bbbs": "ff80808176f4df3701771932a4f5359d",
       "title": "第十三届全国人民代表大会第一次会议关于国务院机构改革方案的决定（附：国务院机构改革方案）",
       "gbrq": null,
@@ -1715,24 +1574,6 @@
       "my_status": 200,
       "my_time": "20250915T201319+0800",
       "my_file": "第十三届全国人民代表大会第一次会议关于国务院机构改革方案的决定（附：国务院机构改革方案）_.docx"
-    },
-    {
-      "bbbs": "ff808081777d0c940177843debf60846",
-      "title": "第七届全国人民代表大会第一次会议关于建立海南经济特区的决议",
-      "gbrq": null,
-      "sxrq": "1988-04-13",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "第七届全国人民代表大会第一次会议关于建立海南经济特区的决议_.docx"
     },
     {
       "bbbs": "ff80808176f4df370177191721e93570",
@@ -1753,42 +1594,6 @@
       "my_file": "第十三届全国人民代表大会第一次会议关于第十三届全国人民代表大会专门委员会主任委员、副主任委员、委员人选的表决办法_.docx"
     },
     {
-      "bbbs": "ff808081777d07c50177804bcf5c0413",
-      "title": "全国人民代表大会关于批准澳门特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会澳门特别行政区基本法委员会的建议的决定",
-      "gbrq": null,
-      "sxrq": "1993-03-31",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于批准澳门特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会澳门特别行政区基本法委员会的建议的决定_.docx"
-    },
-    {
-      "bbbs": "ff808081777d0c94017784416c37084e",
-      "title": "第七届全国人民代表大会第一次会议关于设立海南省的决定",
-      "gbrq": null,
-      "sxrq": "1988-04-13",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "第七届全国人民代表大会第一次会议关于设立海南省的决定_.docx"
-    },
-    {
       "bbbs": "ff80808176f4df370177193f6b7e35bc",
       "title": "第十三届全国人民代表大会第一次会议关于设立第十三届全国人民代表大会专门委员会的决定",
       "gbrq": null,
@@ -1805,24 +1610,6 @@
       "my_status": 200,
       "my_time": "20250915T201319+0800",
       "my_file": "第十三届全国人民代表大会第一次会议关于设立第十三届全国人民代表大会专门委员会的决定_.docx"
-    },
-    {
-      "bbbs": "ff808081774c72b301777a04a9f72356",
-      "title": "全国人民代表大会关于《中华人民共和国澳门特别行政区基本法》的决定",
-      "gbrq": null,
-      "sxrq": "1993-03-31",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于《中华人民共和国澳门特别行政区基本法》的决定_.docx"
     },
     {
       "bbbs": "ff808081774c72b30177711258071dad",
@@ -1843,24 +1630,6 @@
       "my_file": "第十二届全国人民代表大会第五次会议关于第十三届全国人民代表大会代表名额和选举问题的决定_.docx"
     },
     {
-      "bbbs": "ff808081774c72b301777095284d1b68",
-      "title": "全国人民代表大会关于设立中华人民共和国澳门特别行政区的决定",
-      "gbrq": null,
-      "sxrq": "1993-03-31",
-      "sxx": null,
-      "zdjgName": "全国人民代表大会",
-      "xgzlHighLight": null,
-      "flxz": "有关法律问题和重大问题的决定（部分）",
-      "zdjgCodeId": 100,
-      "flfgCodeId": 190,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T201319+0800",
-      "my_file": "全国人民代表大会关于设立中华人民共和国澳门特别行政区的决定_.docx"
-    },
-    {
       "bbbs": "ff808081774c7a3d01777a09c4bb220e",
       "title": "全国人民代表大会关于《中华人民共和国香港特别行政区基本法》的决定",
       "gbrq": null,
@@ -1879,6 +1648,240 @@
       "my_file": "全国人民代表大会关于《中华人民共和国香港特别行政区基本法》的决定_.docx"
     },
     {
+      "bbbs": "ff808081774c7a3d01776af002a612f0",
+      "title": "第八届全国人民代表大会第五次会议关于批准设立重庆直辖市的决定",
+      "gbrq": null,
+      "sxrq": "1997-03-14",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "第八届全国人民代表大会第五次会议关于批准设立重庆直辖市的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c7a3d0177709bf3871a44",
+      "title": "全国人民代表大会关于授权汕头市和珠海市人民代表大会及其常务委员会、人民政府分别制定法规和规章在各自的经济特区实施的决定",
+      "gbrq": null,
+      "sxrq": "1996-03-17",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于授权汕头市和珠海市人民代表大会及其常务委员会、人民政府分别制定法规和规章在各自的经济特区实施的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c7a3d01777099ba981a34",
+      "title": "全国人民代表大会关于授权厦门市人民代表大会及其常务委员会和厦门市人民政府分别制定法规和规章在厦门经济特区实施的决定",
+      "gbrq": null,
+      "sxrq": "1994-03-22",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于授权厦门市人民代表大会及其常务委员会和厦门市人民政府分别制定法规和规章在厦门经济特区实施的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081777d07c50177804bcf5c0413",
+      "title": "全国人民代表大会关于批准澳门特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会澳门特别行政区基本法委员会的建议的决定",
+      "gbrq": null,
+      "sxrq": "1993-03-31",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于批准澳门特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会澳门特别行政区基本法委员会的建议的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c72b301777a04a9f72356",
+      "title": "全国人民代表大会关于《中华人民共和国澳门特别行政区基本法》的决定",
+      "gbrq": null,
+      "sxrq": "1993-03-31",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于《中华人民共和国澳门特别行政区基本法》的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c72b301777095284d1b68",
+      "title": "全国人民代表大会关于设立中华人民共和国澳门特别行政区的决定",
+      "gbrq": null,
+      "sxrq": "1993-03-31",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于设立中华人民共和国澳门特别行政区的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c7a3d0177709504c31a29",
+      "title": "全国人民代表大会关于设立香港特别行政区的决定",
+      "gbrq": null,
+      "sxrq": "1990-04-04",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于设立香港特别行政区的决定_.doc"
+    },
+    {
+      "bbbs": "ff808081777d0c94017780501bf004ac",
+      "title": "全国人民代表大会关于批准香港特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会香港特别行政区基本法委员会的建议的决定",
+      "gbrq": null,
+      "sxrq": "1990-04-04",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于批准香港特别行政区基本法起草委员会关于设立全国人民代表大会常务委员会香港特别行政区基本法委员会的建议的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081777d0c940177804292db0466",
+      "title": "全国人民代表大会关于国务院提请审议授权深圳市制定深圳经济特区法规和规章的议案的决定",
+      "gbrq": null,
+      "sxrq": "1989-04-04",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "全国人民代表大会关于国务院提请审议授权深圳市制定深圳经济特区法规和规章的议案的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081777d0c940177843debf60846",
+      "title": "第七届全国人民代表大会第一次会议关于建立海南经济特区的决议",
+      "gbrq": null,
+      "sxrq": "1988-04-13",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "第七届全国人民代表大会第一次会议关于建立海南经济特区的决议_.docx"
+    },
+    {
+      "bbbs": "ff808081777d0c94017784416c37084e",
+      "title": "第七届全国人民代表大会第一次会议关于设立海南省的决定",
+      "gbrq": null,
+      "sxrq": "1988-04-13",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T201319+0800",
+      "my_file": "第七届全国人民代表大会第一次会议关于设立海南省的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c7a3d01777172228b1e5a",
+      "title": "全国人民代表大会关于授权国务院在经济体制改革和对外开放方面可以制定暂行的规定或者条例的决定",
+      "gbrq": null,
+      "sxrq": "1985-04-10",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "全国人民代表大会关于授权国务院在经济体制改革和对外开放方面可以制定暂行的规定或者条例的决定_.docx"
+    },
+    {
+      "bbbs": "ff808081774c72b3017771719fd52006",
+      "title": "第五届全国人民代表大会第四次会议关于开展全民义务植树运动的决议",
+      "gbrq": null,
+      "sxrq": "1981-12-13",
+      "sxx": null,
+      "zdjgName": "全国人民代表大会",
+      "xgzlHighLight": null,
+      "flxz": "有关法律问题和重大问题的决定（部分）",
+      "zdjgCodeId": 100,
+      "flfgCodeId": 190,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "第五届全国人民代表大会第四次会议关于开展全民义务植树运动的决议_.docx"
+    },
+    {
       "bbbs": "ff80808177e75f880178243a36b13c89",
       "title": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会议事规则》的决定",
       "gbrq": "2021-03-11",
@@ -1891,7 +1894,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会议事规则》的决定_20210311.docx"
     },
     {
       "bbbs": "ff80808177e75f880178242aaf8d3c6f",
@@ -1906,7 +1912,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会组织法》的决定_20210311.docx"
     },
     {
       "bbbs": "ff8081817f48d6f4017f78ede2dc1100",
@@ -1921,7 +1930,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "全国人民代表大会关于修改《中华人民共和国地方各级人民代表大会和地方各级人民政府组织法》的决定_20220311.docx"
     },
     {
       "bbbs": "ff808181865edc140186d9d8aef52506",
@@ -1936,7 +1948,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "全国人民代表大会关于修改《中华人民共和国立法法》的决定_20230313.docx"
     },
     {
       "bbbs": "ff808181944069720195854d667776c0",
@@ -1951,7 +1966,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "全国人民代表大会关于修改《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》的决定_20250311.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5aeb300a5",
@@ -1966,7 +1984,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "全国人民代表大会常务委员会关于县级以下人民代表大会代表直接选举的若干规定_19830305.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5af4e00af",
@@ -1981,7 +2002,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定_19841114.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5b0d600c3",
@@ -1996,7 +2020,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国外交特权与豁免条例_19860905.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5bfbf00d7",
@@ -2011,7 +2038,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定_19880701.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5c29300eb",
@@ -2026,7 +2056,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国城市居民委员会组织法_19891226.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5c7ce013b",
@@ -2041,7 +2074,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国领事特权与豁免条例_19901030.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5c87c0145",
@@ -2056,7 +2092,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国缔结条约程序法_19901228.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5c9fd014f",
@@ -2071,7 +2110,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国领海及毗连区法_19920225.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5dcaf01bd",
@@ -2086,7 +2128,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国戒严法_19960301.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5df9701e5",
@@ -2101,7 +2146,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国香港特别行政区驻军法_19961230.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5eaf60203",
@@ -2116,7 +2164,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国专属经济区和大陆架法_19980626.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6072e0221",
@@ -2131,7 +2182,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国澳门特别行政区驻军法_19990628.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf634330311",
@@ -2146,7 +2200,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国外国中央银行财产司法强制措施豁免法_20051025.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf63b9e0339",
@@ -2161,7 +2218,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国各级人民代表大会常务委员会监督法_20060827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf671c003ed",
@@ -2176,7 +2236,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国全国人民代表大会常务委员会议事规则_20090424.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6a98a04dd",
@@ -2191,7 +2254,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国集会游行示威法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6fec40537",
@@ -2206,7 +2272,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国国旗法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6ff980541",
@@ -2221,7 +2290,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国国徽法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7157005cd",
@@ -2236,7 +2308,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国村民委员会组织法_20101028.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf73fc80659",
@@ -2251,7 +2326,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法_20120630.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf74c26069f",
@@ -2266,7 +2344,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国国家赔偿法_20121026.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7e067082f",
@@ -2281,7 +2362,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国国家安全法_20150701.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7faa70893",
@@ -2296,37 +2380,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "2c909fdd678bf17901678bf85f470a2d",
-      "title": "中华人民共和国国歌法",
-      "gbrq": "2017-09-01",
-      "sxrq": "2017-10-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 110,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "2c909fdd678bf17901678bf8606d0a41",
-      "title": "中华人民共和国检察官法",
-      "gbrq": "2017-09-01",
-      "sxrq": "2018-01-01",
-      "sxx": 2,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 110,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国国家勋章和国家荣誉称号法_20151227.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf85fc60a37",
@@ -2341,7 +2398,46 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国法官法_20170901.docx"
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf85f470a2d",
+      "title": "中华人民共和国国歌法",
+      "gbrq": "2017-09-01",
+      "sxrq": "2017-10-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 110,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国国歌法_20170901.docx"
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf8606d0a41",
+      "title": "中华人民共和国检察官法",
+      "gbrq": "2017-09-01",
+      "sxrq": "2018-01-01",
+      "sxx": 2,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 110,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211859+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8a38c0b59",
@@ -2356,7 +2452,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国英雄烈士保护法_20180427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf89dfc0b4f",
@@ -2371,7 +2470,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国人民陪审员法_20180427.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d7c35181522",
@@ -2386,7 +2488,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国城市居民委员会组织法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d901c941589",
@@ -2401,7 +2506,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国村民委员会组织法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f2170ba331afb",
@@ -2416,7 +2524,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国检察官法_20190423.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f21669bcd1abd",
@@ -2431,7 +2542,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国法官法_20190423.docx"
     },
     {
       "bbbs": "ff80808172b5f24f0172e4dc755418c0",
@@ -2446,7 +2560,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国公职人员政务处分法_20200620.docx"
     },
     {
       "bbbs": "ff80808172b5f24f0173094174de251e",
@@ -2461,7 +2578,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国香港特别行政区维护国家安全法_20200630.docx"
     },
     {
       "bbbs": "ff808081752b7d430175e4c797ed15ff",
@@ -2476,7 +2596,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国国徽法_20201017.docx"
     },
     {
       "bbbs": "ff80808175265dd40175e4c1504b0f2e",
@@ -2491,7 +2614,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国国旗法_20201017.docx"
     },
     {
       "bbbs": "ff8081817ab22e0c017abd51fda1054a",
@@ -2506,7 +2632,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法_20210429.docx"
     },
     {
       "bbbs": "ff80818179f5dd9f0179f89e7a1d05d3",
@@ -2521,7 +2650,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国反外国制裁法_20210610.docx"
     },
     {
       "bbbs": "ff8081817b6472a3017b65724edf004f",
@@ -2536,7 +2668,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国监察官法_20210820.docx"
     },
     {
       "bbbs": "ff8081817cac2ab8017cac5b80d20123",
@@ -2551,7 +2686,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国陆地国界法_20211023.docx"
     },
     {
       "bbbs": "ff8081818291977701829f3b24f300d7",
@@ -2566,7 +2704,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国全国人民代表大会常务委员会议事规则_20220624.docx"
     },
     {
       "bbbs": "ff80818188d7430b0189019c15ee0943",
@@ -2581,7 +2722,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211813+0800",
+      "my_file": "中华人民共和国对外关系法_20230628.docx"
     },
     {
       "bbbs": "ff8081818a21dc13018a51328e0c0c3c",
@@ -2596,7 +2740,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T211814+0800",
+      "my_file": "中华人民共和国外国国家豁免法_20230901.docx"
     },
     {
       "bbbs": "ff8081818a21dc13018b625b4a68173f",
