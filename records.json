@@ -1,9 +1,9 @@
 {
-  "update": "20250915T212344+0800",
+  "update": "20250915T214908+0800",
   "duplicate": {},
   "stats": {
     "total": 2362,
-    "download": 252,
+    "download": 352,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -3178,24 +3178,6 @@
       "my_file": "mobile"
     },
     {
-      "bbbs": "2c909fdd678bf17901678bf88f170b31",
-      "title": "中华人民共和国招标投标法",
-      "gbrq": "2017-12-27",
-      "sxrq": "2017-12-28",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 120,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T212122+0800",
-      "my_file": "中华人民共和国招标投标法_20171227.docx"
-    },
-    {
       "bbbs": "2c909fdd678bf17901678bf88dbe0b13",
       "title": "中华人民共和国农民专业合作社法",
       "gbrq": "2017-12-27",
@@ -3212,6 +3194,24 @@
       "my_status": 200,
       "my_time": "20250915T212122+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "2c909fdd678bf17901678bf88f170b31",
+      "title": "中华人民共和国招标投标法",
+      "gbrq": "2017-12-27",
+      "sxrq": "2017-12-28",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 120,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T212122+0800",
+      "my_file": "中华人民共和国招标投标法_20171227.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1cc98ad81134",
@@ -3808,6 +3808,24 @@
       "my_file": "中华人民共和国教师法_20090827.docx"
     },
     {
+      "bbbs": "2c909fdd678bf17901678bf6fd390523",
+      "title": "中华人民共和国人民防空法",
+      "gbrq": "2009-08-27",
+      "sxrq": "2009-08-27",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T212202+0800",
+      "my_file": "mobile"
+    },
+    {
       "bbbs": "2c909fdd678bf17901678bf699d204c9",
       "title": "中华人民共和国城市房地产管理法",
       "gbrq": "2009-08-27",
@@ -3860,24 +3878,6 @@
       "my_status": 200,
       "my_time": "20250915T212122+0800",
       "my_file": "中华人民共和国执业医师法_20090827.docx"
-    },
-    {
-      "bbbs": "2c909fdd678bf17901678bf6fd390523",
-      "title": "中华人民共和国人民防空法",
-      "gbrq": "2009-08-27",
-      "sxrq": "2009-08-27",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1,
-      "my_status": 200,
-      "my_time": "20250915T212202+0800",
-      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf701330555",
@@ -4558,7 +4558,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国水污染防治法_20170627.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf867e80a55",
@@ -4573,7 +4576,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国律师法_20170901.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8688a0a5f",
@@ -4588,7 +4594,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国公证法_20170901.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8592a0a19",
@@ -4603,7 +4612,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国核安全法_20170901.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf86f120a73",
@@ -4618,7 +4630,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国行政复议法_20170901.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf861030a4b",
@@ -4633,7 +4648,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国公务员法_20170901.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf876cd0a9b",
@@ -4648,7 +4666,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国公共图书馆法_20171104.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf87f3b0ac3",
@@ -4663,7 +4684,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国海关法_20171104.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8781d0aaf",
@@ -4678,7 +4702,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国海洋环境保护法_20171104.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf87e560ab9",
@@ -4693,7 +4720,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国文物保护法_20171104.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7f30a087f",
@@ -4708,7 +4738,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国反恐怖主义法_20180427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8498d09f1",
@@ -4723,7 +4756,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国国家情报法_20180427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7448a066d",
@@ -4738,7 +4774,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国精神卫生法_20180427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6125b0285",
@@ -4753,7 +4792,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国国防教育法_20180427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8a5c90b63",
@@ -4768,7 +4810,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国国境卫生检疫法_20180427.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8bb110b8b",
@@ -4783,7 +4828,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国土壤污染防治法_20180831.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1d256fdd13d7",
@@ -4798,7 +4846,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国消防救援衔条例_20181026.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f1cece2851197",
@@ -4813,7 +4864,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f135f46016f1ce917141181",
@@ -4828,7 +4882,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f135f46016f1cd378361155",
@@ -4843,7 +4900,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f135f46016f1ccea14b1143",
@@ -4858,67 +4918,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff8080816f135f46016f20e4396a16fb",
-      "title": "中华人民共和国公务员法",
-      "gbrq": "2018-12-29",
-      "sxrq": "2019-06-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff8080816f135f46016f20e89eff170a",
-      "title": "中华人民共和国环境影响评价法",
-      "gbrq": "2018-12-29",
-      "sxrq": "2018-12-29",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff8080816f135f46016f20df64ec16c5",
-      "title": "中华人民共和国高等教育法",
-      "gbrq": "2018-12-29",
-      "sxrq": "2018-12-29",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff8080816f135f46016f20fe96881756",
-      "title": "中华人民共和国民办教育促进法",
-      "gbrq": "2018-12-29",
-      "sxrq": "2018-12-29",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f135f46016f210c09fa17a9",
@@ -4933,7 +4936,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国食品安全法_20181229.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f20eb4a411719",
@@ -4948,13 +4954,16 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国环境噪声污染防治法_20181229.docx"
     },
     {
-      "bbbs": "ff8080816f135f46016f216bf96b1ae6",
-      "title": "中华人民共和国行政许可法",
-      "gbrq": "2019-04-23",
-      "sxrq": "2019-04-23",
+      "bbbs": "ff8080816f135f46016f20e4396a16fb",
+      "title": "中华人民共和国公务员法",
+      "gbrq": "2018-12-29",
+      "sxrq": "2019-06-01",
       "sxx": 3,
       "zdjgName": "全国人民代表大会常务委员会",
       "xgzlHighLight": null,
@@ -4963,7 +4972,64 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816f135f46016f20df64ec16c5",
+      "title": "中华人民共和国高等教育法",
+      "gbrq": "2018-12-29",
+      "sxrq": "2018-12-29",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816f135f46016f20e89eff170a",
+      "title": "中华人民共和国环境影响评价法",
+      "gbrq": "2018-12-29",
+      "sxrq": "2018-12-29",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8080816f135f46016f20fe96881756",
+      "title": "中华人民共和国民办教育促进法",
+      "gbrq": "2018-12-29",
+      "sxrq": "2018-12-29",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f135f46016f216129dd1a92",
@@ -4978,7 +5044,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国城乡规划法_20190423.docx"
     },
     {
       "bbbs": "ff8080816f135f46016f2195fed41b64",
@@ -4993,7 +5062,28 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国消防法_20190423.docx"
+    },
+    {
+      "bbbs": "ff8080816f135f46016f216bf96b1ae6",
+      "title": "中华人民共和国行政许可法",
+      "gbrq": "2019-04-23",
+      "sxrq": "2019-04-23",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214716+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8080816f135f46016f219a9e101bba",
@@ -5008,7 +5098,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国疫苗管理法_20190629.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4626903427fc",
@@ -5023,7 +5116,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国土地管理法_20190826.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f462c6cc8280c",
@@ -5038,7 +5134,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国城市房地产管理法_20190826.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f46242d6127ed",
@@ -5053,7 +5152,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国药品管理法_20190826.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f5acf6a244210",
@@ -5068,22 +5170,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff80808171e9e18101727e4443b37e86",
-      "title": "中华人民共和国社区矫正法",
-      "gbrq": "2019-12-28",
-      "sxrq": "2020-07-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国密码法_20191026.docx"
     },
     {
       "bbbs": "ff80808171e9e18101727e38094d7e07",
@@ -5098,7 +5188,28 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国基本医疗卫生与健康促进法_20191228.docx"
+    },
+    {
+      "bbbs": "ff80808171e9e18101727e4443b37e86",
+      "title": "中华人民共和国社区矫正法",
+      "gbrq": "2019-12-28",
+      "sxrq": "2020-07-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214735+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808081729c65d801729d455fad04be",
@@ -5113,7 +5224,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国固体废物污染环境防治法_20200429.docx"
     },
     {
       "bbbs": "ff80808172b5f24f0172e4ef05e218d4",
@@ -5128,7 +5242,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国档案法_20200620.docx"
     },
     {
       "bbbs": "ff80808172b5f6e30172e4f3b6df198d",
@@ -5143,7 +5260,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214748+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80808175265dd401753facb12a125d",
@@ -5158,7 +5278,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国生物安全法_20201017.docx"
     },
     {
       "bbbs": "ff80808176f4df37017737360133541f",
@@ -5173,22 +5296,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff8081817918fa9601792049b58802de",
-      "title": "中华人民共和国海上交通安全法",
-      "gbrq": "2021-04-29",
-      "sxrq": "2021-09-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国海警法_20210122.docx"
     },
     {
       "bbbs": "ff8081817ab22e0c017abd909312060a",
@@ -5203,7 +5314,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817ab231eb017abd617ef70519",
@@ -5218,7 +5332,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817ab22b8a017abd719e0f05c0",
@@ -5233,7 +5350,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff808181791904c60179205ab8cd02cc",
@@ -5248,7 +5368,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817ab22e0c017abd8d85a205f1",
@@ -5263,7 +5386,28 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081817918fa9601792049b58802de",
+      "title": "中华人民共和国海上交通安全法",
+      "gbrq": "2021-04-29",
+      "sxrq": "2021-09-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214802+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818179f5da5e0179f89835a70518",
@@ -5278,7 +5422,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818179f5dd9f0179f8a44bec063e",
@@ -5293,22 +5440,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
-    },
-    {
-      "bbbs": "ff8081817b6450e6017b657ba9500116",
-      "title": "中华人民共和国医师法",
-      "gbrq": "2021-08-20",
-      "sxrq": "2022-03-01",
-      "sxx": 3,
-      "zdjgName": "全国人民代表大会常务委员会",
-      "xgzlHighLight": null,
-      "flxz": "法律",
-      "zdjgCodeId": 110,
-      "flfgCodeId": 130,
-      "score": 0.0,
-      "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817ba965c4017bb8921d13077a",
@@ -5323,7 +5458,28 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国人口与计划生育法_20210820.docx"
+    },
+    {
+      "bbbs": "ff8081817b6450e6017b657ba9500116",
+      "title": "中华人民共和国医师法",
+      "gbrq": "2021-08-20",
+      "sxrq": "2022-03-01",
+      "sxx": 3,
+      "zdjgName": "全国人民代表大会常务委员会",
+      "xgzlHighLight": null,
+      "flxz": "法律",
+      "zdjgCodeId": 110,
+      "flfgCodeId": 130,
+      "score": 0.0,
+      "my_dir": "法律",
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081817dea9c18017deb70ddc70131",
@@ -5338,7 +5494,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国噪声污染防治法_20211224.docx"
     },
     {
       "bbbs": "ff8081817d99a39f017dec555db834da",
@@ -5353,7 +5512,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国科学技术进步法_20211224.docx"
     },
     {
       "bbbs": "ff8081817f3acaef017f400516e50556",
@@ -5368,7 +5530,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定_20220228.docx"
     },
     {
       "bbbs": "ff808181802d2853018044c7370108c6",
@@ -5383,7 +5548,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国职业教育法_20220420.docx"
     },
     {
       "bbbs": "ff808181818e90e701819485a96c0192",
@@ -5398,7 +5566,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国体育法_20220624.docx"
     },
     {
       "bbbs": "ff80818185567186018562ddd6a70690",
@@ -5413,7 +5584,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国野生动物保护法_20221230.docx"
     },
     {
       "bbbs": "ff80818185567186018561163b860552",
@@ -5428,7 +5602,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国预备役人员法_20221230.docx"
     },
     {
       "bbbs": "ff808181865ee3360187bdb3430e764c",
@@ -5443,7 +5620,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国青藏高原生态保护法_20230426.docx"
     },
     {
       "bbbs": "ff8081818a21e6c3018a508d491a0c98",
@@ -5458,7 +5638,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国行政复议法_20230901.docx"
     },
     {
       "bbbs": "ff8081818a21e8b2018b62075316188f",
@@ -5473,7 +5656,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国海洋环境保护法_20231024.docx"
     },
     {
       "bbbs": "ff8081818d6a4464018de9f8ab7511e3",
@@ -5488,7 +5674,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国保守国家秘密法_20240227.docx"
     },
     {
       "bbbs": "ff8081818d6a424b018f1a63b49a796a",
@@ -5503,7 +5692,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国学位法_20240426.docx"
     },
     {
       "bbbs": "ff8081818d6a424b01905e5e6b702e66",
@@ -5518,7 +5710,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国生物安全法_20240426.docx"
     },
     {
       "bbbs": "ff8081818d6a463901905f1d7ca72d2d",
@@ -5533,7 +5728,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国国境卫生检疫法_20240628.docx"
     },
     {
       "bbbs": "ff8081818d6a424b01905f13edba2efb",
@@ -5548,7 +5746,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214753+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818191db55220191eba9396a08f4",
@@ -5563,7 +5764,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国国防教育法_20240913.docx"
     },
     {
       "bbbs": "ff808181927b083b01930c734c776beb",
@@ -5578,7 +5782,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国学前教育法_20241108.docx"
     },
     {
       "bbbs": "ff808181927b083b01930c94de976c66",
@@ -5593,7 +5800,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff8081819667441b019686946a752bbd",
@@ -5608,7 +5818,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "ff80818197af9ccc0197b159c38a0408",
@@ -5623,7 +5836,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5aae40069",
@@ -5638,7 +5854,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5d6d1019f",
@@ -5653,7 +5872,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5ddf401d1",
@@ -5668,7 +5890,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5e05801ef",
@@ -5683,7 +5908,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf613e30299",
@@ -5698,7 +5926,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf62a3d02d5",
@@ -5713,7 +5944,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf634b5031b",
@@ -5728,7 +5962,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国审计法_20060228.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf635540325",
@@ -5743,7 +5980,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国农产品质量安全法_20060429.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6442e0361",
@@ -5758,7 +5998,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国银行业监督管理法_20061031.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf643400357",
@@ -5773,7 +6016,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国反洗钱法_20061031.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf64b86037f",
@@ -5788,7 +6034,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国反垄断法_20070830.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf652e903bb",
@@ -5803,7 +6052,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国循环经济促进法_20080829.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf653fb03c5",
@@ -5818,7 +6070,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国企业国有资产法_20081028.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf673070401",
@@ -5833,7 +6088,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国统计法_20090627.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6ab3604e7",
@@ -5848,7 +6106,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国进出境动植物检疫法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6a1d504d3",
@@ -5863,7 +6124,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国矿产资源法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6fc050519",
@@ -5878,7 +6142,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国产品质量法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf67afe0429",
@@ -5893,7 +6160,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国森林法_20090827.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf708a60573",
@@ -5908,7 +6178,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国可再生能源法_20091226.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf70e16059b",
@@ -5923,7 +6196,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国石油天然气管道保护法_20100625.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7163c05d7",
@@ -5938,7 +6214,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国水土保持法_20101225.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf717e705eb",
@@ -5953,7 +6232,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国车船税法_20110225.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7187305f5",
@@ -5968,7 +6250,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国建筑法_20110422.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf737800631",
@@ -5983,7 +6268,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "中华人民共和国清洁生产促进法_20120229.docx"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf744070663",
@@ -5998,7 +6286,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf74e1106bd",
@@ -6013,7 +6304,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf753d506d1",
@@ -6028,7 +6322,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf76a110703",
@@ -6043,7 +6340,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250915T214646+0800",
+      "my_file": "mobile"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf77e170753",
