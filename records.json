@@ -3,7 +3,7 @@
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 2368,
+    "download": 1966,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -1769,7 +1769,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165630+0800",
       "my_file": "全国人民代表大会关于设立香港特别行政区的决定_.doc"
     },
@@ -1949,7 +1949,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -1967,7 +1967,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -1985,7 +1985,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2021,7 +2021,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2039,7 +2039,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2057,7 +2057,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2075,7 +2075,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2849,7 +2849,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2867,7 +2867,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2885,7 +2885,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2903,7 +2903,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -2921,7 +2921,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -3335,7 +3335,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T165631+0800",
       "my_file": "mobile"
     },
@@ -3551,7 +3551,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171941+0800",
       "my_file": "mobile"
     },
@@ -3587,7 +3587,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171944+0800",
       "my_file": "mobile"
     },
@@ -3605,7 +3605,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171945+0800",
       "my_file": "mobile"
     },
@@ -4019,7 +4019,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171938+0800",
       "my_file": "mobile"
     },
@@ -4091,7 +4091,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171943+0800",
       "my_file": "mobile"
     },
@@ -4163,7 +4163,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171948+0800",
       "my_file": "mobile"
     },
@@ -4523,7 +4523,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171940+0800",
       "my_file": "mobile"
     },
@@ -4559,7 +4559,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171943+0800",
       "my_file": "mobile"
     },
@@ -5081,7 +5081,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171948+0800",
       "my_file": "mobile"
     },
@@ -5117,7 +5117,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T171950+0800",
       "my_file": "mobile"
     },
@@ -8249,7 +8249,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9005,7 +9005,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9023,7 +9023,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9041,7 +9041,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9059,7 +9059,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9077,7 +9077,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9095,7 +9095,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9113,7 +9113,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9131,7 +9131,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9149,7 +9149,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9167,7 +9167,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9185,7 +9185,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9203,7 +9203,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9221,7 +9221,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9239,7 +9239,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9257,7 +9257,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9275,7 +9275,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9383,7 +9383,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181558+0800",
       "my_file": "全国人民代表大会常务委员会关于《中华人民共和国民法通则》第九十九条第一款、《中华人民共和国婚姻法》第二十二条的解释_20141101.doc"
     },
@@ -9509,7 +9509,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9527,7 +9527,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9545,7 +9545,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9563,7 +9563,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9581,7 +9581,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9599,7 +9599,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9617,7 +9617,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9635,7 +9635,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9653,7 +9653,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9671,7 +9671,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9689,7 +9689,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9707,7 +9707,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9725,7 +9725,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9743,7 +9743,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9761,7 +9761,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -9995,7 +9995,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10013,7 +10013,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10031,7 +10031,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10049,7 +10049,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10067,7 +10067,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10085,7 +10085,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10103,7 +10103,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10121,7 +10121,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10139,7 +10139,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10157,7 +10157,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10175,7 +10175,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10193,7 +10193,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10427,7 +10427,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10499,7 +10499,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10517,7 +10517,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10535,7 +10535,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10553,7 +10553,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10571,7 +10571,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10589,7 +10589,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10607,7 +10607,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10625,7 +10625,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10643,7 +10643,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -10661,7 +10661,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T181559+0800",
       "my_file": "mobile"
     },
@@ -11111,7 +11111,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -11129,7 +11129,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -11633,7 +11633,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -11651,7 +11651,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -11957,7 +11957,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -11975,7 +11975,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -11993,7 +11993,7 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184059+0800",
       "my_file": "mobile"
     },
@@ -12857,7 +12857,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184940+0800",
       "my_file": "mobile"
     },
@@ -13325,7 +13325,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184940+0800",
       "my_file": "mobile"
     },
@@ -13793,7 +13793,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184940+0800",
       "my_file": "mobile"
     },
@@ -13811,7 +13811,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T184940+0800",
       "my_file": "mobile"
     },
@@ -14621,7 +14621,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -14639,7 +14639,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -14657,7 +14657,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -15107,7 +15107,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -15125,7 +15125,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -15575,7 +15575,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -15593,7 +15593,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -15611,7 +15611,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T191239+0800",
       "my_file": "mobile"
     },
@@ -16169,7 +16169,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16187,7 +16187,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16205,7 +16205,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16223,7 +16223,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16241,7 +16241,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16259,7 +16259,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16277,7 +16277,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16295,7 +16295,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16313,7 +16313,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16331,7 +16331,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16349,7 +16349,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16367,7 +16367,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16385,7 +16385,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16403,7 +16403,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16421,7 +16421,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16439,7 +16439,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16457,7 +16457,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192621+0800",
       "my_file": "mobile"
     },
@@ -16637,7 +16637,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16655,7 +16655,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16673,7 +16673,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16691,7 +16691,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16709,7 +16709,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16727,7 +16727,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16745,7 +16745,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16763,7 +16763,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16781,7 +16781,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16799,7 +16799,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16817,7 +16817,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16835,7 +16835,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16853,7 +16853,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16871,7 +16871,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16889,7 +16889,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16907,7 +16907,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -16925,7 +16925,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192621+0800",
       "my_file": "mobile"
     },
@@ -17105,7 +17105,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17123,7 +17123,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17141,7 +17141,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17159,7 +17159,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17177,7 +17177,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17195,7 +17195,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17213,7 +17213,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17231,7 +17231,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17249,7 +17249,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17267,7 +17267,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17285,7 +17285,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17303,7 +17303,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17321,7 +17321,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17339,7 +17339,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17357,7 +17357,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17375,7 +17375,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17393,7 +17393,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192621+0800",
       "my_file": "mobile"
     },
@@ -17411,7 +17411,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192621+0800",
       "my_file": "mobile"
     },
@@ -17591,7 +17591,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17609,7 +17609,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17627,7 +17627,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17645,7 +17645,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17663,7 +17663,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17681,7 +17681,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17699,7 +17699,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17717,7 +17717,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17735,7 +17735,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17753,7 +17753,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17771,7 +17771,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17789,7 +17789,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17807,7 +17807,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -17825,7 +17825,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T192620+0800",
       "my_file": "mobile"
     },
@@ -18149,7 +18149,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18167,7 +18167,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18185,7 +18185,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18203,7 +18203,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18221,7 +18221,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18239,7 +18239,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18257,7 +18257,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18527,7 +18527,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193740+0800",
       "my_file": "mobile"
     },
@@ -18635,7 +18635,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18653,7 +18653,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18671,7 +18671,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18689,7 +18689,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18707,7 +18707,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -18725,7 +18725,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19103,7 +19103,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19121,7 +19121,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19139,7 +19139,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19157,7 +19157,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19175,7 +19175,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19193,7 +19193,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19211,7 +19211,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19589,7 +19589,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19607,7 +19607,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19625,7 +19625,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T193656+0800",
       "my_file": "mobile"
     },
@@ -19967,7 +19967,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -19985,7 +19985,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20003,7 +20003,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20021,7 +20021,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20039,7 +20039,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20057,7 +20057,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20471,7 +20471,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20489,7 +20489,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20507,7 +20507,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20525,7 +20525,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20921,7 +20921,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20939,7 +20939,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20957,7 +20957,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20975,7 +20975,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -20993,7 +20993,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -21011,7 +21011,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -21029,7 +21029,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194955+0800",
       "my_file": "mobile"
     },
@@ -21407,7 +21407,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -21425,7 +21425,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T194934+0800",
       "my_file": "mobile"
     },
@@ -21461,7 +21461,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203110+0800",
       "my_file": "mobile"
     },
@@ -21479,7 +21479,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203113+0800",
       "my_file": "mobile"
     },
@@ -21515,7 +21515,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21533,7 +21533,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21551,7 +21551,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21569,7 +21569,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21587,7 +21587,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21605,7 +21605,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21623,7 +21623,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21641,7 +21641,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21659,7 +21659,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21677,7 +21677,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21695,7 +21695,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21713,7 +21713,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21731,7 +21731,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21749,7 +21749,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21767,7 +21767,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21785,7 +21785,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21803,7 +21803,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21821,7 +21821,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21839,7 +21839,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21857,7 +21857,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -21983,7 +21983,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22001,7 +22001,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22019,7 +22019,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22037,7 +22037,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22055,7 +22055,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22073,7 +22073,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22091,7 +22091,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22109,7 +22109,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22127,7 +22127,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22145,7 +22145,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22163,7 +22163,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22181,7 +22181,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22199,7 +22199,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22217,7 +22217,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22235,7 +22235,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22253,7 +22253,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22271,7 +22271,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22289,7 +22289,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22415,7 +22415,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22433,7 +22433,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22451,7 +22451,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22469,7 +22469,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22487,7 +22487,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22505,7 +22505,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22523,7 +22523,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22541,7 +22541,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22559,7 +22559,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22577,7 +22577,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124128+0800",
       "my_file": "mobile"
     },
@@ -22883,7 +22883,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22901,7 +22901,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22919,7 +22919,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22937,7 +22937,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22955,7 +22955,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22973,7 +22973,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -22991,7 +22991,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23009,7 +23009,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23027,7 +23027,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23045,7 +23045,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23063,7 +23063,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23081,7 +23081,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23099,7 +23099,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23117,7 +23117,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23135,7 +23135,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23153,7 +23153,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23171,7 +23171,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23189,7 +23189,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23207,7 +23207,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23225,7 +23225,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23243,7 +23243,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23261,7 +23261,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23279,7 +23279,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23297,7 +23297,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23315,7 +23315,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23333,7 +23333,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23351,7 +23351,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23369,7 +23369,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23387,7 +23387,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23405,7 +23405,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23423,7 +23423,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T203041+0800",
       "my_file": "mobile"
     },
@@ -23477,7 +23477,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23495,7 +23495,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23513,7 +23513,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23531,7 +23531,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23549,7 +23549,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23567,7 +23567,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23945,7 +23945,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23963,7 +23963,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23981,7 +23981,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -23999,7 +23999,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24017,7 +24017,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24035,7 +24035,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24053,7 +24053,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24413,7 +24413,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24431,7 +24431,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24449,7 +24449,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124041+0800",
       "my_file": "mobile"
     },
@@ -24827,7 +24827,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -24845,7 +24845,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -24863,7 +24863,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -24881,7 +24881,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -24899,7 +24899,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25313,7 +25313,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25331,7 +25331,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25349,7 +25349,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25367,7 +25367,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25781,7 +25781,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25799,7 +25799,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25817,7 +25817,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25835,7 +25835,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -25853,7 +25853,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -26249,7 +26249,7 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
     },
@@ -28409,7 +28409,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28427,7 +28427,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28445,7 +28445,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28463,7 +28463,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28481,7 +28481,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28895,7 +28895,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28913,7 +28913,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28931,7 +28931,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -28949,7 +28949,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -29363,7 +29363,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -29381,7 +29381,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -29399,7 +29399,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -29417,7 +29417,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -29435,7 +29435,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -29849,7 +29849,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T133223+0800",
       "my_file": "mobile"
     },
@@ -31937,7 +31937,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -31955,7 +31955,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -31973,7 +31973,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -32423,7 +32423,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -32441,7 +32441,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -32891,7 +32891,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -32909,7 +32909,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -32927,7 +32927,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T142252+0800",
       "my_file": "mobile"
     },
@@ -36293,7 +36293,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于审理生态环境损害赔偿案件的若干规定（试行）_20201229.doc"
     },
@@ -36383,7 +36383,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于人民法院受理申请承认外国法院离婚判决案件有关问题的规定_20201229.doc"
     },
@@ -36401,7 +36401,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于诉讼代理人查阅民事案件材料的规定_20201229.doc"
     },
@@ -36419,7 +36419,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于依据国际公约和双边司法协助条约办理民商事案件司法文书送达和调查取证司法协助请求的规定_20201229.doc"
     },
@@ -36527,7 +36527,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "mobile"
     },
@@ -36563,7 +36563,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于适用简易程序审理民事案件的若干规定_20201229.doc"
     },
@@ -36617,7 +36617,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于审理医疗损害责任纠纷案件适用法律若干问题的解释_20201229.doc"
     },
@@ -36689,7 +36689,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于适用《中华人民共和国民事诉讼法》审判监督程序若干问题的解释_20201229.doc"
     },
@@ -36743,7 +36743,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于中国公民申请承认外国法院离婚判决程序问题的规定_20201229.doc"
     },
@@ -36779,7 +36779,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于审理民间借贷案件适用法律若干问题的规定_20201229.doc"
     },
@@ -36797,7 +36797,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于人民法院民事调解工作若干问题的规定_20201229.doc"
     },
@@ -36815,7 +36815,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于审理涉及国有土地使用权合同纠纷案件适用法律问题的解释_20201229.doc"
     },
@@ -36869,7 +36869,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T151505+0800",
       "my_file": "最高人民法院关于审理买卖合同纠纷案件适用法律问题的解释_20201229.doc"
     },
@@ -36959,7 +36959,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理矿业权纠纷案件适用法律若干问题的解释_20201229.doc"
     },
@@ -36995,7 +36995,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释_20201229.doc"
     },
@@ -37013,7 +37013,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于产品侵权案件的受害人能否以产品的商标所有人为被告提起民事诉讼的批复_20201229.doc"
     },
@@ -37031,7 +37031,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理涉及农村土地承包经营纠纷调解仲裁案件适用法律若干问题的解释_20201229.doc"
     },
@@ -37049,7 +37049,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于确定民事侵权精神损害赔偿责任若干问题的解释_20201229.doc"
     },
@@ -37085,7 +37085,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于国有土地开荒后用于农耕的土地使用权转让合同纠纷案件如何适用法律问题的批复_20201229.doc"
     },
@@ -37103,7 +37103,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理利用信息网络侵害人身权益民事纠纷案件适用法律若干问题的规定_20201229.doc"
     },
@@ -37139,7 +37139,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理民事案件适用诉讼时效制度若干问题的规定_20201229.doc"
     },
@@ -37157,7 +37157,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理旅游纠纷案件适用法律若干问题的规定_20201229.doc"
     },
@@ -37211,7 +37211,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于债务人在约定的期限届满后未履行债务而出具没有还款日期的欠款条诉讼时效期间应从何时开始计算问题的批复_20201229.doc"
     },
@@ -37247,7 +37247,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理环境民事公益诉讼案件适用法律若干问题的解释_20201229.doc"
     },
@@ -37283,7 +37283,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于在民事审判工作中适用《中华人民共和国工会法》若干问题的解释_20201229.doc"
     },
@@ -37355,7 +37355,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理城镇房屋租赁合同纠纷案件具体应用法律若干问题的解释_20201229.doc"
     },
@@ -37373,7 +37373,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "mobile"
     },
@@ -37409,7 +37409,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理涉及公证活动相关民事案件的若干规定_20201229.doc"
     },
@@ -37427,7 +37427,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理商品房买卖合同纠纷案件适用法律若干问题的解释_20201229.doc"
     },
@@ -37481,7 +37481,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理建筑物区分所有权纠纷案件适用法律若干问题的解释_20201229.doc"
     },
@@ -37535,7 +37535,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理消费民事公益诉讼案件适用法律若干问题的解释_20201229.doc"
     },
@@ -37787,7 +37787,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理民事级别管辖异议案件若干问题的规定_20201229.doc"
     },
@@ -37823,7 +37823,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理涉及农村土地承包纠纷案件适用法律问题的解释_20201229.doc"
     },
@@ -37913,7 +37913,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于对与证券交易所监管职能相关的诉讼案件管辖与受理问题的规定_20201229.doc"
     },
@@ -37985,7 +37985,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于涉外民商事案件诉讼管辖若干问题的规定_20201229.doc"
     },
@@ -38003,7 +38003,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理融资租赁合同纠纷案件适用法律问题的解释_20201229.doc"
     },
@@ -38039,7 +38039,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释_20201229.doc"
     },
@@ -38057,7 +38057,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理铁路运输损害赔偿案件若干问题的解释_20201229.doc"
     },
@@ -38165,7 +38165,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于在审理经济纠纷案件中涉及经济犯罪嫌疑若干问题的规定_20201229.doc"
     },
@@ -38201,7 +38201,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于适用《中华人民共和国民事诉讼法》的解释_20201229.doc"
     },
@@ -38219,7 +38219,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定_20201229.doc"
     },
@@ -38237,7 +38237,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释_20201229.doc"
     },
@@ -38255,7 +38255,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释_20201229.doc"
     },
@@ -38309,7 +38309,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "mobile"
     },
@@ -38327,7 +38327,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T153018+0800",
       "my_file": "mobile"
     },
@@ -39947,7 +39947,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "最高人民检察院关于办理非法经营食盐刑事案件具体应用法律若干问题的解释_20020904.doc"
     },
@@ -40271,7 +40271,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "最高人民检察院关于认定累犯如何确定刑罚执行完毕以后“五年以内”起始日期的批复_20180128.doc"
     },
@@ -40289,7 +40289,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "最高人民检察院关于指派、聘请有专门知识的人参与办案若干问题的规定（试行）_20180321.doc"
     },
@@ -40307,7 +40307,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "人民检察院检察建议工作规定_20190226.doc"
     },
@@ -40325,7 +40325,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "最高人民检察院关于《非药用类麻醉药品和精神药品管制品种增补目录》能否作为认定毒品依据的批复_20190429.doc"
     },
@@ -40343,7 +40343,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "人民检察院刑事诉讼规则_20191230.doc"
     },
@@ -40361,7 +40361,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "人民检察院检察委员会工作规则_20200731.doc"
     },
@@ -40379,7 +40379,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "人民检察院民事诉讼监督规则_20210626.doc"
     },
@@ -40397,7 +40397,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "人民检察院公益诉讼办案规则_20210629.doc"
     },
@@ -40415,7 +40415,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T154930+0800",
       "my_file": "人民检察院行政诉讼监督规则_20210727.doc"
     },
@@ -41639,7 +41639,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T162047+0800",
       "my_file": "最高人民法院+最高人民检察院关于缓刑犯在考验期满后五年内再犯应当判处有期徒刑以上刑罚之罪应否认定为累犯问题的批复_20200117.doc"
     },
@@ -41693,7 +41693,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T162047+0800",
       "my_file": "最高人民法院、最高人民检察院关于检察公益诉讼案件适用法律若干问题的解释_20201229.doc"
     },
@@ -41747,7 +41747,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T162047+0800",
       "my_file": "最高人民法院、最高人民检察院关于办理危害药品安全刑事案件适用法律若干问题的解释_20220303.doc"
     },
@@ -42341,7 +42341,7 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": 200,
+      "my_status": -2,
       "my_time": "20250916T162047+0800",
       "my_file": "最高人民检察院关于废止部分司法解释性质文件和规范性文件的决定_20190614.doc"
     },
