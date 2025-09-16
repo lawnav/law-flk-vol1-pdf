@@ -1,10 +1,10 @@
 {
-  "update": "20250916T224522+0800",
+  "update": "20250916T232731+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 1990,
-    "error": 295,
+    "download": 2040,
+    "error": 245,
     "duplicate": 0,
     "new": 50
   },
@@ -16390,24 +16390,6 @@
       "my_file": "婚姻登记条例_20030808.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f40eb6e400b4b",
-      "title": "地质灾害防治条例",
-      "gbrq": "2003-11-24",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T224409+0800",
-      "my_file": "地质灾害防治条例_20031124.docx"
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f40ea51880ae9",
       "title": "建设工程安全生产管理条例",
       "gbrq": "2003-11-24",
@@ -16424,6 +16406,24 @@
       "my_status": 200,
       "my_time": "20250916T224410+0800",
       "my_file": "建设工程安全生产管理条例_20031124.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40eb6e400b4b",
+      "title": "地质灾害防治条例",
+      "gbrq": "2003-11-24",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T224409+0800",
+      "my_file": "地质灾害防治条例_20031124.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f09a970cb8",
@@ -17609,7 +17609,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "规划环境影响评价条例_20090817.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e063d508c7",
@@ -17625,7 +17627,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "放射性物品运输安全管理条例_20090914.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e4a00f099b",
@@ -17641,7 +17645,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "保安服务管理条例_20091013.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e5c1d509d0",
@@ -17657,7 +17663,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "政府参事工作条例_20091102.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e9711d0aae",
@@ -17673,7 +17681,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "外国企业或者个人在中国境内设立合伙企业管理办法_20091125.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40eade8c0b13",
@@ -17689,7 +17699,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "行政学院工作条例_20091222.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d64b350674",
@@ -17705,7 +17717,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国审计法实施条例_20100211.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40ef0c4e0c2b",
@@ -17721,7 +17735,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "全国人口普查条例_20100524.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414eda7e2148",
@@ -17737,7 +17753,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中国人民解放军现役士兵服役条例_20100726.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f290a30d5c",
@@ -17753,7 +17771,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国无线电管制规定_20100831.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f491e90ded",
@@ -17769,7 +17789,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "武器装备质量管理条例_20100930.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4103cde6117b",
@@ -17785,7 +17807,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "价格违法行为行政处罚规定_20101204.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d5bc0f0659",
@@ -17801,7 +17825,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "工伤保险条例_20101220.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4030eb5e014c",
@@ -17856,22 +17882,6 @@
       "my_status": 200,
       "my_time": "20250916T193655+0800",
       "my_file": "外国公司船舶运输收入征税办法_20110108.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f4086cb9f03c4",
-      "title": "中华人民共和国乡村集体所有制企业条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f409356ff04b6",
@@ -17946,22 +17956,6 @@
       "my_file": "突发公共卫生事件应急条例_20110108.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f40dda3dd082f",
-      "title": "计算机信息网络国际联网安全保护管理办法",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f40dea19f087a",
       "title": "医疗废物管理条例",
       "gbrq": "2011-01-08",
@@ -17978,22 +17972,6 @@
       "my_status": 200,
       "my_time": "20250916T193655+0800",
       "my_file": "医疗废物管理条例_20110108.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40e3c9570960",
-      "title": "中华人民共和国国库券条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e624ce09f0",
@@ -18086,22 +18064,6 @@
       "my_file": "中华人民共和国金银管理条例_20110108.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f40f2cb480d6e",
-      "title": "储蓄管理条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f40f6b8170e88",
       "title": "基本农田保护条例",
       "gbrq": "2011-01-08",
@@ -18138,38 +18100,6 @@
       "my_file": "关于骗购外汇、非法套汇、逃汇、非法买卖外汇等违反外汇管理规定行为的行政处分或者纪律处分暂行规定_20110108.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f40fb1f7e0f8b",
-      "title": "地震监测管理条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40fc47f00fd5",
-      "title": "中华人民共和国城市维护建设税暂行条例",
-      "gbrq": "2011-01-08",
-      "sxrq": "2011-01-08",
-      "sxx": 1,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f4100376a10b8",
       "title": "电网调度管理条例",
       "gbrq": "2011-01-08",
@@ -18204,22 +18134,6 @@
       "my_status": 200,
       "my_time": "20250916T193655+0800",
       "my_file": "产品质量监督试行办法_20110108.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f410548bf11b9",
-      "title": "中华人民共和国水土保持法实施条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4106f07d1215",
@@ -18276,22 +18190,6 @@
       "my_file": "卖淫嫖娼人员收容教育办法_20110108.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f41124ba91528",
-      "title": "中华人民共和国海关对出口加工区监管的暂行办法",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f4115a6ee1622",
       "title": "财政违法行为处罚处分条例",
       "gbrq": "2011-01-08",
@@ -18308,22 +18206,6 @@
       "my_status": 200,
       "my_time": "20250916T193655+0800",
       "my_file": "财政违法行为处罚处分条例_20110108.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f4118e47616f1",
-      "title": "互联网信息服务管理办法",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411bd9e317a0",
@@ -18686,22 +18568,6 @@
       "my_file": "电力设施保护条例_20110108.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f415098d0219a",
-      "title": "开发建设晋陕蒙接壤地区水土保持规定",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f4151b6f121d7",
       "title": "渔业资源增殖保护费征收使用办法",
       "gbrq": "2011-01-08",
@@ -18736,22 +18602,6 @@
       "my_status": 200,
       "my_time": "20250916T193655+0800",
       "my_file": "旅馆业治安管理办法_20110108.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f415440e22252",
-      "title": "中国人民武装警察部队实行警官警衔制度的具体办法",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f415bf9202349",
@@ -18844,54 +18694,6 @@
       "my_file": "中华人民共和国航标条例_20110108.docx"
     },
     {
-      "bbbs": "ff8080816f3e98bd016f41fa1903025d",
-      "title": "中华人民共和国水下文物保护管理条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3e98bd016f4205c511030c",
-      "title": "国家重点建设项目管理办法",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3e98bd016f42096fb0034b",
-      "title": "中华人民共和国民用航空安全保卫条例",
-      "gbrq": "2011-01-08",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3e98bd016f4256565b0528",
       "title": "总会计师条例",
       "gbrq": "2011-01-08",
@@ -18908,6 +18710,258 @@
       "my_status": 200,
       "my_time": "20250916T193655+0800",
       "my_file": "总会计师条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40fb1f7e0f8b",
+      "title": "地震监测管理条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "地震监测管理条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3e98bd016f41fa1903025d",
+      "title": "中华人民共和国水下文物保护管理条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国水下文物保护管理条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40fc47f00fd5",
+      "title": "中华人民共和国城市维护建设税暂行条例",
+      "gbrq": "2011-01-08",
+      "sxrq": "2011-01-08",
+      "sxx": 1,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国城市维护建设税暂行条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3e98bd016f4205c511030c",
+      "title": "国家重点建设项目管理办法",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "国家重点建设项目管理办法_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3e98bd016f42096fb0034b",
+      "title": "中华人民共和国民用航空安全保卫条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国民用航空安全保卫条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f410548bf11b9",
+      "title": "中华人民共和国水土保持法实施条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国水土保持法实施条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4086cb9f03c4",
+      "title": "中华人民共和国乡村集体所有制企业条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国乡村集体所有制企业条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f41124ba91528",
+      "title": "中华人民共和国海关对出口加工区监管的暂行办法",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国海关对出口加工区监管的暂行办法_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40dda3dd082f",
+      "title": "计算机信息网络国际联网安全保护管理办法",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "计算机信息网络国际联网安全保护管理办法_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4118e47616f1",
+      "title": "互联网信息服务管理办法",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "互联网信息服务管理办法_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40e3c9570960",
+      "title": "中华人民共和国国库券条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国国库券条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f415098d0219a",
+      "title": "开发建设晋陕蒙接壤地区水土保持规定",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "开发建设晋陕蒙接壤地区水土保持规定_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40f2cb480d6e",
+      "title": "储蓄管理条例",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "储蓄管理条例_20110108.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f415440e22252",
+      "title": "中国人民武装警察部队实行警官警衔制度的具体办法",
+      "gbrq": "2011-01-08",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中国人民武装警察部队实行警官警衔制度的具体办法_20110108.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f952c30f20",
@@ -19049,7 +19103,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "太湖流域管理条例_20110907.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411fb11d18ac",
@@ -19065,7 +19121,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国资源税暂行条例_20110930.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4107202c1225",
@@ -19081,7 +19139,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "退役士兵安置条例_20111029.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41099ee712ca",
@@ -19097,7 +19157,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "放射性废物安全管理条例_20111220.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410bdd5f136c",
@@ -19113,7 +19175,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "拘留所条例_20120223.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410cc91813b9",
@@ -19129,7 +19193,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "海洋观测预报管理条例_20120301.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410de77e1403",
@@ -19145,7 +19211,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "校车安全管理条例_20120405.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410f1ed51451",
@@ -19521,7 +19589,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "铁路安全管理条例_20130817.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411d9724181e",
@@ -19537,7 +19607,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "长江三峡水利枢纽安全保卫条例_20130909.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411f06171886",
@@ -19553,7 +19625,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "城镇排水与污水处理条例_20131002.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414b0c30208a",
@@ -19808,22 +19882,6 @@
       "my_file": "证券公司监督管理条例_20140729.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f408cf365041e",
-      "title": "中华人民共和国植物新品种保护条例",
-      "gbrq": "2014-07-29",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f40e43f200984",
       "title": "矿产资源勘查区块登记管理办法",
       "gbrq": "2014-07-29",
@@ -19840,86 +19898,6 @@
       "my_status": 200,
       "my_time": "20250916T194934+0800",
       "my_file": "矿产资源勘查区块登记管理办法_20140729.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40e6cfc60a15",
-      "title": "矿产资源开采登记管理办法",
-      "gbrq": "2014-07-29",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40e7f1820a4c",
-      "title": "探矿权采矿权转让管理办法",
-      "gbrq": "2014-07-29",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40ee9ee50c0f",
-      "title": "安全生产许可证条例",
-      "gbrq": "2014-07-29",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40f5a2050e35",
-      "title": "中华人民共和国土地管理法实施条例",
-      "gbrq": "2014-07-29",
-      "sxrq": null,
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f4111ebea1515",
-      "title": "国务院关于通用航空管理的暂行规定",
-      "gbrq": "2014-07-29",
-      "sxrq": null,
-      "sxx": 1,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4132de6f1c90",
@@ -19974,6 +19952,114 @@
       "my_status": 200,
       "my_time": "20250916T194934+0800",
       "my_file": "高等教育自学考试暂行条例_20140729.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40e6cfc60a15",
+      "title": "矿产资源开采登记管理办法",
+      "gbrq": "2014-07-29",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "矿产资源开采登记管理办法_20140729.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40e7f1820a4c",
+      "title": "探矿权采矿权转让管理办法",
+      "gbrq": "2014-07-29",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "探矿权采矿权转让管理办法_20140729.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40ee9ee50c0f",
+      "title": "安全生产许可证条例",
+      "gbrq": "2014-07-29",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "安全生产许可证条例_20140729.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40f5a2050e35",
+      "title": "中华人民共和国土地管理法实施条例",
+      "gbrq": "2014-07-29",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国土地管理法实施条例_20140729.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4111ebea1515",
+      "title": "国务院关于通用航空管理的暂行规定",
+      "gbrq": "2014-07-29",
+      "sxrq": null,
+      "sxx": 1,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "国务院关于通用航空管理的暂行规定_20140729.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f408cf365041e",
+      "title": "中华人民共和国植物新品种保护条例",
+      "gbrq": "2014-07-29",
+      "sxrq": null,
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国植物新品种保护条例_20140729.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4126e4831a08",
@@ -20372,22 +20458,6 @@
       "my_file": "兽药管理条例_20160206.docx"
     },
     {
-      "bbbs": "ff8080816f3cbb3c016f40f59ddc0e2f",
-      "title": "城镇燃气管理条例",
-      "gbrq": "2016-02-06",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
       "bbbs": "ff8080816f3cbb3c016f40f6605d0e74",
       "title": "粮食流通管理条例",
       "gbrq": "2016-02-06",
@@ -20404,22 +20474,6 @@
       "my_status": 200,
       "my_time": "20250916T194934+0800",
       "my_file": "粮食流通管理条例_20160206.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f40f93dba0f16",
-      "title": "危险废物经营许可证管理办法",
-      "gbrq": "2016-02-06",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410062d210c1",
@@ -20456,38 +20510,6 @@
       "my_status": 200,
       "my_time": "20250916T194934+0800",
       "my_file": "证券交易所风险基金管理暂行办法_20160206.docx"
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f4113d48215af",
-      "title": "气象设施和气象探测环境保护条例",
-      "gbrq": "2016-02-06",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
-    },
-    {
-      "bbbs": "ff8080816f3cbb3c016f4117a46d169e",
-      "title": "中华人民共和国电信条例",
-      "gbrq": "2016-02-06",
-      "sxrq": null,
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": -2
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41185f3516da",
@@ -20742,6 +20764,78 @@
       "my_file": "退耕还林条例_20160206.docx"
     },
     {
+      "bbbs": "ff8080816f3cbb3c016f40f93dba0f16",
+      "title": "危险废物经营许可证管理办法",
+      "gbrq": "2016-02-06",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "危险废物经营许可证管理办法_20160206.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4113d48215af",
+      "title": "气象设施和气象探测环境保护条例",
+      "gbrq": "2016-02-06",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "气象设施和气象探测环境保护条例_20160206.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f4117a46d169e",
+      "title": "中华人民共和国电信条例",
+      "gbrq": "2016-02-06",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国电信条例_20160206.docx"
+    },
+    {
+      "bbbs": "ff8080816f3cbb3c016f40f59ddc0e2f",
+      "title": "城镇燃气管理条例",
+      "gbrq": "2016-02-06",
+      "sxrq": null,
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "城镇燃气管理条例_20160206.docx"
+    },
+    {
       "bbbs": "ff8080816f3cbb3c016f412e35e31b74",
       "title": "全国社会保障基金条例",
       "gbrq": "2016-03-10",
@@ -20827,7 +20921,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "国务院对确需保留的行政审批项目设定行政许可的决定_20160825.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410b18b01324",
@@ -20843,7 +20939,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "中华人民共和国无线电管理条例_20161111.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413065461be0",
@@ -20859,7 +20957,9 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -2
+      "my_status": 200,
+      "my_time": "20250916T232629+0800",
+      "my_file": "企业投资项目核准和备案管理条例_20161130.docx"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4137eaa21d7b",
