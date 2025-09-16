@@ -1,9 +1,9 @@
 {
-  "update": "20250916T125152+0800",
+  "update": "20250916T131635+0800",
   "duplicate": {},
   "stats": {
     "total": 2362,
-    "download": 1452,
+    "download": 1552,
     "error": 0,
     "duplicate": 0,
     "new": 100
@@ -24652,96 +24652,6 @@
       "my_file": "中华人民共和国水下文物保护管理条例_20220123.docx"
     },
     {
-      "bbbs": "ff80818180e0a44101811e45c0ec14ba",
-      "title": "中华人民共和国计量法实施细则",
-      "gbrq": "2022-03-29",
-      "sxrq": "2022-05-01",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "中华人民共和国计量法实施细则_20220329.docx"
-    },
-    {
-      "bbbs": "ff80818180e0a61301811e2624a51e9a",
-      "title": "旅馆业治安管理办法",
-      "gbrq": "2022-03-29",
-      "sxrq": "2022-05-01",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "旅馆业治安管理办法_20220329.docx"
-    },
-    {
-      "bbbs": "ff80818180e0a44101811e3947411441",
-      "title": "中华人民共和国道路运输条例",
-      "gbrq": "2022-03-29",
-      "sxrq": "2022-05-01",
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "中华人民共和国道路运输条例_20220329.docx"
-    },
-    {
-      "bbbs": "ff80818180e0a5d001811e1e376112a6",
-      "title": "互联网上网服务营业场所管理条例",
-      "gbrq": "2022-03-29",
-      "sxrq": "2022-05-01",
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "互联网上网服务营业场所管理条例_20220329.docx"
-    },
-    {
-      "bbbs": "ff80818180e0a5d001811e1493b3127a",
-      "title": "放射性药品管理办法",
-      "gbrq": "2022-03-29",
-      "sxrq": "2022-05-01",
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "放射性药品管理办法_20220329.docx"
-    },
-    {
       "bbbs": "ff80818180e0a44101811e02f73c12bf",
       "title": "保安服务管理条例",
       "gbrq": "2022-03-29",
@@ -24884,6 +24794,96 @@
       "my_status": 200,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff80818180e0a44101811e45c0ec14ba",
+      "title": "中华人民共和国计量法实施细则",
+      "gbrq": "2022-03-29",
+      "sxrq": "2022-05-01",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "中华人民共和国计量法实施细则_20220329.docx"
+    },
+    {
+      "bbbs": "ff80818180e0a61301811e2624a51e9a",
+      "title": "旅馆业治安管理办法",
+      "gbrq": "2022-03-29",
+      "sxrq": "2022-05-01",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "旅馆业治安管理办法_20220329.docx"
+    },
+    {
+      "bbbs": "ff80818180e0a44101811e3947411441",
+      "title": "中华人民共和国道路运输条例",
+      "gbrq": "2022-03-29",
+      "sxrq": "2022-05-01",
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "中华人民共和国道路运输条例_20220329.docx"
+    },
+    {
+      "bbbs": "ff80818180e0a5d001811e1e376112a6",
+      "title": "互联网上网服务营业场所管理条例",
+      "gbrq": "2022-03-29",
+      "sxrq": "2022-05-01",
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "互联网上网服务营业场所管理条例_20220329.docx"
+    },
+    {
+      "bbbs": "ff80818180e0a5d001811e1493b3127a",
+      "title": "放射性药品管理办法",
+      "gbrq": "2022-03-29",
+      "sxrq": "2022-05-01",
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "放射性药品管理办法_20220329.docx"
     },
     {
       "bbbs": "ff8081817fd9834101805a3581e56820",
@@ -25046,42 +25046,6 @@
       "my_status": 200,
       "my_time": "20250916T124950+0800",
       "my_file": "中华人民共和国领事保护与协助条例_20230709.docx"
-    },
-    {
-      "bbbs": "ff8081818a1cb546018a6e3759cd6d5c",
-      "title": "中华人民共和国母婴保健法实施办法",
-      "gbrq": "2023-07-20",
-      "sxrq": "2023-07-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "中华人民共和国母婴保健法实施办法_20230720.docx"
-    },
-    {
-      "bbbs": "ff8081818a22132f018a6e34c3f922f4",
-      "title": "长江河道采砂管理条例",
-      "gbrq": "2023-07-20",
-      "sxrq": "2023-07-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2,
-      "my_status": 200,
-      "my_time": "20250916T124950+0800",
-      "my_file": "长江河道采砂管理条例_20230720.docx"
     },
     {
       "bbbs": "ff8081818a1cb546018a6e3495ce6d4a",
@@ -25298,6 +25262,42 @@
       "my_status": 200,
       "my_time": "20250916T124950+0800",
       "my_file": "mobile"
+    },
+    {
+      "bbbs": "ff8081818a1cb546018a6e3759cd6d5c",
+      "title": "中华人民共和国母婴保健法实施办法",
+      "gbrq": "2023-07-20",
+      "sxrq": "2023-07-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "中华人民共和国母婴保健法实施办法_20230720.docx"
+    },
+    {
+      "bbbs": "ff8081818a22132f018a6e34c3f922f4",
+      "title": "长江河道采砂管理条例",
+      "gbrq": "2023-07-20",
+      "sxrq": "2023-07-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T124950+0800",
+      "my_file": "长江河道采砂管理条例_20230720.docx"
     },
     {
       "bbbs": "ff8081818a1cb709018a6dbc91b6301d",
@@ -25984,186 +25984,6 @@
       "my_file": "全国年节及纪念日放假办法_20241110.docx"
     },
     {
-      "bbbs": "ff8081819667441b0196a8cbfc2c331b",
-      "title": "印刷业管理条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff808181966737700196a98c5d5a338b",
-      "title": "印铸刻字业暂行管理规则",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff808181966737700196a99664ed33de",
-      "title": "外国人在中华人民共和国收养子女登记办法",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a99fddf0349c",
-      "title": "外国律师事务所驻华代表机构管理条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a948764f3356",
-      "title": "使用有毒物品作业场所劳动保护条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff808181966737700196a953deca32eb",
-      "title": "互联网上网服务营业场所管理条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a8b3aa6f328b",
-      "title": "中华人民共和国企业所得税法实施条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a8869e9531f7",
-      "title": "地震监测管理条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a95705aa338f",
-      "title": "广播电视管理条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a8a62afa3257",
-      "title": "医疗器械监督管理条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a9938e883454",
-      "title": "互联网信息服务管理办法",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 3,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
-      "bbbs": "ff8081819667441b0196a99b6ca13483",
-      "title": "婚姻登记条例",
-      "gbrq": "2024-12-06",
-      "sxrq": "2025-01-20",
-      "sxx": 2,
-      "zdjgName": "国务院",
-      "xgzlHighLight": null,
-      "flxz": "行政法规",
-      "zdjgCodeId": 120,
-      "flfgCodeId": 210,
-      "score": 0.0,
-      "my_dir": "行政法规",
-      "my_cate": 2
-    },
-    {
       "bbbs": "ff808181966737700196a8c35f863256",
       "title": "出版管理条例",
       "gbrq": "2024-12-06",
@@ -26326,6 +26146,222 @@
       "my_file": "mobile"
     },
     {
+      "bbbs": "ff8081819667441b0196a8cbfc2c331b",
+      "title": "印刷业管理条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "印刷业管理条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff808181966737700196a98c5d5a338b",
+      "title": "印铸刻字业暂行管理规则",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "印铸刻字业暂行管理规则_20241206.docx"
+    },
+    {
+      "bbbs": "ff808181966737700196a99664ed33de",
+      "title": "外国人在中华人民共和国收养子女登记办法",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "外国人在中华人民共和国收养子女登记办法_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a99fddf0349c",
+      "title": "外国律师事务所驻华代表机构管理条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "外国律师事务所驻华代表机构管理条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a948764f3356",
+      "title": "使用有毒物品作业场所劳动保护条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "使用有毒物品作业场所劳动保护条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff808181966737700196a953deca32eb",
+      "title": "互联网上网服务营业场所管理条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "互联网上网服务营业场所管理条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a8b3aa6f328b",
+      "title": "中华人民共和国企业所得税法实施条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "中华人民共和国企业所得税法实施条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a8869e9531f7",
+      "title": "地震监测管理条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "地震监测管理条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a95705aa338f",
+      "title": "广播电视管理条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "广播电视管理条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a8a62afa3257",
+      "title": "医疗器械监督管理条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "医疗器械监督管理条例_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a9938e883454",
+      "title": "互联网信息服务管理办法",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 3,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "互联网信息服务管理办法_20241206.docx"
+    },
+    {
+      "bbbs": "ff8081819667441b0196a99b6ca13483",
+      "title": "婚姻登记条例",
+      "gbrq": "2024-12-06",
+      "sxrq": "2025-01-20",
+      "sxx": 2,
+      "zdjgName": "国务院",
+      "xgzlHighLight": null,
+      "flxz": "行政法规",
+      "zdjgCodeId": 120,
+      "flfgCodeId": 210,
+      "score": 0.0,
+      "my_dir": "行政法规",
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "婚姻登记条例_20241206.docx"
+    },
+    {
       "bbbs": "ff808181927f093101948c99764b2827",
       "title": "国务院关于规范中介机构为公司公开发行股票提供服务的规定",
       "gbrq": "2025-01-10",
@@ -26338,7 +26374,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于规范中介机构为公司公开发行股票提供服务的规定_20250110.docx"
     },
     {
       "bbbs": "ff808181927f127601960f9a6e1305fb",
@@ -26353,7 +26392,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "公共安全视频图像信息系统管理条例_20250113.docx"
     },
     {
       "bbbs": "ff808181927f0e7b0194df911b13227e",
@@ -26368,7 +26410,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "古树名木保护条例_20250125.docx"
     },
     {
       "bbbs": "ff808181927f1276019610edc3930a02",
@@ -26383,7 +26428,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于涉外知识产权纠纷处理的规定_20250313.docx"
     },
     {
       "bbbs": "ff808181927f1276019610f4dde60a27",
@@ -26398,7 +26446,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "保障中小企业款项支付条例_20250317.docx"
     },
     {
       "bbbs": "ff808181927f1276019610ff1af90a55",
@@ -26413,7 +26464,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "实施《中华人民共和国反外国制裁法》的规定_20250323.docx"
     },
     {
       "bbbs": "ff808181927f1276019643173f20705f",
@@ -26428,7 +26482,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "中国人民解放军实施《中华人民共和国药品管理法》办法_20250405.docx"
     },
     {
       "bbbs": "ff808181927f12760196429801fb66cf",
@@ -26443,7 +26500,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "婚姻登记条例_20250406.docx"
     },
     {
       "bbbs": "ff808181927f0e7b019661ec88062784",
@@ -26458,7 +26518,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "快递暂行条例_20250413.docx"
     },
     {
       "bbbs": "ff808181971b86bf0197ca7d3a3a3774",
@@ -26473,7 +26536,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "中华人民共和国植物新品种保护条例_20250429.docx"
     },
     {
       "bbbs": "ff808181971b86bf0197353476d54a84",
@@ -26488,7 +26554,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "重要军工设施保护条例_20250519.docx"
     },
     {
       "bbbs": "ff808181971b86bf019762f8ffd5005e",
@@ -26503,7 +26572,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "政务数据共享条例_20250528.docx"
     },
     {
       "bbbs": "ff808181971b86bf0197a61d2a06193a",
@@ -26518,7 +26590,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "互联网平台企业涉税信息报送规定_20250620.docx"
     },
     {
       "bbbs": "ff808181971b86bf0197ca572e8d3696",
@@ -26533,7 +26608,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "蓄滞洪区运用补偿办法_20250623.docx"
     },
     {
       "bbbs": "ff808181983198da01983f9ff1be5b2c",
@@ -26548,7 +26626,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "住房租赁条例_20250716.docx"
     },
     {
       "bbbs": "ff808181983199e801983bb37e1e4157",
@@ -26563,7 +26644,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "农村公路条例_20250716.docx"
     },
     {
       "bbbs": "ff8081817d3c1e89017d45a6032602f6",
@@ -26578,7 +26662,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于废止部分行政法规的决定_20210909.docx"
     },
     {
       "bbbs": "ff8081817d99a651017dda9f07382bd4",
@@ -26593,7 +26680,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改《中华人民共和国烟草专卖法实施条例》的决定_20211110.docx"
     },
     {
       "bbbs": "ff808181804a1c5001805a8f14f1053b",
@@ -26608,7 +26698,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改和废止部分行政法规的决定_20220329.docx"
     },
     {
       "bbbs": "ca065ba07dc3438dbf27052383c5788e",
@@ -26623,7 +26716,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于废止部分行政法规和文件的决定_20230214.docx"
     },
     {
       "bbbs": "5a44efbbfed84e90aa82a1429faf7abe",
@@ -26638,7 +26734,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改《中华人民共和国专利法实施细则》的决定_20231211.docx"
     },
     {
       "bbbs": "86370f23d4bd4f06a94b85911c293abe",
@@ -26653,7 +26752,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改《消耗臭氧层物质管理条例》的决定_20231229.docx"
     },
     {
       "bbbs": "ff808181966737700196a9c343c53515",
@@ -26668,7 +26770,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改部分行政法规和国务院决定的决定_20240113.docx"
     },
     {
       "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
@@ -26683,7 +26788,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改和废止部分行政法规的决定_20240310.docx"
     },
     {
       "bbbs": "256820a0ca114014b5a067d7baaea90a",
@@ -26698,7 +26806,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改《国家科学技术奖励条例》的决定_20240526.docx"
     },
     {
       "bbbs": "f77b02f59d8e4b2e8299e4bf37f8862f",
@@ -26713,7 +26824,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改《全国年节及纪念日放假办法》的决定_20241110.docx"
     },
     {
       "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
@@ -26728,7 +26842,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改和废止部分行政法规的决定_20241206.docx"
     },
     {
       "bbbs": "5e6d07e383c9468e8435e6d3c23b9d33",
@@ -26743,7 +26860,10 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "国务院关于修改《快递暂行条例》的决定_20250413.docx"
     },
     {
       "bbbs": "ff8081817c92ddac017c975afebd26d0",
@@ -26758,7 +26878,10 @@
       "flfgCodeId": 220,
       "score": 0.0,
       "my_dir": "监察法规",
-      "my_cate": 3
+      "my_cate": 3,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "中华人民共和国监察法实施条例_20210920.docx"
     },
     {
       "bbbs": "ff80818198a7ecd40198e24493592f36",
@@ -26773,7 +26896,10 @@
       "flfgCodeId": 220,
       "score": 0.0,
       "my_dir": "监察法规",
-      "my_cate": 3
+      "my_cate": 3,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "中华人民共和国监察法实施条例_20250601.docx"
     },
     {
       "bbbs": "402881e46005230d016005b3793d077f",
@@ -26788,7 +26914,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于平反纠正的冤错案件的诉讼卷宗如何处理问题的批复_19780905.docx"
     },
     {
       "bbbs": "402881e46000e279016001cf5f7d0bd7",
@@ -26803,7 +26932,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于对“文化大革命”前判处的刑事案件提出的申诉应如何处理的通知_19800215.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe8dd8101f5",
@@ -26818,7 +26950,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院　国务院宗教事务局关于寺庙、道观房屋产权归属问题的复函_19810127.docx"
     },
     {
       "bbbs": "402881e46000e279016001d0c63b0bf6",
@@ -26833,7 +26968,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于定期宣判的案件人民陪审员因故不能参加审判时可否由审判员开庭宣判问题的批复_19810804.docx"
     },
     {
       "bbbs": "402881e46000e279016001b83b9909d7",
@@ -26848,7 +26986,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于人民法院公开审判非涉外案件是否准许外国人旁听或采访问题的批复_19820705.docx"
     },
     {
       "bbbs": "402881e45ffff950016000555c190487",
@@ -26863,7 +27004,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院研究室关于因错判在服刑期“脱逃”后确有犯罪其错判服刑期限可否与后判刑期折抵问题的电话答复_19830831.docx"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb3850da016e",
@@ -26878,7 +27022,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于执行《民事政策法律若干问题的意见》中几个涉及房屋典当问题的函_19850224.docx"
     },
     {
       "bbbs": "402881e45ffff950016000542de3046a",
@@ -26893,7 +27040,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于认真学习宣传和贯彻执行继承法的通知_19850612.docx"
     },
     {
       "bbbs": "402881e45ffff950016000ac3a190a80",
@@ -26908,7 +27058,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于贯彻执行《中华人民共和国继承法》若干问题的意见_19850911.docx"
     },
     {
       "bbbs": "402881e46005230d0160059041cb05db",
@@ -26923,7 +27076,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于人民法院司法统计工作的若干规定_19851121.docx"
     },
     {
       "bbbs": "402881e45ffff950016000b724760b62",
@@ -26938,7 +27094,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院、公安部关于海事法院审判人员等处理海事案件登外轮问题的通知_19861025.docx"
     },
     {
       "bbbs": "402881e46000e279016001974ce10737",
@@ -26953,7 +27112,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于应当允许检察院派书记员随检察长或检察员出庭支持公诉的通知_19861107.docx"
     },
     {
       "bbbs": "402881e46005230d0160055aa40f0219",
@@ -26968,7 +27130,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于执行我国加入的《承认及执行外国仲裁裁决公约》的通知_19870410.docx"
     },
     {
       "bbbs": "402881e46000e2790160014e00d301c5",
@@ -26983,7 +27148,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院对在审判工作中有关适用民法通则时效的几个问题的批复_19870522.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc094fba0420",
@@ -26998,7 +27166,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于被告人亲属主动为被告人退缴赃款应如何处理的批复_19870826.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbda46150119",
@@ -27013,7 +27184,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于乡政府与其他单位签订的联营协议效力问题的批复_19880109.docx"
     },
     {
       "bbbs": "402881e46000e2790160016a5ca50425",
@@ -27028,7 +27202,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于人民法院发现已经受理的申请执行仲裁裁决或不服仲裁裁决而起诉的案件不属本院管辖应如何处理问题的批复_19880113.docx"
     },
     {
       "bbbs": "402881e46000e2790160014a1feb0179",
@@ -27043,7 +27220,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于保险金能否作为被保险人遗产的批复_19880324.docx"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb31267d00e7",
@@ -27058,7 +27238,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院印发《关于贯彻执行〈中华人民共和国民法通则〉若干问题的意见（试行）》的通知_19880402.docx"
     },
     {
       "bbbs": "402881e46005230d01600564eac70373",
@@ -27073,7 +27256,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院印发《处理涉台刑事申诉、民事案件座谈会纪要》的通知_19880805.docx"
     },
     {
       "bbbs": "402881e46005230d016005b146ee076d",
@@ -27088,7 +27274,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于各级人民法院与港方签订有关法律事务协议的须先报经最高人民法院审查批准的通知_19880825.docx"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb359bc70138",
@@ -27103,7 +27292,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于作为保证人的合伙组织被撤销后自行公告期限清理债权债务的，债权人在诉讼时效期间内有权要求合伙人承担保证责任问题的批复_19881018.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbd8089d00f8",
@@ -27118,7 +27310,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于信用社违反规定手续退汇给他人造成损失应承担民事责任问题的批复_19881018.docx"
     },
     {
       "bbbs": "402881e46000e279016001a56615086f",
@@ -27133,7 +27328,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于审理劳动争议案件诉讼当事人问题的批复_19881019.docx"
     },
     {
       "bbbs": "402881e46000e27901600137776d0068",
@@ -27148,7 +27346,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于单位负责人被追究刑事责任后单位应否承担返还其预收货款的责任问题的批复_19890103.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc3e686a07d7",
@@ -27163,7 +27364,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院研究室关于对再审改判前因犯新罪被加刑的罪犯再审时如何确定执行的刑罚问题的电话答复_19890524.docx"
     },
     {
       "bbbs": "402881e46000e2790160013590c70052",
@@ -27178,7 +27382,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于典当房屋被视为绝卖以后确认产权程序问题的批复_19890724.docx"
     },
     {
       "bbbs": "402881e45ffff95001600075827606dd",
@@ -27193,7 +27400,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于人民法院审理离婚案件如何认定夫妻感情确已破裂的若干具体意见_19891213.docx"
     },
     {
       "bbbs": "402881e45ffff9500160009c1f5d098c",
@@ -27208,7 +27418,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于第二审人民法院因追加、更换当事人发回重审的民事裁定书上，应如何列当事人问题的批复_19900414.docx"
     },
     {
       "bbbs": "402881e45ffff9500160009d5b6d09a8",
@@ -27223,7 +27436,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于第二审人民法院在审理过程中可否对当事人的违法行为径行制裁等问题的批复_19900725.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe9f9430206",
@@ -27238,7 +27454,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于私房改造中典当双方都是被改造户的回赎案件应如何处理问题的批复_19900725.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbdc0b890134",
@@ -27253,7 +27472,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于违反计划生育政策的超生子女可否列为职工的供养直系亲属等问题的复函_19900813.docx"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb88cb9b0421",
@@ -27268,7 +27490,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于银行工作人员未按规定办理储户挂失造成储户损失银行是否承担民事责任问题的批复_19900911.docx"
     },
     {
       "bbbs": "402881e46000e2790160013cb92700cc",
@@ -27283,7 +27508,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于军队单位作为经济纠纷案件的当事人可否对其银行账户上的存款采取诉讼保全和军队费用能否强行划拨偿还债务问题的批复_19901009.docx"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb85c6c203ce",
@@ -27298,7 +27526,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于印发《关于审理联营合同纠纷案件若干问题的解答》的通知_19901112.docx"
     },
     {
       "bbbs": "402881e46000e2790160013dcdf100da",
@@ -27313,7 +27544,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于军队离退休干部腾退军产房纠纷法院是否受理的复函_19910131.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc7a69410dc3",
@@ -27328,7 +27562,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院研究室关于如何理解“审判的时候怀孕的妇女不适用死刑”问题的电话答复_19910318.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc8033620e40",
@@ -27343,7 +27580,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院研究室关于申付强诈骗案如何认定诈骗数额问题的电话答复_19910423.docx"
     },
     {
       "bbbs": "402881e46000e27901600175fc120533",
@@ -27358,7 +27598,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于审理第一审专利案件聘请专家担任陪审员的复函_19910606.docx"
     },
     {
       "bbbs": "402881e46000e279016001d349140c35",
@@ -27373,7 +27616,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院经济审判庭关于信用合作社责任财产范围问题的答复_19910617.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc2d1f3c067b",
@@ -27388,7 +27634,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院行政审判庭关于公安机关未具法定立案搜查手续对公民进行住宅人身搜查被搜查人提起诉讼人民法院可否按行政案件受理问题的电话答复_19910618.docx"
     },
     {
       "bbbs": "402881e45ffff950016000b56e900b2d",
@@ -27403,7 +27652,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于夫妻离婚后人工授精所生子女的法律地位如何确定的复函_19910708.docx"
     },
     {
       "bbbs": "402881e45ffff950016000bb46df0bb5",
@@ -27418,7 +27670,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于行政机关对土地争议的处理决定生效后一方不履行另一方不应以民事侵权向法院起诉的批复_19910724.docx"
     },
     {
       "bbbs": "402881e46005230d01600571bf0003e0",
@@ -27433,7 +27688,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院印发《关于中国公民申请承认外国法院离婚判决程序问题的规定》的通知_19910813.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc14720004d6",
@@ -27448,7 +27706,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院行政审判庭关于出售淫秽物品如何计算追溯期限问题的电话答复_19910821.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc1b6036052d",
@@ -27463,7 +27724,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院研究室关于盗用他人长话账号案件如何定性问题的复函_19910914.docx"
     },
     {
       "bbbs": "402881e46000e2790160013a5d3b0092",
@@ -27478,7 +27742,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于出借银行账户的当事人是否承担民事责任问题的批复_19910927.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc61e61d0b77",
@@ -27493,7 +27760,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院行政审判庭关于乡治安室工作人员执行职务中故意伤害当事人造成的损害乡人民政府应否承担责任问题的电话答复_19911010.docx"
     },
     {
       "bbbs": "402881e45ffff9500160009eb8e909ca",
@@ -27508,7 +27778,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于第一审离婚判决生效后应出具证明书的通知_19911024.docx"
     },
     {
       "bbbs": "402881e46005230d01600566e8e80385",
@@ -27523,7 +27796,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于转发司法部《关于再委托23位香港律师办理公证事务并改变出证方式的通知》的通知_19911128.docx"
     },
     {
       "bbbs": "402881e46005230d016005874512050b",
@@ -27538,7 +27814,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于学习宣传贯彻《中华人民共和国未成年人保护法》的通知_19911224.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbddaa80014c",
@@ -27553,7 +27832,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于托运人主张货损货差而拒付运费应否支付滞纳金的答复_19920212.docx"
     },
     {
       "bbbs": "402881e45ffff9500160001e837600a5",
@@ -27568,7 +27850,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于审理合伙型联营体和个人合伙对外债务纠纷案件应否一并确定合伙内部各方的债务份额的复函_19920318.docx"
     },
     {
       "bbbs": "402881e45ffff95001600092fdd808e1",
@@ -27583,7 +27868,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于刊登侵害他人名誉权小说的出版单位在作者已被判刑后还应否承担民事责任的复函_19920814.docx"
     },
     {
       "bbbs": "402881e46000e2790160014689760146",
@@ -27598,7 +27886,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于被继承人死亡后没有法定继承人分享遗产人能否分得全部遗产的复函_19920916.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc0a135f042a",
@@ -27613,7 +27904,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于《行政诉讼法》施行前法律未规定由法院受理的案件应如何处理的批复_19930215.docx"
     },
     {
       "bbbs": "402881e45ffff950016000894ee20882",
@@ -27628,7 +27922,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于企业或个人欠国家银行贷款逾期两年未还应当适用民法通则规定的诉讼时效问题的批复_19930222.docx"
     },
     {
       "bbbs": "402881e45ffff950016000a8a9960a5c",
@@ -27643,7 +27940,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250916T131413+0800",
+      "my_file": "最高人民法院关于对因妨害民事诉讼被罚款拘留的人不服决定申请复议的期间如何确定问题的批复_19930223.docx"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc6ee3870d2b",
