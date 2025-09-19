@@ -1,12 +1,12 @@
 {
-  "update": "20250920T00+0800",
+  "update": "20250920T02+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 333,
-    "error": 47,
+    "download": 379,
+    "error": 51,
     "duplicate": 0,
-    "new": 50
+    "new": 46
   },
   "data": [
     {
@@ -6434,7 +6434,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国反不正当竞争法_20171104_2c909fdd678bf17901678bf8704b0a87.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf876430a91",
@@ -6448,7 +6451,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国标准化法_20171104_2c909fdd678bf17901678bf876430a91.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf887110ae1",
@@ -6462,7 +6468,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国民用航空法_20171104_2c909fdd678bf17901678bf887110ae1.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf88b600af5",
@@ -6476,7 +6485,9 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T02+0800"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf88e4e0b1d",
@@ -6490,7 +6501,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国烟叶税法_20171227_2c909fdd678bf17901678bf88e4e0b1d.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf88ea50b27",
@@ -6504,7 +6518,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国船舶吨税法_20171227_2c909fdd678bf17901678bf88ea50b27.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8939f0b3b",
@@ -6518,7 +6535,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国计量法_20171227_2c909fdd678bf17901678bf8939f0b3b.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf75e6c06db",
@@ -6532,7 +6552,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国进出口商品检验法_20180427_2c909fdd678bf17901678bf75e6c06db.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8af050b81",
@@ -6546,7 +6569,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国电子商务法_20180831_2c909fdd678bf17901678bf8af050b81.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d002283128d",
@@ -6560,7 +6586,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国农业机械化促进法_20181026_ff8080816f135f46016f1d002283128d.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d02c080129c",
@@ -6574,7 +6603,9 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T02+0800"
     },
     {
       "bbbs": "ff8080816f135f46016f1cf8da371228",
@@ -6588,7 +6619,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国广告法_20181026_ff8080816f135f46016f1cf8da371228.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d06082912c2",
@@ -6602,7 +6636,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国循环经济促进法_20181026_ff8080816f135f46016f1d06082912c2.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d08f6da12f6",
@@ -6616,7 +6653,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国旅游法_20181026_ff8080816f135f46016f1d08f6da12f6.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d0bdc6a1306",
@@ -6630,7 +6670,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国环境保护税法_20181026_ff8080816f135f46016f1d0bdc6a1306.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d0fc5761317",
@@ -6644,7 +6687,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国船舶吨税法_20181026_ff8080816f135f46016f1d0fc5761317.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1cfbf44a1258",
@@ -6658,7 +6704,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国节约能源法_20181026_ff8080816f135f46016f1cfbf44a1258.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1cf499ff11eb",
@@ -6672,7 +6721,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国计量法_20181026_ff8080816f135f46016f1cf499ff11eb.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d6dfd7614d3",
@@ -6686,7 +6738,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国产品质量法_20181229_ff8080816f135f46016f1d6dfd7614d3.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f21015ef51765",
@@ -6700,7 +6755,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国民用航空法_20181229_ff8080816f135f46016f21015ef51765.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f20dc6d8216b5",
@@ -6714,7 +6772,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国港口法_20181229_ff8080816f135f46016f20dc6d8216b5.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f1d9b1ffe15aa",
@@ -6728,7 +6789,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国电力法_20181229_ff8080816f135f46016f1d9b1ffe15aa.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f213156b61815",
@@ -6742,7 +6806,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国耕地占用税法_20181229_ff8080816f135f46016f213156b61815.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f2147561d18ed",
@@ -6756,7 +6823,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国车辆购置税法_20181229_ff8080816f135f46016f2147561d18ed.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f20ee6f1f1728",
@@ -6770,7 +6840,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国进出口商品检验法_20181229_ff8080816f135f46016f20ee6f1f1728.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f2169de9b1ace",
@@ -6784,7 +6857,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国反不正当竞争法_20190423_ff8080816f135f46016f2169de9b1ace.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f21740ae61b10",
@@ -6798,7 +6874,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国建筑法_20190423_ff8080816f135f46016f21740ae61b10.pdf"
     },
     {
       "bbbs": "ff8080816f135f46016f215dc4071a64",
@@ -6812,7 +6891,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国车船税法_20190423_ff8080816f135f46016f215dc4071a64.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4635be1b2873",
@@ -6826,7 +6908,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国资源税法_20190826_ff8080816f3cbb3c016f4635be1b2873.pdf"
     },
     {
       "bbbs": "ff80808171e9e18101727e5c40d37fc5",
@@ -6840,7 +6925,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国台湾同胞投资保护法_20191228_ff80808171e9e18101727e5c40d37fc5.pdf"
     },
     {
       "bbbs": "ff80808171e9e18101727e5543627f52",
@@ -6854,7 +6942,9 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T02+0800"
     },
     {
       "bbbs": "ff808081736ba7420173e715adbf36ff",
@@ -6868,7 +6958,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国城市维护建设税法_20200811_ff808081736ba7420173e715adbf36ff.pdf"
     },
     {
       "bbbs": "ff808081736ba7420173e71ef7563753",
@@ -6882,7 +6975,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国契税法_20200811_ff808081736ba7420173e71ef7563753.pdf"
     },
     {
       "bbbs": "ff80808175265dd401753fb348ce1266",
@@ -6896,7 +6992,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国出口管制法_20201017_ff80808175265dd401753fb348ce1266.pdf"
     },
     {
       "bbbs": "ff80808175265dd40176a89126662863",
@@ -6910,7 +7009,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国长江保护法_20201226_ff80808175265dd40176a89126662863.pdf"
     },
     {
       "bbbs": "ff8080817703add2017737395a973e31",
@@ -6924,7 +7026,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国动物防疫法_20210122_ff8080817703add2017737395a973e31.pdf"
     },
     {
       "bbbs": "ff80818178efe3620179206d421428ce",
@@ -6938,7 +7043,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国乡村振兴促进法_20210429_ff80818178efe3620179206d421428ce.pdf"
     },
     {
       "bbbs": "ff8081817ab231eb017abd6bd860052d",
@@ -6952,7 +7060,9 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T02+0800"
     },
     {
       "bbbs": "ff8081817ab22b8a017abd83bfe30602",
@@ -6966,7 +7076,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国民用航空法_20210429_ff8081817ab22b8a017abd83bfe30602.pdf"
     },
     {
       "bbbs": "ff8081817ab22b8a017abd5ad286057a",
@@ -6980,7 +7093,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国草原法_20210429_ff8081817ab22b8a017abd5ad286057a.pdf"
     },
     {
       "bbbs": "ff8081817ab22b8a017abd7dcaad05ee",
@@ -6994,7 +7110,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国进出口商品检验法_20210429_ff8081817ab22b8a017abd7dcaad05ee.pdf"
     },
     {
       "bbbs": "ff80818179f5da5e0179f890885b0481",
@@ -7008,7 +7127,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国印花税法_20210610_ff80818179f5da5e0179f890885b0481.pdf"
     },
     {
       "bbbs": "ff80818179f5e0800179f885c7e70392",
@@ -7022,7 +7144,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国数据安全法_20210610_ff80818179f5e0800179f885c7e70392.pdf"
     },
     {
       "bbbs": "ff80818179f5da5e0179f88beb640406",
@@ -7036,7 +7161,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国海南自由贸易港法_20210610_ff80818179f5da5e0179f88beb640406.pdf"
     },
     {
       "bbbs": "ff8081817b6472a3017b656cc2040044",
@@ -7050,7 +7178,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国个人信息保护法_20210820_ff8081817b6472a3017b656cc2040044.pdf"
     },
     {
       "bbbs": "ff8081817d99a43a017dbd2663521c3f",
@@ -7064,7 +7195,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国审计法_20211023_ff8081817d99a43a017dbd2663521c3f.pdf"
     },
     {
       "bbbs": "ff8081817d99a651017deb6fd24533af",
@@ -7078,7 +7212,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国湿地保护法_20211224_ff8081817d99a651017deb6fd24533af.pdf"
     },
     {
       "bbbs": "ff8081817f072a2e017f0b66fb640166",
@@ -7092,7 +7229,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国种子法_20211224_ff8081817f072a2e017f0b66fb640166.pdf"
     },
     {
       "bbbs": "ff8081818234ccb501829f46c6ac2a5a",
@@ -7106,7 +7246,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国反垄断法_20220624_ff8081818234ccb501829f46c6ac2a5a.pdf"
     },
     {
       "bbbs": "ff808181818e90e70181947372d60184",
@@ -7120,7 +7263,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T02+0800",
+      "my_file": "中华人民共和国黑土地保护法_20220624_ff808181818e90e70181947372d60184.pdf"
     },
     {
       "bbbs": "ff80818182cf5d600182fd5d77dd23cf",
