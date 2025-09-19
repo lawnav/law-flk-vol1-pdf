@@ -44,6 +44,13 @@ jobs:
             echo "COUNT=200" >> $GITHUB_ENV
           fi
 
+      - name: Run download PDF
+        run: |
+          count=${{ env.COUNT }}
+          pushd ${{ env.SRC_NAME }} && 
+          bash scripts/run-pdf.sh v1 $count 0 DEBUG &&
+          popd
+
       - name: Run download Docx
         # if: github.event.schedule == '5 */12 * * *'
         run: |
@@ -51,13 +58,6 @@ jobs:
           echo "Update count = $count"
           pushd ${{ env.SRC_NAME }} && 
           bash scripts/run-docx.sh v1 $count &&
-          popd
-
-      - name: Run download PDF
-        run: |
-          count=${{ env.COUNT }}
-          pushd ${{ env.SRC_NAME }} && 
-          bash scripts/run-pdf.sh v1 $count 0 DEBUG &&
           popd
 
       - name: Git auto commit
