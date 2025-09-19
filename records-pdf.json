@@ -4,9 +4,9 @@
   "stats": {
     "total": 2368,
     "download": 5,
-    "error": 0,
+    "error": 50,
     "duplicate": 0,
-    "new": 5
+    "new": 0
   },
   "data": [
     {
@@ -106,7 +106,10 @@
       "flfgCodeId": 100,
       "score": 0.0,
       "my_dir": "宪法",
-      "my_cate": 0
+      "my_cate": 0,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5a483004b",
@@ -120,7 +123,10 @@
       "flfgCodeId": 100,
       "score": 0.0,
       "my_dir": "宪法",
-      "my_cate": 0
+      "my_cate": 0,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5aba10073",
@@ -134,7 +140,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5ad3f0091",
@@ -148,7 +157,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5ae1e009b",
@@ -162,7 +174,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5c0ba00e1",
@@ -176,7 +191,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5c6680131",
@@ -190,7 +208,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5d0280195",
@@ -204,7 +225,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf60d3f0267",
@@ -218,7 +242,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf62dde02fd",
@@ -232,7 +259,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf64500036b",
@@ -246,7 +276,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf67bc90433",
@@ -260,7 +293,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf783fc0767",
@@ -274,7 +310,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7eafb0861",
@@ -288,7 +327,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7ea380857",
@@ -302,7 +344,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7e3f6084d",
@@ -316,7 +361,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf896c80b45",
@@ -330,7 +378,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8080816f135f46016f1cb8515010ba",
@@ -344,7 +395,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8080816f135f46016f1c5dbc0f106d",
@@ -358,7 +412,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff80808175265dd40175e47c7c140ecb",
@@ -372,7 +429,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff808081752b7d430176a89d613a3565",
@@ -386,7 +446,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff80808177e75f880178241833053c56",
@@ -400,7 +463,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff80808177e75f88017823fdf7d73bf1",
@@ -414,7 +480,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8081817f48d8de017f71b0aac01019",
@@ -428,7 +497,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff808181865edc140186d9d6f1cb2503",
@@ -442,7 +514,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8081818d6a4464018e2de2868d1dfa",
@@ -456,7 +531,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff808181944069720194960dcea345a2",
@@ -470,7 +548,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff808181927b083b0195881cfb1458aa",
@@ -484,7 +565,10 @@
       "flfgCodeId": 110,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5aff900b9",
@@ -498,7 +582,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6053a0217",
@@ -512,7 +599,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf60f08027b",
@@ -526,7 +616,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf645b90375",
@@ -540,7 +633,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf67a4d041f",
@@ -554,7 +650,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf674710415",
@@ -568,7 +667,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8221f0929",
@@ -582,7 +684,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf82132091f",
@@ -596,7 +701,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8479b09dd",
@@ -610,7 +718,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf884f40acd",
@@ -624,7 +735,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff808081729d1efe01729d50b5c500bf",
@@ -638,7 +752,10 @@
       "flfgCodeId": 120,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7361b061d",
@@ -652,7 +769,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7b43e07e9",
@@ -666,7 +786,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf7fc85089d",
@@ -680,7 +803,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf86fa90a7d",
@@ -694,7 +820,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8080816f135f46016f210efccb17b9",
@@ -708,7 +837,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8080817703add20177373df6a43e33",
@@ -722,7 +854,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8081817ab22b8a017abd777cdc05d8",
@@ -736,7 +871,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "ff8081817b637904017b63a8db4f001b",
@@ -750,7 +888,10 @@
       "flfgCodeId": 130,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf6200302cb",
@@ -764,7 +905,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf76d6d072b",
@@ -778,7 +922,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf8470409d3",
@@ -792,7 +939,10 @@
       "flfgCodeId": 140,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -3,
+      "my_time": "20250919T10+0800",
+      "my_file": null
     },
     {
       "bbbs": "2c909fdd678bf17901678bf724bd0609",
