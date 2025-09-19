@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     - cron: "15 */2 * * *"
-    # - cron: "5 */12 * * *"
+    - cron: "5 */12 * * *"
     - cron: "15 14 * * 2"
   workflow_dispatch:
 
@@ -20,7 +20,7 @@ jobs:
     env:
       USER: qundao
       SRC_NAME: law-meta
-      COUNT: 20
+      COUNT: 50
 
     steps:
       - uses: actions/checkout@v4
@@ -46,7 +46,7 @@ jobs:
           fi
 
       - name: Run download Docx
-        # if: github.event.schedule == '5 */12 * * *'
+        if: github.event.schedule != '15 */2 * * *'
         run: |
           count=${{ env.COUNT }}
           echo "Update count = $count"
@@ -55,10 +55,9 @@ jobs:
           popd
 
       - name: Run download PDF
+        if: github.event.schedule == '15 */2 * * *'
         run: |
           count=${{ env.COUNT }}
-          sleep "$((RANDOM % 90 + 30))"
-
           pushd ${{ env.SRC_NAME }} && 
           bash scripts/run-pdf.sh v1 $count &&
           popd
