@@ -1,25 +1,26 @@
-name: Download docs
+name: Download files
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "5 */12 * * *"
+    - cron: "15 */2 * * *"
+    # - cron: "5 */12 * * *"
     - cron: "15 14 * * 2"
   workflow_dispatch:
 
 jobs:
   process:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     permissions:
       contents: write
     env:
       USER: qundao
       SRC_NAME: law-meta
-      COUNT: 50
+      COUNT: 20
 
     steps:
       - uses: actions/checkout@v4
@@ -41,7 +42,7 @@ jobs:
       - name: Update parameter
         run: |
           if [ "${{ github.event.schedule }}" == "15 14 * * 2" ]; then
-            echo "COUNT=200" >> $GITHUB_ENV
+            echo "COUNT=100" >> $GITHUB_ENV
           fi
 
       - name: Run download Docx
@@ -56,6 +57,8 @@ jobs:
       - name: Run download PDF
         run: |
           count=${{ env.COUNT }}
+          sleep "$((RANDOM % 90 + 30))"
+
           pushd ${{ env.SRC_NAME }} && 
           bash scripts/run-pdf.sh v1 $count &&
           popd
