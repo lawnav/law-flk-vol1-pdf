@@ -24,3 +24,4 @@ law-*/
 
 *.json
 !records.json
+!records-pdf.json
