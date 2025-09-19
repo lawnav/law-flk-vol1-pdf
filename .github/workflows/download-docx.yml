@@ -44,7 +44,7 @@ jobs:
             echo "COUNT=200" >> $GITHUB_ENV
           fi
 
-      - name: Run download
+      - name: Run download Docx
         # if: github.event.schedule == '5 */12 * * *'
         run: |
           count=${{ env.COUNT }}
