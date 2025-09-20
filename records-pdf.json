@@ -1,12 +1,12 @@
 {
-  "update": "20250921T03+0800",
+  "update": "20250921T04+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 1052,
-    "error": 428,
+    "download": 1059,
+    "error": 471,
     "duplicate": 0,
-    "new": 0
+    "new": 7
   },
   "data": [
     {
@@ -24753,7 +24753,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181971b86bf0197ca7d3a3a3774",
@@ -24767,7 +24769,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181971b86bf0197353476d54a84",
@@ -24781,7 +24785,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181971b86bf019762f8ffd5005e",
@@ -24795,7 +24801,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181971b86bf0197a61d2a06193a",
@@ -24809,7 +24817,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181971b86bf0197ca572e8d3696",
@@ -24823,7 +24833,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181983198da01983f9ff1be5b2c",
@@ -24837,7 +24849,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181983199e801983bb37e1e4157",
@@ -24851,7 +24865,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff8081817d3c1e89017d45a6032602f6",
@@ -24865,7 +24881,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff8081817d99a651017dda9f07382bd4",
@@ -24879,7 +24897,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181804a1c5001805a8f14f1053b",
@@ -24893,7 +24913,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ca065ba07dc3438dbf27052383c5788e",
@@ -24907,7 +24929,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "5a44efbbfed84e90aa82a1429faf7abe",
@@ -24921,7 +24945,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "86370f23d4bd4f06a94b85911c293abe",
@@ -24935,7 +24961,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff808181966737700196a9c343c53515",
@@ -24949,7 +24977,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
@@ -24963,7 +24993,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "256820a0ca114014b5a067d7baaea90a",
@@ -24977,7 +25009,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "f77b02f59d8e4b2e8299e4bf37f8862f",
@@ -24991,7 +25025,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
@@ -25005,7 +25041,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "5e6d07e383c9468e8435e6d3c23b9d33",
@@ -25019,7 +25057,9 @@
       "flfgCodeId": 215,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff8081817c92ddac017c975afebd26d0",
@@ -25033,7 +25073,9 @@
       "flfgCodeId": 220,
       "score": 0.0,
       "my_dir": "监察法规",
-      "my_cate": 3
+      "my_cate": 3,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "ff80818198a7ecd40198e24493592f36",
@@ -25047,7 +25089,9 @@
       "flfgCodeId": 220,
       "score": 0.0,
       "my_dir": "监察法规",
-      "my_cate": 3
+      "my_cate": 3,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d016005b3793d077f",
@@ -25061,7 +25105,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e279016001cf5f7d0bd7",
@@ -25075,7 +25121,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe8dd8101f5",
@@ -25089,7 +25137,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e279016001d0c63b0bf6",
@@ -25103,7 +25153,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e279016001b83b9909d7",
@@ -25117,7 +25169,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000555c190487",
@@ -25131,7 +25185,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb3850da016e",
@@ -25145,7 +25201,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000542de3046a",
@@ -25159,7 +25217,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000ac3a190a80",
@@ -25173,7 +25233,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d0160059041cb05db",
@@ -25187,7 +25249,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000b724760b62",
@@ -25201,7 +25265,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e279016001974ce10737",
@@ -25215,7 +25281,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于应当允许检察院派书记员随检察长或检察员出庭支持公诉的通知_19861107_402881e46000e279016001974ce10737.pdf"
     },
     {
       "bbbs": "402881e46005230d0160055aa40f0219",
@@ -25229,7 +25298,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于执行我国加入的《承认及执行外国仲裁裁决公约》的通知_19870410_402881e46005230d0160055aa40f0219.pdf"
     },
     {
       "bbbs": "402881e46000e2790160014e00d301c5",
@@ -25243,7 +25315,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc094fba0420",
@@ -25257,7 +25331,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbda46150119",
@@ -25271,7 +25347,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e2790160016a5ca50425",
@@ -25285,7 +25363,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于人民法院发现已经受理的申请执行仲裁裁决或不服仲裁裁决而起诉的案件不属本院管辖应如何处理问题的批复_19880113_402881e46000e2790160016a5ca50425.pdf"
     },
     {
       "bbbs": "402881e46000e2790160014a1feb0179",
@@ -25299,7 +25380,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于保险金能否作为被保险人遗产的批复_19880324_402881e46000e2790160014a1feb0179.pdf"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb31267d00e7",
@@ -25313,7 +25397,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院印发《关于贯彻执行〈中华人民共和国民法通则〉若干问题的意见（试行）》的通知_19880402_402881e45ffb0c10015ffb31267d00e7.pdf"
     },
     {
       "bbbs": "402881e46005230d01600564eac70373",
@@ -25327,7 +25414,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d016005b146ee076d",
@@ -25341,7 +25430,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb359bc70138",
@@ -25355,7 +25446,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbd8089d00f8",
@@ -25369,7 +25462,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于信用社违反规定手续退汇给他人造成损失应承担民事责任问题的批复_19881018_402881e45ffbbe41015ffbd8089d00f8.pdf"
     },
     {
       "bbbs": "402881e46000e279016001a56615086f",
@@ -25383,7 +25479,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e27901600137776d0068",
@@ -25397,7 +25495,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc3e686a07d7",
@@ -25411,7 +25511,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e2790160013590c70052",
@@ -25425,7 +25527,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于典当房屋被视为绝卖以后确认产权程序问题的批复_19890724_402881e46000e2790160013590c70052.pdf"
     },
     {
       "bbbs": "402881e45ffff95001600075827606dd",
@@ -25439,7 +25544,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff9500160009c1f5d098c",
