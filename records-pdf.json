@@ -4,7 +4,7 @@
   "stats": {
     "total": 2368,
     "download": 1052,
-    "error": 278,
+    "error": 328,
     "duplicate": 0,
     "new": 0
   },
@@ -22353,7 +22353,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8ed29bf3950",
@@ -22367,7 +22369,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80808176d5cbce0176d73cd2ea03ce",
@@ -22381,7 +22385,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80808176d5cbce0176d71f210d03a2",
@@ -22395,7 +22401,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80808176d5cbce0176d73e21ac03db",
@@ -22409,7 +22417,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80808176d5d4d80176d712c03403e2",
@@ -22423,7 +22433,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80808176d5cbce0176d72c87f503bc",
@@ -22437,7 +22449,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b8d3aaa736c2",
@@ -22451,7 +22465,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8c64d7d3822",
@@ -22465,7 +22481,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b8c2f598365d",
@@ -22479,7 +22497,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8c87de4382b",
@@ -22493,7 +22513,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b8cec2df369c",
@@ -22507,7 +22529,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8d5366638be",
@@ -22521,7 +22545,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8ce729b3887",
@@ -22535,7 +22561,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b82b96682b23",
@@ -22549,7 +22577,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8dc9dfa38f0",
@@ -22563,7 +22593,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b8ffcb1c3843",
@@ -22577,7 +22609,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8ce2ae0387f",
@@ -22591,7 +22625,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b85613ee2c35",
@@ -22605,7 +22641,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8e6c12d3942",
@@ -22619,7 +22657,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b849e10d2bd1",
@@ -22633,7 +22673,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b849720f2c70",
@@ -22647,7 +22689,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8bcef5c37d5",
@@ -22661,7 +22705,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c940177b90b38413874",
@@ -22675,7 +22721,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8e2bc3f391b",
@@ -22689,7 +22737,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8f4d125399e",
@@ -22703,7 +22753,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8f396503993",
@@ -22717,7 +22769,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b856f6152caf",
@@ -22731,7 +22785,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b85030cf2c82",
@@ -22745,7 +22801,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177853023f40b05",
@@ -22759,7 +22817,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d0c94017784da4aa50a73",
@@ -22773,7 +22833,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177be8941b04084",
@@ -22787,7 +22849,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8ffc4f43a66",
@@ -22801,7 +22865,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff808081777d07c50177b8d8670038d4",
@@ -22815,7 +22881,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b895017b7bd277f40024",
@@ -22829,7 +22897,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b679017b7af7449134a3",
@@ -22843,7 +22913,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b935017b7adce91678cf",
@@ -22857,7 +22929,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b935017b7b0063c179b3",
@@ -22871,7 +22945,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b935017b7af032287969",
@@ -22885,7 +22961,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b895017b7b071b6843c0",
@@ -22899,7 +22977,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b935017b7bd9a46035fc",
@@ -22913,7 +22993,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b679017b7b2085953607",
@@ -22927,7 +23009,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817b63b935017b7bcc49877e0b",
@@ -22941,7 +23025,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817d283644017d4569b4505da7",
@@ -22955,7 +23041,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817dc68a44017dda7d114d1fcb",
@@ -22969,7 +23057,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817dc68bb1017dda93f9a91e26",
@@ -22983,7 +23073,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff8081817fd9834101805a41c57c7214",
@@ -22997,7 +23089,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80818180e0a61301811e3c59d51f3e",
@@ -23011,7 +23105,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80818180e0a61301811e3e6c391f6f",
@@ -23025,7 +23121,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80818180e0a61301811e43f41f1fa2",
@@ -23039,7 +23137,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T02+0800"
     },
     {
       "bbbs": "ff80818180e0a44101811e45c0ec14ba",
