@@ -1,12 +1,12 @@
 {
-  "update": "20250920T19+0800",
+  "update": "20250920T21+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 679,
-    "error": 101,
+    "download": 712,
+    "error": 118,
     "duplicate": 0,
-    "new": 45
+    "new": 33
   },
   "data": [
     {
@@ -13180,7 +13180,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "铺设海底电缆管道管理规定_19890211_ff8080816f3cbb3c016f4159ccf822e7.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f415ae2522314",
@@ -13194,7 +13197,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "民用航空运输不定期飞行管理暂行规定_19890302_ff8080816f3cbb3c016f415ae2522314.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41d843660104",
@@ -13208,7 +13214,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41e406e40177",
@@ -13222,7 +13230,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41ecfc9401e6",
@@ -13236,7 +13246,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "幼儿园管理条例_19890911_ff8080816f3e98bd016f41ecfc9401e6.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f403a3c3d01bb",
@@ -13250,7 +13263,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "石油地震勘探损害补偿规定_19891017_ff8080816f3cbb3c016f403a3c3d01bb.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f42008c8002b5",
@@ -13264,7 +13280,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "森林病虫害防治条例_19891218_ff8080816f3e98bd016f42008c8002b5.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4201bf5d028c",
@@ -13278,7 +13297,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "关于工资总额组成的规定_19900101_ff8080816f3e9784016f4201bf5d028c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41485b0a200e",
@@ -13292,7 +13314,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "全民所有制小型工业企业租赁经营暂行条例_19900224_ff8080816f3cbb3c016f41485b0a200e.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f404dea7b02d0",
@@ -13306,7 +13331,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f4207a75e02e0",
@@ -13320,7 +13347,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f4209b4b3034d",
@@ -13334,7 +13363,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国防计量监督管理条例_19900405_ff8080816f3e98bd016f4209b4b3034d.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f420a8cb50313",
@@ -13348,7 +13380,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国标准化法实施条例_19900406_ff8080816f3e9784016f420a8cb50313.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f42370ce7038c",
@@ -13362,7 +13397,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国城镇国有土地使用权出让和转让暂行条例_19900519_ff8080816f3e98bd016f42370ce7038c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4088a7d903ea",
@@ -13376,7 +13414,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "学校卫生工作条例_19900604_ff8080816f3cbb3c016f4088a7d903ea.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f4240e01f03f2",
@@ -13390,7 +13431,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国防治陆源污染物污染损害海洋环境管理条例_19900621_ff8080816f3e98bd016f4240e01f03f2.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4243e3530414",
@@ -13404,7 +13448,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40919f6c048a",
@@ -13418,7 +13464,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f409700e404e5",
@@ -13432,7 +13480,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国邮政法实施细则_19901112_ff8080816f3cbb3c016f409700e404e5.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f424fe00c04e5",
@@ -13446,7 +13497,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "劳动就业服务企业管理规定_19901122_ff8080816f3e9784016f424fe00c04e5.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40a671e305c1",
@@ -13460,7 +13514,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "工商行政管理所条例_19910422_ff8080816f3cbb3c016f40a671e305c1.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d578c00648",
@@ -13474,7 +13531,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "外国人来华登山管理办法_19910828_ff8080816f3cbb3c016f40d578c00648.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d93dc80716",
@@ -13488,7 +13548,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国有资产评估管理办法_19911116_ff8080816f3cbb3c016f40d93dc80716.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40da9a270766",
@@ -13502,7 +13565,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40dc6b7b07e0",
@@ -13516,7 +13581,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "农民承担费用和劳务管理条例_19911207_ff8080816f3cbb3c016f40dc6b7b07e0.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40edf1310bdd",
@@ -13530,7 +13598,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f0faf10cd2",
@@ -13544,7 +13614,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "实施国际著作权条约的规定_19920925_ff8080816f3cbb3c016f40f0faf10cd2.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f454150dda",
@@ -13558,7 +13631,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "药品行政保护条例_19921219_ff8080816f3cbb3c016f40f454150dda.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f5ab910e3f",
@@ -13572,7 +13648,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "农业化学物质产品行政保护条例_19921226_ff8080816f3cbb3c016f40f5ab910e3f.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f6f9a50e9a",
@@ -13586,7 +13665,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f901270f0c",
@@ -13600,7 +13681,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40fa57c40f4e",
@@ -13614,7 +13697,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国国家货币出入境管理办法_19930120_ff8080816f3cbb3c016f40fa57c40f4e.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40fd4631102f",
@@ -13628,7 +13714,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国有企业富余职工安置规定_19930420_ff8080816f3cbb3c016f40fd4631102f.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40fe8ab01078",
@@ -13642,7 +13731,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "股票发行与交易管理暂行条例_19930422_ff8080816f3cbb3c016f40fe8ab01078.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410209a01121",
@@ -13656,7 +13748,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "村庄和集镇规划建设管理条例_19930629_ff8080816f3cbb3c016f410209a01121.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41585aaa22a1",
@@ -13670,7 +13765,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410dd25113f9",
@@ -13684,7 +13781,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410c810d139b",
@@ -13698,7 +13797,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410f1961144a",
@@ -13712,7 +13813,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "对外使用国徽图案的办法_19930924_ff8080816f3cbb3c016f410f1961144a.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4115f38c1636",
@@ -13726,7 +13830,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "关于不满300总吨船舶及沿海运输、沿海作业船舶海事赔偿限额的规定_19931115_ff8080816f3cbb3c016f4115f38c1636.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411717031671",
@@ -13740,7 +13847,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国务院关于在对外公务活动中赠送和接受礼品的规定_19931205_ff8080816f3cbb3c016f411717031671.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411d1c9617fc",
@@ -13754,7 +13864,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国港口间海上旅客运输赔偿责任限额规定_19931217_ff8080816f3cbb3c016f411d1c9617fc.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412114b418fe",
@@ -13768,7 +13881,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "废旧金属收购业治安管理办法_19940125_ff8080816f3cbb3c016f412114b418fe.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4124064b198f",
@@ -13782,7 +13898,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412a31091aaf",
@@ -13796,7 +13914,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412f10e61b91",
@@ -13810,7 +13930,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "教学成果奖励条例_19940314_ff8080816f3cbb3c016f412f10e61b91.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413037af1bce",
@@ -13824,7 +13947,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国矿产资源法实施细则_19940326_ff8080816f3cbb3c016f413037af1bce.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4136e4471d46",
@@ -13838,7 +13964,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国务院关于股份有限公司境外募集股份及上市的特别规定_19940804_ff8080816f3cbb3c016f4136e4471d46.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41260ca619e7",
@@ -13852,7 +13981,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414144961eff",
@@ -13866,7 +13997,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4142b8e81f39",
