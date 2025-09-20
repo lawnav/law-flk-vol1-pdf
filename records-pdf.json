@@ -1,12 +1,12 @@
 {
-  "update": "20250920T18+0800",
+  "update": "20250920T19+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 606,
-    "error": 74,
+    "download": 634,
+    "error": 96,
     "duplicate": 0,
-    "new": 50
+    "new": 28
   },
   "data": [
     {
@@ -11507,7 +11507,10 @@
       "flfgCodeId": 195,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国刑法修正案（九）_20150829_2c909fdd678bf17901678bf690bb04ab.pdf"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf691ac04b5",
@@ -11521,7 +11524,10 @@
       "flfgCodeId": 195,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国刑法修正案（十）_20171104_2c909fdd678bf17901678bf691ac04b5.pdf"
     },
     {
       "bbbs": "ff808081752b7d430176a8a177e9358b",
@@ -11535,7 +11541,9 @@
       "flfgCodeId": 195,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8081818c3ce31f018cb6a6bc412f55",
@@ -11549,7 +11557,9 @@
       "flfgCodeId": 195,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff808181791904c60179207479a002e9",
@@ -11563,7 +11573,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国教育法》的决定_20210429_ff808181791904c60179207479a002e9.pdf"
     },
     {
       "bbbs": "ff80818178efe3620179207b83a228f1",
@@ -11577,7 +11590,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国道路交通安全法》等八部法律的决定_20210429_ff80818178efe3620179207b83a228f1.pdf"
     },
     {
       "bbbs": "ff8081817918fa96017920845025033c",
@@ -11591,7 +11607,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法》的决定_20210429_ff8081817918fa96017920845025033c.pdf"
     },
     {
       "bbbs": "ff80818179f5da5e0179f9f63fe40c01",
@@ -11605,7 +11624,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国安全生产法》的决定_20210610_ff80818179f5da5e0179f9f63fe40c01.pdf"
     },
     {
       "bbbs": "ff8081817b6471a2017b658442350075",
@@ -11619,7 +11641,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8081817cac2ab8017cac9f8dca0d73",
@@ -11633,7 +11657,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8081817dea9c18017dec5e28530214",
@@ -11647,7 +11673,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8081817d99a651017dec5dc1bf3482",
@@ -11661,7 +11689,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国民事诉讼法》的决定_20211224_ff8081817d99a651017dec5dc1bf3482.pdf"
     },
     {
       "bbbs": "ff8081817dea9c18017dec5d424c0210",
@@ -11675,7 +11706,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国种子法》的决定_20211224_ff8081817dea9c18017dec5d424c0210.pdf"
     },
     {
       "bbbs": "ff808181818ea404018194a42f770194",
@@ -11689,7 +11723,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff808181818ea1a501819476fae2018c",
@@ -11703,7 +11739,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff80818185567186018562e7b6f806a0",
@@ -11717,7 +11755,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8081818a21e8b2018a50f8d6340ca7",
@@ -11731,7 +11771,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8081818c3ce0ed018cb707d1112f71",
@@ -11745,7 +11787,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国慈善法》的决定_20231229_ff8081818c3ce0ed018cb707d1112f71.pdf"
     },
     {
       "bbbs": "ff8081818d6a4639018f1a7759c47964",
@@ -11759,7 +11804,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国农业技术推广法》、《中华人民共和国未成年人保护法》、《中华人民共和国生物安全法》的决定_2_ff8081818d6a4639018f1a7759c47964.pdf"
     },
     {
       "bbbs": "ff8081818d6a463901905f42080c2d63",
@@ -11773,7 +11821,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国会计法》的决定_20240628_ff8081818d6a463901905f42080c2d63.pdf"
     },
     {
       "bbbs": "ff80818191db55220191eadb1cd908d6",
@@ -11787,7 +11838,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国统计法》的决定_20240913_ff80818191db55220191eadb1cd908d6.pdf"
     },
     {
       "bbbs": "ff808181927b2d1a01930c6d56e96d37",
@@ -11801,7 +11855,10 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "全国人民代表大会常务委员会关于修改《中华人民共和国各级人民代表大会常务委员会监督法》的决定_20241108_ff808181927b2d1a01930c6d56e96d37.pdf"
     },
     {
       "bbbs": "ff808181927b2d1a0193fe028d1a03af",
@@ -11815,7 +11872,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "2412667d32514d52914dbc4f9a08e91a",
@@ -11829,7 +11888,9 @@
       "flfgCodeId": 200,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff808081777d07c501777fe0418d03be",
@@ -11843,7 +11904,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "关于中华人民共和国国都、纪年、国歌、国旗的决议_ff808081777d07c501777fe0418d03be.pdf"
     },
     {
       "bbbs": "ff808081777d07c5017784938127098c",
@@ -11857,7 +11921,10 @@
       "flfgCodeId": 190,
       "score": 0.0,
       "my_dir": "法律",
-      "my_cate": 1
+      "my_cate": 1,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "关于中华人民共和国国庆日的决议_ff808081777d07c5017784938127098c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4028aea70100",
@@ -11871,7 +11938,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "政务院关于中央人民政府所属各机关发表公报及公告性文件的办法_19500101_ff8080816f3cbb3c016f4028aea70100.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41e00f200102",
@@ -11885,7 +11955,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "查检邮件中夹带外币或外币票据暂行处理办法_19500901_ff8080816f3e9784016f41e00f200102.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41e8aa8601b0",
@@ -11899,7 +11972,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f415a6bdf2302",
@@ -11913,7 +11988,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff808081777d0c940177cdb0394c4fac",
@@ -11927,7 +12004,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f41f740360220",
@@ -11941,7 +12020,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41ff6cdd029f",
@@ -11955,7 +12036,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "关于国家机关工作人员福利费掌管使用的暂行规定_19570522_ff8080816f3e98bd016f41ff6cdd029f.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4201995e0283",
@@ -11969,7 +12053,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国打捞沉船管理办法_19571011_ff8080816f3e9784016f4201995e0283.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f404e053c02d7",
@@ -11983,7 +12070,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国非机动船舶海上安全航行暂行规则_19580419_ff8080816f3cbb3c016f404e053c02d7.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f420698f00316",
@@ -11997,7 +12087,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4052126a0314",
@@ -12011,7 +12103,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f420a657d035a",
@@ -12025,7 +12119,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f407cfbfd0368",
@@ -12039,7 +12135,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "保护海底电缆规定_19730530_ff8080816f3cbb3c016f407cfbfd0368.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f407ec5300375",
@@ -12053,7 +12152,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f423ccc3203a9",
@@ -12067,7 +12168,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "水产资源繁殖保护条例_19790210_ff8080816f3e98bd016f423ccc3203a9.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f4241e4b20407",
@@ -12081,7 +12185,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国对外国籍船舶管理规则_19790918_ff8080816f3e98bd016f4241e4b20407.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4243ea43041a",
@@ -12095,7 +12202,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4090cd410479",
@@ -12109,7 +12218,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f4248c37b047a",
@@ -12123,7 +12234,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国国务院关于管理外国企业常驻代表机构的暂行规定_19801030_ff8080816f3e9784016f4248c37b047a.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f424cdc840494",
@@ -12137,7 +12251,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "关于统计报表管理的暂行规定_19801117_ff8080816f3e98bd016f424cdc840494.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4098ee0d0507",
@@ -12151,7 +12268,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "科学技术档案工作条例_19801227_ff8080816f3cbb3c016f4098ee0d0507.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f42511b5404ef",
@@ -12165,7 +12285,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "国家机关工作人员病假期间生活待遇的规定_19810406_ff8080816f3e9784016f42511b5404ef.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f425bc932056d",
@@ -12179,7 +12302,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T19+0800",
+      "my_file": "中华人民共和国学位条例暂行实施办法_19810520_ff8080816f3e98bd016f425bc932056d.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f425e26410547",
@@ -12193,7 +12319,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T19+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40aab81a05dd",
