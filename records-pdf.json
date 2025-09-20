@@ -1,12 +1,12 @@
 {
-  "update": "20250921T00+0800",
+  "update": "20250921T01+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 1030,
-    "error": 150,
+    "download": 1052,
+    "error": 178,
     "duplicate": 0,
-    "new": 43
+    "new": 22
   },
   "data": [
     {
@@ -19931,7 +19931,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "实验动物管理条例_20170301_ff8080816f3cbb3c016f4152a5c62204.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4242ccee0409",
@@ -19945,7 +19948,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "对外承包工程管理条例_20170301_ff8080816f3e9784016f4242ccee0409.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f425cf64f053c",
@@ -19959,7 +19965,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "广播电视管理条例_20170301_ff8080816f3e9784016f425cf64f053c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4157b5f42291",
@@ -19973,7 +19982,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "放射性药品管理办法_20170301_ff8080816f3cbb3c016f4157b5f42291.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f424ea6c504b5",
@@ -19987,7 +19999,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "旅行社条例_20170301_ff8080816f3e98bd016f424ea6c504b5.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f403671de018d",
@@ -20001,7 +20016,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "期货交易管理条例_20170301_ff8080816f3cbb3c016f403671de018d.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41245c1019aa",
@@ -20015,7 +20033,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "直销管理条例_20170301_ff8080816f3cbb3c016f41245c1019aa.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4159694422d7",
@@ -20029,7 +20050,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "防止拆船污染环境管理条例_20170301_ff8080816f3cbb3c016f4159694422d7.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41393a111dac",
@@ -20043,7 +20067,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "食盐加碘消除碘缺乏危害管理条例_20170301_ff8080816f3cbb3c016f41393a111dac.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41007b9110ca",
@@ -20057,7 +20084,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "饲料和饲料添加剂管理条例_20170301_ff8080816f3cbb3c016f41007b9110ca.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4091d8dc0493",
@@ -20071,7 +20101,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "农药管理条例_20170316_ff8080816f3cbb3c016f4091d8dc0493.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413b854d1e02",
@@ -20085,7 +20118,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "大中型水利水电工程建设征地补偿和移民安置条例_20170414_ff8080816f3cbb3c016f413b854d1e02.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410941d712b4",
@@ -20099,7 +20135,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "医疗器械监督管理条例_20170504_ff8080816f3cbb3c016f410941d712b4.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413251961c66",
@@ -20113,7 +20152,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "中华人民共和国统计法实施条例_20170528_ff8080816f3cbb3c016f413251961c66.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f37ba30da7",
@@ -20127,7 +20169,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "建设项目环境保护管理条例_20170716_ff8080816f3cbb3c016f40f37ba30da7.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413336081ca4",
@@ -20141,7 +20186,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "融资担保公司监督管理条例_20170802_ff8080816f3cbb3c016f413336081ca4.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41315fb41c25",
@@ -20155,7 +20203,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "无证无照经营查处办法_20170806_ff8080816f3cbb3c016f41315fb41c25.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41323ebe1c5c",
@@ -20169,7 +20220,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "志愿服务条例_20170822_ff8080816f3cbb3c016f41323ebe1c5c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4114f03315f1",
@@ -20183,7 +20237,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411efb191879",
@@ -20197,7 +20253,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41331d0f1c9a",
@@ -20211,7 +20269,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "机关团体建设楼堂馆所管理条例_20171005_ff8080816f3cbb3c016f41331d0f1c9a.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d8289506e6",
@@ -20225,7 +20286,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413a55541ddb",
@@ -20239,7 +20302,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f566c10e23",
@@ -20253,7 +20318,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f423225340323",
@@ -20267,7 +20334,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412348ab195e",
@@ -20281,7 +20350,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f423e509103d6",
@@ -20295,7 +20366,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40fd3bbf1024",
@@ -20309,7 +20382,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4119f6d91727",
@@ -20323,7 +20398,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412a7ed91aca",
@@ -20337,7 +20414,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e4004b0973",
@@ -20351,7 +20430,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40ecfbed0b98",
@@ -20365,7 +20446,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412cffc31b4a",
@@ -20379,7 +20462,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414a105d2055",
@@ -20393,7 +20478,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4127fb811a3d",
@@ -20407,7 +20494,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41184f9b16d0",
@@ -20421,7 +20510,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4133f0051cdd",
@@ -20435,7 +20526,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40237e9400d8",
@@ -20449,7 +20542,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "行政法规制定程序条例_20171222_ff8080816f3cbb3c016f40237e9400d8.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41dca9b10118",
@@ -20463,7 +20559,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "规章制定程序条例_20171222_ff8080816f3e98bd016f41dca9b10118.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413547161d1e",
@@ -20477,7 +20576,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f4202c15c0299",
@@ -20491,7 +20592,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40df32460884",
@@ -20505,7 +20608,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410bf79f1377",
@@ -20519,7 +20624,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410a7d6612f4",
@@ -20533,7 +20640,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414ac3bc2078",
@@ -20547,7 +20656,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250921T01+0800",
+      "my_file": "中华人民共和国河道管理条例_20180319_ff8080816f3cbb3c016f414ac3bc2078.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f3a7fa0db0",
@@ -20561,7 +20673,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40ec81900b87",
@@ -20575,7 +20689,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4148191b2005",
@@ -20589,7 +20705,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f408c11320409",
@@ -20603,7 +20721,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f423bf73d03a1",
@@ -20617,7 +20737,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250921T01+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4135e0dd1d31",
