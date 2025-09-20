@@ -3,10 +3,10 @@
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 809,
-    "error": 121,
+    "download": 845,
+    "error": 135,
     "duplicate": 0,
-    "new": 50
+    "new": 36
   },
   "data": [
     {
@@ -15710,7 +15710,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "电力监管条例_20050215_ff8080816f3cbb3c016f411a1e6b1731.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411c2bd517aa",
@@ -15724,7 +15727,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "国务院实施《中华人民共和国民族区域自治法》若干规定_20050519_ff8080816f3cbb3c016f411c2bd517aa.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411d0a7c17f0",
@@ -15738,7 +15744,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4121faee1917",
@@ -15752,7 +15760,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41270dc21a12",
@@ -15766,7 +15776,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "禁止传销条例_20050823_ff8080816f3cbb3c016f41270dc21a12.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412e40741b7e",
@@ -15780,7 +15793,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国海关统计条例_20051225_ff8080816f3cbb3c016f412e40741b7e.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4130c2261bf2",
@@ -15794,7 +15810,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "农村五保供养工作条例_20060121_ff8080816f3cbb3c016f4130c2261bf2.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4138abba1d95",
@@ -15808,7 +15827,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "地方志工作条例_20060518_ff8080816f3cbb3c016f4138abba1d95.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413aa09e1de5",
@@ -15822,7 +15844,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国测绘成果管理条例_20060527_ff8080816f3cbb3c016f413aa09e1de5.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413cce891e46",
@@ -15836,7 +15861,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f413dc9bc1e7b",
@@ -15850,7 +15877,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f41d8fcdc00c2",
@@ -15864,7 +15893,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "长城保护条例_20061001_ff8080816f3e9784016f41d8fcdc00c2.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d4cb5d0636",
@@ -15878,7 +15910,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国核出口管制条例_20061109_ff8080816f3cbb3c016f40d4cb5d0636.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4029c87b0104",
@@ -15892,7 +15927,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "公安机关组织管理条例_20061113_ff8080816f3cbb3c016f4029c87b0104.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41e1395a015f",
@@ -15906,7 +15944,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "诉讼费用交纳办法_20061219_ff8080816f3e98bd016f41e1395a015f.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e9f38a0add",
@@ -15920,7 +15961,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国核两用品及相关技术出口管制条例_20070126_ff8080816f3cbb3c016f40e9f38a0add.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41e31ab00172",
@@ -15934,7 +15978,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4030f416014d",
@@ -15948,7 +15994,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "国家自然科学基金条例_20070224_ff8080816f3cbb3c016f4030f416014d.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41e453d10134",
@@ -15962,7 +16011,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "地方各级人民政府机构设置和编制管理条例_20070224_ff8080816f3e9784016f41e453d10134.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41eb2b4a01cc",
@@ -15976,7 +16028,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "残疾人就业条例_20070225_ff8080816f3e98bd016f41eb2b4a01cc.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4038256101a1",
@@ -15990,7 +16045,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "人体器官移植条例_20070331_ff8080816f3cbb3c016f4038256101a1.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41f5b268023f",
@@ -16004,7 +16062,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "生产安全事故报告和调查处理条例_20070409_ff8080816f3e98bd016f41f5b268023f.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41f99d43022e",
@@ -16018,7 +16079,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "行政机关公务员处分条例_20070422_ff8080816f3e9784016f41f99d43022e.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41fefee7026d",
@@ -16032,7 +16096,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4105bea511c9",
@@ -16046,7 +16112,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f4204796f02aa",
@@ -16060,7 +16128,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "国务院关于加强食品等产品安全监督管理的特别规定_20070726_ff8080816f3e9784016f4204796f02aa.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4206274a02c4",
@@ -16074,7 +16145,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "大型群众性活动安全管理条例_20070914_ff8080816f3e9784016f4206274a02c4.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41151b9315fb",
@@ -16088,7 +16162,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国飞行基本规则_20071018_ff8080816f3cbb3c016f41151b9315fb.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4052ddb0031e",
@@ -16102,7 +16179,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "现役军人和人民武装警察居民身份证申领发放办法_20071021_ff8080816f3cbb3c016f4052ddb0031e.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f420b9b460371",
@@ -16116,7 +16196,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f423ab7730398",
@@ -16130,7 +16212,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40869ec403b8",
@@ -16144,7 +16228,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "武器装备科研生产许可管理条例_20080306_ff8080816f3cbb3c016f40869ec403b8.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f408b60e10403",
@@ -16158,7 +16245,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "汶川地震灾后恢复重建条例_20080608_ff8080816f3cbb3c016f408b60e10403.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f408e3f16043d",
@@ -16172,7 +16262,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "民用建筑节能条例_20080801_ff8080816f3cbb3c016f408e3f16043d.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4041596b01f1",
@@ -16186,7 +16279,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国外汇管理条例_20080805_ff8080816f3cbb3c016f4041596b01f1.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4247417c0454",
@@ -16200,7 +16296,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国畜禽遗传资源进出境和对外合作研究利用审批办法_20080828_ff8080816f3e9784016f4247417c0454.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40927caf049c",
@@ -16214,7 +16313,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f424995cc0482",
@@ -16228,7 +16329,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f424c052b0498",
@@ -16242,7 +16345,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国外国常驻新闻机构和外国记者采访条例_20081017_ff8080816f3e9784016f424c052b0498.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411aeff91764",
@@ -16256,7 +16362,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41131cf11569",
@@ -16270,7 +16378,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "草原防火条例_20081129_ff8080816f3cbb3c016f41131cf11569.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4154c58a2263",
@@ -16284,7 +16395,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "森林防火条例_20081201_ff8080816f3cbb3c016f4154c58a2263.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414ae4182081",
@@ -16298,7 +16412,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国航道管理条例_20081227_ff8080816f3cbb3c016f414ae4182081.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f424db73c049c",
@@ -16312,7 +16429,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d306b705f3",
@@ -16326,7 +16445,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "特种设备安全监察条例_20090124_ff8080816f3cbb3c016f40d306b705f3.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f4251197404e8",
@@ -16340,7 +16462,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "中华人民共和国抗旱条例_20090226_ff8080816f3e98bd016f4251197404e8.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d68014068e",
@@ -16354,7 +16479,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "彩票管理条例_20090504_ff8080816f3cbb3c016f40d68014068e.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d7fbd406d6",
@@ -16368,7 +16496,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "流动人口计划生育工作条例_20090511_ff8080816f3cbb3c016f40d7fbd406d6.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d9238f070c",
@@ -16382,7 +16513,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T22+0800",
+      "my_file": "基础测绘条例_20090512_ff8080816f3cbb3c016f40d9238f070c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40dd0536080e",
@@ -16396,7 +16530,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T22+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e063d508c7",
