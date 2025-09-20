@@ -3,10 +3,10 @@
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 1059,
-    "error": 471,
+    "download": 1076,
+    "error": 504,
     "duplicate": 0,
-    "new": 7
+    "new": 17
   },
   "data": [
     {
@@ -25560,7 +25560,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于第二审人民法院因追加、更换当事人发回重审的民事裁定书上，应如何列当事人问题的批复_19900414_402881e45ffff9500160009c1f5d098c.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe9f9430206",
@@ -25574,7 +25577,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff9500160009d5b6d09a8",
@@ -25588,7 +25593,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于第二审人民法院在审理过程中可否对当事人的违法行为径行制裁等问题的批复_19900725_402881e45ffff9500160009d5b6d09a8.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbdc0b890134",
@@ -25602,7 +25610,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb88cb9b0421",
@@ -25616,7 +25626,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e2790160013cb92700cc",
@@ -25630,7 +25642,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb85c6c203ce",
@@ -25644,7 +25658,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于印发《关于审理联营合同纠纷案件若干问题的解答》的通知_19901112_402881e45ffb5c4c015ffb85c6c203ce.pdf"
     },
     {
       "bbbs": "402881e46000e2790160013dcdf100da",
@@ -25658,7 +25675,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc7a69410dc3",
@@ -25672,7 +25691,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc8033620e40",
@@ -25686,7 +25707,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e27901600175fc120533",
@@ -25700,7 +25723,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e279016001d349140c35",
@@ -25714,7 +25739,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc2d1f3c067b",
@@ -25728,7 +25755,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000b56e900b2d",
@@ -25742,7 +25771,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000bb46df0bb5",
@@ -25756,7 +25787,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d01600571bf0003e0",
@@ -25770,7 +25803,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院印发《关于中国公民申请承认外国法院离婚判决程序问题的规定》的通知_19910813_402881e46005230d01600571bf0003e0.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc14720004d6",
@@ -25784,7 +25820,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc1b6036052d",
@@ -25798,7 +25836,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e2790160013a5d3b0092",
@@ -25812,7 +25852,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于出借银行账户的当事人是否承担民事责任问题的批复_19910927_402881e46000e2790160013a5d3b0092.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc61e61d0b77",
@@ -25826,7 +25869,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff9500160009eb8e909ca",
@@ -25840,7 +25885,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于第一审离婚判决生效后应出具证明书的通知_19911024_402881e45ffff9500160009eb8e909ca.pdf"
     },
     {
       "bbbs": "402881e46005230d01600566e8e80385",
@@ -25854,7 +25902,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d016005874512050b",
@@ -25868,7 +25918,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbddaa80014c",
@@ -25882,7 +25934,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff9500160001e837600a5",
@@ -25896,7 +25950,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于审理合伙型联营体和个人合伙对外债务纠纷案件应否一并确定合伙内部各方的债务份额的复函_19920318_402881e45ffff9500160001e837600a5.pdf"
     },
     {
       "bbbs": "402881e45ffff95001600092fdd808e1",
@@ -25910,7 +25967,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于刊登侵害他人名誉权小说的出版单位在作者已被判刑后还应否承担民事责任的复函_19920814_402881e45ffff95001600092fdd808e1.pdf"
     },
     {
       "bbbs": "402881e46000e2790160014689760146",
@@ -25924,7 +25984,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc0a135f042a",
@@ -25938,7 +26000,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff950016000894ee20882",
@@ -25952,7 +26016,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于企业或个人欠国家银行贷款逾期两年未还应当适用民法通则规定的诉讼时效问题的批复_19930222_402881e45ffff950016000894ee20882.pdf"
     },
     {
       "bbbs": "402881e45ffff950016000a8a9960a5c",
@@ -25966,7 +26033,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于对因妨害民事诉讼被罚款拘留的人不服决定申请复议的期间如何确定问题的批复_19930223_402881e45ffff950016000a8a9960a5c.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc6ee3870d2b",
@@ -25980,7 +26050,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于判决宣告后又发现被判刑的犯罪分子的同种漏罪是否实行数罪并罚问题的批复_19930416_402881e45ffbbe41015ffc6ee3870d2b.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc1248dd04a7",
@@ -25994,7 +26067,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb3bcfa70193",
@@ -26008,7 +26083,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc65cecb0bf5",
@@ -26022,7 +26099,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e2790160012f406b0008",
@@ -26036,7 +26115,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc8e0b0c0f4b",
@@ -26050,7 +26131,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于审理名誉权案件若干问题的解答_19930807_402881e45ffbbe41015ffc8e0b0c0f4b.pdf"
     },
     {
       "bbbs": "402881e46000e2790160015427b6021b",
@@ -26064,7 +26148,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于在专利侵权诉讼中当事人均拥有专利权应如何处理问题的批复_19930816_402881e46000e2790160015427b6021b.pdf"
     },
     {
       "bbbs": "402881e46000e2790160017ba4b405a1",
@@ -26078,7 +26165,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff9500160003b01eb0266",
@@ -26092,7 +26181,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff95001600077ca9d070e",
@@ -26106,7 +26197,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于人民法院审理离婚案件处理子女抚养问题的若干具体意见_19931103_402881e45ffff95001600077ca9d070e.pdf"
     },
     {
       "bbbs": "402881e45ffff9500160007a7f5f0756",
@@ -26120,7 +26214,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于人民法院审理离婚案件处理财产分割问题的若干具体意见_19931103_402881e45ffff9500160007a7f5f0756.pdf"
     },
     {
       "bbbs": "402881e45ffff9500160003fc47902bb",
@@ -26134,7 +26231,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d01600564e3e70366",
@@ -26148,7 +26247,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46000e279016001ceaec30bc1",
@@ -26162,7 +26263,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb7d55df031d",
@@ -26176,7 +26279,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc24f50005e3",
@@ -26190,7 +26295,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e46005230d01600558cf9301cc",
@@ -26204,7 +26311,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb8f27f8047b",
@@ -26218,7 +26327,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于银行、信用社扣划预付货款收贷应否退还问题的批复_19940309_402881e45ffb5c4c015ffb8f27f8047b.pdf"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb3e5fdc01c0",
@@ -26232,7 +26344,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T04+0800"
     },
     {
       "bbbs": "402881e45ffff95001600086d33d086f",
@@ -26246,7 +26360,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T04+0800",
+      "my_file": "最高人民法院关于企业开办的其他企业被撤销或者歇业后民事责任承担问题的批复_19940330_402881e45ffff95001600086d33d086f.pdf"
     },
     {
       "bbbs": "402881e45ffff95001600015e33e0021",
