@@ -46,7 +46,7 @@ jobs:
           fi
 
       - name: Run download Docx
-        if: github.event.schedule != '15 */2 * * *'
+        if: github.event.schedule == '5 */12 * * *'
         run: |
           count=${{ env.COUNT }}
           echo "Update count = $count"
@@ -55,7 +55,7 @@ jobs:
           popd
 
       - name: Run download PDF
-        if: github.event.schedule == '15 */2 * * *'
+        if: github.event.schedule != '5 */12 * * *'
         run: |
           count=${{ env.COUNT }}
           pushd ${{ env.SRC_NAME }} && 
