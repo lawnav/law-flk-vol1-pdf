@@ -3,10 +3,10 @@
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 712,
-    "error": 118,
+    "download": 759,
+    "error": 121,
     "duplicate": 0,
-    "new": 33
+    "new": 47
   },
   "data": [
     {
@@ -14013,7 +14013,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中央预算执行情况审计监督暂行办法_19950719_ff8080816f3cbb3c016f4142b8e81f39.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41448b9c1f7d",
@@ -14027,7 +14030,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国出境入境边防检查条例_19950720_ff8080816f3cbb3c016f41448b9c1f7d.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4145fce81fa4",
@@ -14041,7 +14047,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "仲裁委员会仲裁收费办法_19950728_ff8080816f3cbb3c016f4145fce81fa4.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41480b1e1ffc",
@@ -14055,7 +14064,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "仲裁委员会登记暂行办法_19950728_ff8080816f3cbb3c016f41480b1e1ffc.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414707551fcc",
@@ -14069,7 +14081,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "重新组建仲裁机构方案_19950728_ff8080816f3cbb3c016f414707551fcc.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41dececa00f5",
@@ -14083,7 +14098,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国预算法实施条例_19951122_ff8080816f3e9784016f41dececa00f5.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41e4c09b014b",
@@ -14097,7 +14115,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "教师资格条例_19951212_ff8080816f3e9784016f41e4c09b014b.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41e832c301ac",
@@ -14111,7 +14132,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国务院关于股份有限公司境内上市外资股的规定_19951225_ff8080816f3e98bd016f41e832c301ac.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41eb876901ce",
@@ -14125,7 +14149,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国人民警察使用警械和武器条例_19960116_ff8080816f3e98bd016f41eb876901ce.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41f508fa0201",
@@ -14139,7 +14166,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "企业国有资产产权登记管理办法_19960125_ff8080816f3e9784016f41f508fa0201.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41fab9850270",
@@ -14153,7 +14183,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国红十字标志使用办法_19960129_ff8080816f3e98bd016f41fab9850270.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4050bd2602fb",
@@ -14167,7 +14200,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国涉外海洋科学研究管理规定_19960618_ff8080816f3cbb3c016f4050bd2602fb.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f420808e70339",
@@ -14181,7 +14217,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "结汇、售汇及付汇管理规定_19960620_ff8080816f3e98bd016f420808e70339.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4209c0d8030e",
@@ -14195,7 +14234,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "特殊标志管理条例_19960713_ff8080816f3e9784016f4209c0d8030e.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4230ca070320",
@@ -14209,7 +14251,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f4233da140385",
@@ -14223,7 +14267,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "上海航运交易所管理规定_19961003_ff8080816f3e98bd016f4233da140385.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f423752750349",
@@ -14237,7 +14284,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国矿山安全法实施条例_19961030_ff8080816f3e9784016f423752750349.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4086afae03c1",
@@ -14251,7 +14301,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国进出境动植物检疫法实施条例_19961202_ff8080816f3cbb3c016f4086afae03c1.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f408e231d042d",
@@ -14265,7 +14318,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "残疾人专用品免征进口税收暂行规定_19970410_ff8080816f3cbb3c016f408e231d042d.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f4244d3af0424",
@@ -14279,7 +14335,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f41fc1c320255",
@@ -14293,7 +14351,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国计算机信息网络国际联网管理暂行规定_19970520_ff8080816f3e9784016f41fc1c320255.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40970a7804e9",
@@ -14307,7 +14368,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国务院关于在香港特别行政区同时升挂使用国旗区旗的规定_19970605_ff8080816f3cbb3c016f40970a7804e9.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412c8ea51b39",
@@ -14321,7 +14385,9 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": -5,
+      "my_time": "20250920T21+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f425bcbd20532",
@@ -14335,7 +14401,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国务院行政机构设置和编制管理条例_19970803_ff8080816f3e9784016f425bcbd20532.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d7809206c4",
@@ -14349,7 +14418,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国民用航空器国籍登记条例_19971021_ff8080816f3cbb3c016f40d7809206c4.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40d86fdc06f8",
@@ -14363,7 +14435,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国民用航空器权利登记条例_19971021_ff8080816f3cbb3c016f40d86fdc06f8.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40dabb950770",
@@ -14377,7 +14452,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "罚款决定与罚款收缴分离实施办法_19971117_ff8080816f3cbb3c016f40dabb950770.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e12c3c08da",
@@ -14391,7 +14469,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "证券、期货投资咨询管理暂行办法_19971225_ff8080816f3cbb3c016f40e12c3c08da.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f03dbd0c8c",
@@ -14405,7 +14486,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "民办非企业单位登记管理暂行条例_19981025_ff8080816f3cbb3c016f40f03dbd0c8c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f290280d5b",
@@ -14419,7 +14503,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国内交通卫生检疫条例_19981128_ff8080816f3cbb3c016f40f290280d5b.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f4c1480df7",
@@ -14433,7 +14520,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "地震预报管理条例_19981217_ff8080816f3cbb3c016f40f4c1480df7.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f8971f0ef3",
@@ -14447,7 +14537,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "失业保险条例_19990122_ff8080816f3cbb3c016f40f8971f0ef3.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40fb57d40f95",
@@ -14461,7 +14554,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "金融违法行为处罚办法_19990222_ff8080816f3cbb3c016f40fb57d40f95.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40f7c9ff0ed0",
@@ -14475,7 +14571,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "外国在华常住人员携带进境物品进口税收暂行规定_19990310_ff8080816f3cbb3c016f40f7c9ff0ed0.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40ff9adc109c",
@@ -14489,7 +14588,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "外国人在中华人民共和国收养子女登记办法_19990525_ff8080816f3cbb3c016f40ff9adc109c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40e8df280a80",
@@ -14503,7 +14605,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "企业法人法定代表人登记管理规定_19990623_ff8080816f3cbb3c016f40e8df280a80.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4102b3a7113d",
@@ -14517,7 +14622,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "控制对企业进行经济检查的规定_19990723_ff8080816f3cbb3c016f4102b3a7113d.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4104e8fc119e",
@@ -14531,7 +14639,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "城市居民最低生活保障条例_19990928_ff8080816f3cbb3c016f4104e8fc119e.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4106e1021204",
@@ -14545,7 +14656,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "商用密码管理条例_19991007_ff8080816f3cbb3c016f4106e1021204.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4107b3351256",
@@ -14559,7 +14673,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国务院关于国家行政机关和企业事业单位社会团体印章管理的规定_19991031_ff8080816f3cbb3c016f4107b3351256.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41087351128c",
@@ -14573,7 +14690,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中华人民共和国台湾同胞投资保护法实施细则_19991205_ff8080816f3cbb3c016f41087351128c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410ca6ab13a5",
@@ -14587,7 +14707,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "违反行政事业性收费和罚没收入收支两条线管理规定行政处分暂行规定_20000212_ff8080816f3cbb3c016f410ca6ab13a5.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410f5e99145c",
@@ -14601,7 +14724,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国有企业监事会暂行条例_20000315_ff8080816f3cbb3c016f410f5e99145c.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410d4e8c13db",
@@ -14615,7 +14741,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "国有重点金融机构监事会暂行条例_20000315_ff8080816f3cbb3c016f410d4e8c13db.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41105f1e149a",
@@ -14629,7 +14758,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "个人存款账户实名制规定_20000320_ff8080816f3cbb3c016f41105f1e149a.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41132b511579",
@@ -14643,7 +14775,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "蓄滞洪区运用补偿暂行办法_20000527_ff8080816f3cbb3c016f41132b511579.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4113f1b515b9",
@@ -14657,7 +14792,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "企业财务会计报告条例_20000621_ff8080816f3cbb3c016f4113f1b515b9.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40ef13e60c34",
@@ -14671,7 +14809,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "人民警察警衔标志式样和佩带办法_20000818_ff8080816f3cbb3c016f40ef13e60c34.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f41168ef4165f",
@@ -14685,7 +14826,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "中国人民解放军实施《中华人民共和国执业医师法》办法_20000914_ff8080816f3cbb3c016f41168ef4165f.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411a9ee2174f",
@@ -14699,7 +14843,10 @@
       "flfgCodeId": 210,
       "score": 0.0,
       "my_dir": "行政法规",
-      "my_cate": 2
+      "my_cate": 2,
+      "my_status": 200,
+      "my_time": "20250920T21+0800",
+      "my_file": "广播电视设施保护条例_20001105_ff8080816f3cbb3c016f411a9ee2174f.pdf"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f411cd8bc17df",
