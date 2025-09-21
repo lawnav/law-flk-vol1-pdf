@@ -1,12 +1,12 @@
 {
-  "update": "20250921T17+0800",
+  "update": "20250921T20+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 1442,
-    "error": 588,
+    "download": 1470,
+    "error": 660,
     "duplicate": 0,
-    "new": 51
+    "new": 28
   },
   "data": [
     {
@@ -33943,7 +33943,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于债务人在约定的期限届满后未履行债务而出具没有还款日期的欠款条诉讼时效期间应从何时开始计算问题的批复_20201229_ff808181799df4000179b0a9a81f18c0.pdf"
     },
     {
       "bbbs": "ff808181799def980179b0f52417199a",
@@ -33957,7 +33960,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ac2750531acc",
@@ -33971,7 +33976,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ad144759213e",
@@ -33985,7 +33992,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179aba907b0179b",
@@ -33999,7 +34008,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b0a8a0272bec",
@@ -34013,7 +34024,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于在审理经济纠纷案件中涉及经济犯罪嫌疑若干问题的规定_20201229_ff808181799df6140179b0a8a0272bec.pdf"
     },
     {
       "bbbs": "ff808181799df4000179b0a7f8d31899",
@@ -34027,7 +34041,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d3e70179fa4da97e04c5",
@@ -34041,7 +34057,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179ad1548fb13f1",
@@ -34055,7 +34073,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179ac01d01610f3",
@@ -34069,7 +34089,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179ad2437231456",
@@ -34083,7 +34105,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179b09685cf1802",
@@ -34097,7 +34121,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b09a88232b53",
@@ -34111,7 +34137,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释_20201229_ff808181799df6140179b09a88232b53.pdf"
     },
     {
       "bbbs": "ff808181799def980179ad1863301415",
@@ -34125,7 +34154,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ad19687b21c1",
@@ -34139,7 +34170,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ad1751a3218f",
@@ -34153,7 +34186,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179abf4798310d4",
@@ -34167,7 +34202,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179abe5546e106b",
@@ -34181,7 +34218,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b094a0622b0f",
@@ -34195,7 +34234,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80808177e75f88017800739d621b12",
@@ -34209,7 +34250,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0a6f0ae1888",
@@ -34223,7 +34266,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理医疗损害责任纠纷案件适用法律若干问题的解释_20201229_ff808181799df4000179b0a6f0ae1888.pdf"
     },
     {
       "bbbs": "ff808181799def980179b09c45801846",
@@ -34237,7 +34283,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理商品房买卖合同纠纷案件适用法律若干问题的解释_20201229_ff808181799def980179b09c45801846.pdf"
     },
     {
       "bbbs": "ff808181799df6140179ad1c561b220e",
@@ -34251,7 +34300,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理商标授权确权行政案件若干问题的规定_20201229_ff808181799df6140179ad1c561b220e.pdf"
     },
     {
       "bbbs": "ff808181799df6140179ad1ab03821fa",
@@ -34265,7 +34317,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理商标案件有关管辖和法律适用范围问题的解释_20201229_ff808181799df6140179ad1ab03821fa.pdf"
     },
     {
       "bbbs": "ff808181799df6140179ad1b6bba2206",
@@ -34279,7 +34334,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理商标民事纠纷案件适用法律若干问题的解释_20201229_ff808181799df6140179ad1b6bba2206.pdf"
     },
     {
       "bbbs": "ff808181799def980179ad1f80d31471",
@@ -34293,7 +34351,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179b08eafc8176e",
@@ -34307,7 +34367,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理城镇房屋租赁合同纠纷案件具体应用法律若干问题的解释_20201229_ff808181799df4000179b08eafc8176e.pdf"
     },
     {
       "bbbs": "ff808181799def980179abf175a81122",
@@ -34321,7 +34384,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179abdd151e0ffe",
@@ -34335,7 +34400,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -1,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b092ef2d2af9",
@@ -34349,7 +34416,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80808177e757ac0178006f0efe1b55",
@@ -34363,7 +34432,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ad1612e52172",
@@ -34377,7 +34448,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d3e70179fa4a055404af",
@@ -34391,7 +34464,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179b095de1617d5",
@@ -34405,7 +34480,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理旅游纠纷案件适用法律若干问题的规定_20201229_ff808181799df4000179b095de1617d5.pdf"
     },
     {
       "bbbs": "ff808181799def980179abf2930e1131",
@@ -34419,7 +34497,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abed9ceb1977",
@@ -34433,7 +34513,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179abe90d9f1091",
@@ -34447,7 +34529,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179ad20e02a1488",
@@ -34461,7 +34545,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179b09931031825",
@@ -34475,7 +34561,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理民事案件适用诉讼时效制度若干问题的规定_20201229_ff808181799def980179b09931031825.pdf"
     },
     {
       "bbbs": "ff808181799df6140179b0ec79832cb7",
@@ -34489,7 +34578,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0988b7717e5",
@@ -34503,7 +34594,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理民间借贷案件适用法律若干问题的规定_20201229_ff808181799df4000179b0988b7717e5.pdf"
     },
     {
       "bbbs": "ff808181799def980179ad228936148a",
@@ -34517,7 +34611,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定_20201229_ff808181799def980179ad228936148a.pdf"
     },
     {
       "bbbs": "ff808181799df6140179abe178691908",
@@ -34531,7 +34628,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abe28813190c",
@@ -34545,7 +34644,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abe49b221924",
@@ -34559,7 +34660,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b1a8446c2f23",
@@ -34573,7 +34676,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b19faeb22f06",
@@ -34587,7 +34692,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b09f77092b8e",
@@ -34601,7 +34708,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理涉及农村土地承包纠纷案件适用法律问题的解释_20201229_ff808181799df6140179b09f77092b8e.pdf"
     },
     {
       "bbbs": "ff808181799def980179b09e4de11866",
@@ -34615,7 +34725,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理涉及农村土地承包经营纠纷调解仲裁案件适用法律若干问题的解释_20201229_ff808181799def980179b09e4de11866.pdf"
     },
     {
       "bbbs": "ff808181799df4000179b09d7fb4181e",
@@ -34629,7 +34742,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理涉及国有土地使用权合同纠纷案件适用法律问题的解释_20201229_ff808181799df4000179b09d7fb4181e.pdf"
     },
     {
       "bbbs": "ff808181799def980179ad1e265c1462",
@@ -34643,7 +34759,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ad1d60f82220",
@@ -34657,7 +34775,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理涉及驰名商标保护的民事纠纷案件应用法律若干问题的解释_20201229_ff808181799df6140179ad1d60f82220.pdf"
     },
     {
       "bbbs": "ff808181799df6140179abf043c71983",
@@ -34671,7 +34792,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179b0a439a318c3",
@@ -34685,7 +34808,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释_20201229_ff808181799def980179b0a439a318c3.pdf"
     },
     {
       "bbbs": "ff808181799df4000179abddf50b100d",
@@ -34699,7 +34825,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179b091a92d17be",
@@ -34713,7 +34841,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理环境侵权责任纠纷案件适用法律若干问题的解释_20201229_ff808181799def980179b091a92d17be.pdf"
     },
     {
       "bbbs": "ff808181799df6140179b19c2f172ed4",
@@ -34727,7 +34858,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0a035fe1845",
@@ -34741,7 +34874,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b093dd7f2b04",
@@ -34755,7 +34890,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理矿业权纠纷案件适用法律若干问题的解释_20201229_ff808181799df6140179b093dd7f2b04.pdf"
     },
     {
       "bbbs": "ff808181799df4000179abe7d93f1081",
@@ -34769,7 +34907,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abdc12cd18c3",
@@ -34783,7 +34923,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179abb59e1d0f70",
@@ -34797,7 +34939,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abd986f3189b",
@@ -34811,7 +34955,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179ad239f441454",
@@ -34825,7 +34971,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b09b45d92b5e",
@@ -34839,7 +34987,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理融资租赁合同纠纷案件适用法律问题的解释_20201229_ff808181799df6140179b09b45d92b5e.pdf"
     },
     {
       "bbbs": "ff808181799def980179b09032ff17a9",
@@ -34853,7 +35004,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释_20201229_ff808181799def980179b09032ff17a9.pdf"
     },
     {
       "bbbs": "ff808181799def980179b0a23ba71899",
@@ -34867,7 +35021,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释_20201229_ff808181799def980179b0a23ba71899.pdf"
     },
     {
       "bbbs": "ff808181799df4000179b0a39dd9186d",
@@ -34881,7 +35038,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理铁路运输损害赔偿案件若干问题的解释_20201229_ff808181799df4000179b0a39dd9186d.pdf"
     },
     {
       "bbbs": "ff808181799df6140179b0a14faa2bae",
@@ -34895,7 +35055,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定_20201229_ff808181799df6140179b0a14faa2bae.pdf"
     },
     {
       "bbbs": "ff808181799df6140179b0ea85ae2cb2",
@@ -34909,7 +35072,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179aba99ba00f43",
@@ -34923,7 +35088,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d52f0179fa2b925e062c",
@@ -34937,7 +35104,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d3e70179fa27047a0385",
@@ -34951,7 +35120,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b0e257122c76",
@@ -34965,7 +35136,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d2480179fa51516904a9",
@@ -34979,7 +35152,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d52f0179fa4f8c9c072d",
@@ -34993,7 +35168,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80808177e757ac0178007509c71b64",
@@ -35007,7 +35184,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d52f0179fa3029fe0647",
@@ -35021,7 +35200,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d2480179fa3186d503e4",
@@ -35035,7 +35216,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d3e70179fa2e402703b2",
@@ -35049,7 +35232,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b104dcd12d36",
@@ -35063,7 +35248,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179b103965d1989",
@@ -35077,7 +35264,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abb37ad417fb",
@@ -35091,7 +35280,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179abacd81117d3",
@@ -35105,7 +35296,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179b1aef3202f6b",
@@ -35119,7 +35312,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ac2131981a99",
@@ -35133,7 +35328,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179ac1fec26115e",
@@ -35147,7 +35344,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179ac03d7f21115",
@@ -35161,7 +35360,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179ac02b05c115a",
@@ -35175,7 +35376,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179ac050b09116a",
@@ -35189,7 +35392,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179ac07a9ca117c",
@@ -35203,7 +35408,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df6140179ac069a281a27",
@@ -35217,7 +35424,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799df4000179ac1ef1b1115c",
@@ -35231,7 +35440,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（五）_20201229_ff808181799df4000179ac1ef1b1115c.pdf"
     },
     {
       "bbbs": "ff808181799df4000179ac08cb701145",
@@ -35245,7 +35457,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）_20201229_ff808181799df4000179ac08cb701145.pdf"
     },
     {
       "bbbs": "ff808181799def980179b1ab569c1b33",
@@ -35259,7 +35474,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80818179f5d2480179fa4c0ccb0492",
@@ -35273,7 +35490,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff808181799def980179b1a97b5b1b31",
@@ -35287,7 +35506,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80808177e75f880178006736f21aaf",
@@ -35301,7 +35522,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80808177e757ac017800561d541abb",
@@ -35315,7 +35538,10 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T20+0800",
+      "my_file": "最高人民法院关于适用《中华人民共和国民法典》时间效力的若干规定_20201229_ff80808177e757ac017800561d541abb.pdf"
     },
     {
       "bbbs": "ff80808177e75f880178006e5ae91ae3",
@@ -35329,7 +35555,9 @@
       "flfgCodeId": 320,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T20+0800"
     },
     {
       "bbbs": "ff80808177e75f880178006a30861ac3",
