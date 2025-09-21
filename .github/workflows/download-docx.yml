@@ -1,11 +1,11 @@
 name: Download files
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "10 */1 * * *"
     # - cron: "5 */12 * * *"
     # - cron: "15 14 * * 2"
   workflow_dispatch:
@@ -21,7 +21,7 @@ jobs:
       USER: ${{ github.repository_owner }}
       REPO_NAME: ${{ github.event.repository.name }}
       SRC_NAME: ${{ secrets.REPO }}
-      COUNT: 50
+      COUNT: 100
 
     steps:
       - uses: actions/checkout@v4
@@ -56,7 +56,7 @@ jobs:
       #     popd
 
       - name: Run download PDF
-        if: github.event.schedule != '5 */12 * * *'
+        # if: github.event.schedule != '5 */12 * * *'
         run: |
           count=${{ env.COUNT }}
           pushd ${{ env.SRC_NAME }} && 
