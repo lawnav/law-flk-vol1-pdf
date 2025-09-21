@@ -21,6 +21,8 @@ law-*/
 *.csv
 *.tsv
 *.md
+*.doc
+*.docx
 
 *.json
 !records.json

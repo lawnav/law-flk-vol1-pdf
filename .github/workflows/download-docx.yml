@@ -6,8 +6,8 @@ on:
       - main
   schedule:
     - cron: "*/30 * * * *"
-    - cron: "5 */12 * * *"
-    - cron: "15 14 * * 2"
+    # - cron: "5 */12 * * *"
+    # - cron: "15 14 * * 2"
   workflow_dispatch:
 
 jobs:
@@ -18,8 +18,9 @@ jobs:
     permissions:
       contents: write
     env:
-      USER: qundao
-      SRC_NAME: law-meta
+      USER: ${{ github.repository_owner }}
+      REPO_NAME: ${{ github.event.repository.name }}
+      SRC_NAME: ${{ secrets.REPO }}
       COUNT: 50
 
     steps:
@@ -45,14 +46,14 @@ jobs:
             echo "COUNT=100" >> $GITHUB_ENV
           fi
 
-      - name: Run download Docx
-        if: github.event.schedule == '5 */12 * * *'
-        run: |
-          count=${{ env.COUNT }}
-          echo "Update count = $count"
-          pushd ${{ env.SRC_NAME }} && 
-          bash scripts/run-docx.sh v1 $count &&
-          popd
+      # - name: Run download Docx
+      #   if: github.event.schedule == '5 */12 * * *'
+      #   run: |
+      #     count=${{ env.COUNT }}
+      #     echo "Update count = $count"
+      #     pushd ${{ env.SRC_NAME }} && 
+      #     bash scripts/run-docx.sh v1 $count &&
+      #     popd
 
       - name: Run download PDF
         if: github.event.schedule != '5 */12 * * *'
