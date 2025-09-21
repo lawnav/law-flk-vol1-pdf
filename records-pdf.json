@@ -1,12 +1,12 @@
 {
-  "update": "20250921T21+0800",
+  "update": "20250921T23+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
-    "download": 1501,
-    "error": 729,
+    "download": 1536,
+    "error": 794,
     "duplicate": 0,
-    "new": 31
+    "new": 35
   },
   "data": [
     {
@@ -37202,7 +37202,10 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民检察院关于强迫借贷行为适用法律问题的批复_20140417_402881e45ffbbe41015ffc83d1bc0e7f.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc8d24a10f39",
@@ -37216,7 +37219,10 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民检察院关于以检察专递方式邮寄送达有关检察法律文书的若干规定_20150213_402881e45ffbbe41015ffc8d24a10f39.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc906f1b0f9f",
@@ -37230,7 +37236,10 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民检察院关于强制隔离戒毒所工作人员能否成为虐待被监管人罪主体问题的批复_20150215_402881e45ffbbe41015ffc906f1b0f9f.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc9666e91041",
@@ -37244,7 +37253,10 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民检察院关于地质工程勘测院和其他履行勘测职责的单位及其工作人员能否成为刑法第二百二十九条规定的有关犯罪主体的批复_20151027_402881e45ffbbe41015ffc9666e91041.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc995545108d",
@@ -37258,7 +37270,10 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复_20151215_402881e45ffbbe41015ffc995545108d.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc9d119410ae",
@@ -37272,7 +37287,10 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "人民检察院提起公益诉讼试点工作实施办法_20151224_402881e45ffbbe41015ffc9d119410ae.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc9ffe2b10e4",
@@ -37286,7 +37304,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc9e7eb710c9",
@@ -37300,7 +37320,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5b96c128b4c016c463d266a027a",
@@ -37314,7 +37336,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5bb681ce1280168842651c11b31",
@@ -37328,7 +37352,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016c4aab35ed370d",
@@ -37342,7 +37368,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5ba6a291d8f016c4ad4b2ef373c",
@@ -37356,7 +37384,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808081713927d10171c3d3ff501ccf",
@@ -37370,7 +37400,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808081736bb19d01742d81c7097823",
@@ -37384,7 +37416,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081817a9a35ae017abcb567301afa",
@@ -37398,7 +37432,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081817ae10e15017af6bbdfe61f96",
@@ -37412,7 +37448,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081817b5e8945017b6279578c0912",
@@ -37426,7 +37464,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808181857bca5e01859576056037c7",
@@ -37440,7 +37480,9 @@
       "flfgCodeId": 330,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffff95001600075239106d5",
@@ -37454,7 +37496,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc119b31049e",
@@ -37468,7 +37512,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于不再追诉去台人员在中华人民共和国成立前的犯罪行为的公告_19880314_402881e45ffbbe41015ffc119b31049e.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc0fdd720479",
@@ -37482,7 +37529,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffff9500160004dd2a803b7",
@@ -37496,7 +37545,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e46005230d0160059113d705e9",
@@ -37510,7 +37561,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于废止1993年底以前联合发布的部分司法解释的通知_19940829_402881e46005230d0160059113d705e9.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc3c1cdb079e",
@@ -37524,7 +37578,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e46000e279016001c4b9380af4",
@@ -37538,7 +37594,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc29d251063c",
@@ -37552,7 +37610,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于对军人非战时逃离部队的行为能否定罪处罚问题的批复_20001205_402881e45ffbbe41015ffc29d251063c.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbef49e10245",
@@ -37566,7 +37627,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理生产、销售伪劣商品刑事案件具体应用法律若干问题的解释_20010409_402881e45ffbbe41015ffbef49e10245.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbf6f04c02f6",
@@ -37580,7 +37644,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理伪造、贩卖伪造的高等院校学历、学位证明刑事案件如何适用法律问题的解释_20010703_402881e45ffbbe41015ffbf6f04c02f6.pdf"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb8b92c3044c",
@@ -37594,7 +37661,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于适用刑事司法解释时间效力问题的规定_20011216_402881e45ffb5c4c015ffb8b92c3044c.pdf"
     },
     {
       "bbbs": "2c90e5ba65c68cf70167f3bee3eb521b",
@@ -37608,7 +37678,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定_20020315_2c90e5ba65c68cf70167f3bee3eb521b.pdf"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb73110e021e",
@@ -37622,7 +37695,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理非法生产、销售、使用禁止在饲料和动物饮用水中使用的药品等刑事案件具体应用法律若干问题的解释_200208_402881e45ffb5c4c015ffb73110e021e.pdf"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb603d4d0043",
@@ -37636,7 +37712,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理妨害预防、控制突发传染病疫情等灾害的刑事案件具体应用法律若干问题的解释_20030514_402881e45ffb5c4c015ffb603d4d0043.pdf"
     },
     {
       "bbbs": "402881e45ffff9500160008ba85b08a2",
@@ -37650,7 +37729,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb805a440348",
@@ -37664,7 +37745,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb896184043f",
@@ -37678,7 +37761,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe5993501d8",
@@ -37692,7 +37777,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb34ec4a012d",
@@ -37706,7 +37793,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbebc0990224",
@@ -37720,7 +37809,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe2432f01ac",
@@ -37734,7 +37825,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbfd28800367",
@@ -37748,7 +37841,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5bb65c68cfd0167f3a85eec50a8",
@@ -37762,7 +37857,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb6835c2010a",
@@ -37776,7 +37873,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5bb65c68cfd0167f3b8134350f5",
@@ -37790,7 +37889,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb55f411032e",
@@ -37804,7 +37905,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb8729950404",
@@ -37818,7 +37921,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb7a987902f3",
@@ -37832,7 +37937,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e46000e279016001c1cc6a0ab0",
@@ -37846,7 +37953,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于对死刑判决提出上诉的被告人在上诉期满后宣判前提出撤回上诉人民法院是否准许的批复_20100806_402881e46000e279016001c1cc6a0ab0.pdf"
     },
     {
       "bbbs": "2c90e5bb65c68cfd0167f3a560c5509a",
@@ -37860,7 +37970,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理诈骗刑事案件具体应用法律若干问题的解释_20110301_2c90e5bb65c68cfd0167f3a560c5509a.pdf"
     },
     {
       "bbbs": "402881e45ffff9500160006f59dc064b",
@@ -37874,7 +37987,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（五）_20110427_402881e45ffff9500160006f59dc064b.pdf"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb51a73702dc",
@@ -37888,7 +38004,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理妨害武装部队制式服装、车辆号牌管理秩序等刑事案件具体应用法律若干问题的解释_20110720_402881e45ffb0c10015ffb51a73702dc.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbf213c9028b",
@@ -37902,7 +38021,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释_20110801_402881e45ffbbe41015ffbf213c9028b.pdf"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb8ff5f3048d",
@@ -37916,7 +38038,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理内幕交易、泄露内幕信息刑事案件具体应用法律若干问题的解释_20120329_402881e45ffb5c4c015ffb8ff5f3048d.pdf"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb300d4800d2",
@@ -37930,7 +38055,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理渎职刑事案件适用法律若干问题的解释（一）_20121207_402881e45ffb0c10015ffb300d4800d2.pdf"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb4dca3c0282",
@@ -37944,7 +38072,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理妨害国（边）境管理刑事案件应用法律若干问题的解释_20121212_402881e45ffb0c10015ffb4dca3c0282.pdf"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb830a7e0393",
@@ -37958,7 +38089,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理行贿刑事案件具体应用法律若干问题的解释_20121226_402881e45ffb5c4c015ffb830a7e0393.pdf"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb29d55e009d",
@@ -37972,7 +38106,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb94ccbe0504",
@@ -37986,7 +38122,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理敲诈勒索刑事案件适用法律若干问题的解释_20130423_402881e45ffb5c4c015ffb94ccbe0504.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbf4804102b6",
@@ -38000,7 +38139,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理危害食品安全刑事案件适用法律若干问题的解释_20130502_402881e45ffbbe41015ffbf4804102b6.pdf"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbfa01f50335",
@@ -38014,7 +38156,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb8cc33a0460",
@@ -38028,7 +38172,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb929f8904bb",
@@ -38042,7 +38188,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb392ce00177",
@@ -38056,7 +38204,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb437a680226",
@@ -38070,7 +38220,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb7747620293",
@@ -38084,7 +38236,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb805bcf034c",
@@ -38098,7 +38252,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5bb65c68cfd0167f37924825035",
@@ -38112,7 +38268,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb8288c90385",
@@ -38126,7 +38284,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbc6554b0027",
@@ -38140,7 +38300,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbde4f810169",
@@ -38154,7 +38316,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbe3e3d601c1",
@@ -38168,7 +38332,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbebb517021c",
@@ -38182,7 +38348,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbf18be50275",
@@ -38196,7 +38364,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbfc111a0350",
@@ -38210,7 +38380,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffbfd7a6c0374",
@@ -38224,7 +38396,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc012cf003b1",
@@ -38238,7 +38412,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc0388ca03d2",
@@ -38252,7 +38428,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5bb65c68cfd0167f2dd12944f30",
@@ -38266,7 +38444,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于利用网络云盘制作、复制、贩卖、传播淫秽电子信息牟利行为定罪量刑问题的批复_20171122_2c90e5bb65c68cfd0167f2dd12944f30.pdf"
     },
     {
       "bbbs": "2c90e5ba65c68cf70167f2e1fbaa500f",
@@ -38280,7 +38461,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "2c90e5ba65c68cf70167f2caae4a4f8c",
@@ -38294,7 +38477,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于涉以压缩气体为动力的枪支、气枪铅弹刑事案件定罪量刑问题的批复_20180308_2c90e5ba65c68cf70167f2caae4a4f8c.pdf"
     },
     {
       "bbbs": "2c90e5bb65c68cfd0167f2f9742f4f96",
@@ -38308,7 +38494,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理虚假诉讼刑事案件适用法律若干问题的解释_20180926_2c90e5bb65c68cfd0167f2f9742f4f96.pdf"
     },
     {
       "bbbs": "2c90e5ba65c68cf70167f28a31f24ea3",
@@ -38322,7 +38511,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41d7bae900fd",
@@ -38336,7 +38527,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院_最高人民检察院关于办理非法从事资金支付结算业务、非法买卖外汇刑事案件适用法律若干问题的解释_20190131_ff8080816f3e98bd016f41d7bae900fd.pdf"
     },
     {
       "bbbs": "ff8080816f3e98bd016f41cf524e00b9",
@@ -38350,7 +38544,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院_最高人民检察院关于办理操纵证券、期货市场刑事案件适用法律若干问题的解释_20190627_ff8080816f3e98bd016f41cf524e00b9.pdf"
     },
     {
       "bbbs": "ff8080816f3e9784016f41c935a90097",
@@ -38364,7 +38561,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理非法利用信息网络、帮助信息网络犯罪活动等刑事案件适用法律若干问题的解释_20191021_ff8080816f3e9784016f41c935a90097.pdf"
     },
     {
       "bbbs": "ff8080816fbc57c10170a89fe483440f",
@@ -38378,7 +38578,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院_最高人民检察院关于缓刑犯在考验期满后五年内再犯应当判处有期徒刑以上刑罚之罪应否认定为累犯问题的批复_20200117_ff8080816fbc57c10170a89fe483440f.pdf"
     },
     {
       "bbbs": "ff808081777d07c50177ccd92ce05364",
@@ -38392,7 +38595,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808081777d0c940177cdad9cc64f94",
@@ -38406,7 +38611,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808181799def980179b1b559001b98",
@@ -38420,7 +38627,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081817bdd7f8c017be343d14e35cc",
@@ -38434,7 +38643,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081817e9b2546017e9b74da1a0075",
@@ -38448,7 +38659,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808181844232f70184bbe972155c2e",
@@ -38462,7 +38675,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff80818181cdceb30181d806737d4083",
@@ -38476,7 +38691,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081818364da14018411ead10a5718",
@@ -38490,7 +38707,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808181862ee02d01863a5ee86d3c4e",
@@ -38504,7 +38723,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff80818188c8b06b0189913b7cc40c22",
@@ -38518,7 +38739,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081818a22132f018acf18bb7a223f",
@@ -38532,7 +38755,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081818e750bc6018e88f96ed86502",
@@ -38546,7 +38771,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff8081818faab35d018fc240e2795985",
@@ -38560,7 +38787,9 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": -5,
+      "my_time": "20250921T23+0800"
     },
     {
       "bbbs": "ff808181923a4d0c019240c6a60609b5",
@@ -38574,7 +38803,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理洗钱刑事案件适用法律若干问题的解释_20240819_ff808181923a4d0c019240c6a60609b5.pdf"
     },
     {
       "bbbs": "ff808181927f0e7b0194488b30df681a",
@@ -38588,7 +38820,10 @@
       "flfgCodeId": 340,
       "score": 0.0,
       "my_dir": "司法解释",
-      "my_cate": 4
+      "my_cate": 4,
+      "my_status": 200,
+      "my_time": "20250921T23+0800",
+      "my_file": "最高人民法院、最高人民检察院关于办理拒不执行判决、裁定刑事案件适用法律若干问题的解释_20241030_ff808181927f0e7b0194488b30df681a.pdf"
     },
     {
       "bbbs": "ff808181927f12760195603406d16626",
