@@ -1,5 +1,5 @@
 {
-  "update": "20250925T01+0800",
+  "update": "20250925T02+0800",
   "duplicate": {},
   "stats": {
     "total": 2368,
@@ -7599,8 +7599,8 @@
       "score": 0.0,
       "my_dir": "法律",
       "my_cate": 1,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "2c909fdd678bf17901678bf5a6740055",
@@ -13771,8 +13771,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40fa57c40f4e",
@@ -14073,8 +14073,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414144961eff",
@@ -19143,8 +19143,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40996b2a0510",
@@ -20556,8 +20556,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f412cffc31b4a",
@@ -20734,8 +20734,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f410a7d6612f4",
@@ -20750,8 +20750,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414ac3bc2078",
@@ -20895,8 +20895,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f40daebf30779",
@@ -20975,8 +20975,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f414140691ef9",
@@ -21039,8 +21039,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f4111ba15150a",
@@ -21071,8 +21071,8 @@
       "score": 0.0,
       "my_dir": "行政法规",
       "my_cate": 2,
-      "my_status": -5,
-      "my_time": "20250924T13+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f42464c320447",
@@ -25983,8 +25983,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e45ffff9500160009eb8e909ca",
@@ -26197,8 +26197,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc65cecb0bf5",
@@ -26345,8 +26345,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e46005230d01600564e3e70366",
@@ -26361,8 +26361,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e46000e279016001ceaec30bc1",
@@ -26409,8 +26409,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e46005230d01600558cf9301cc",
@@ -26508,8 +26508,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e45ffbbe41015ffc1bf02f0547",
@@ -26853,8 +26853,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e45ffb5c4c015ffb86923503ee",
@@ -26869,8 +26869,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e45ffff95001600094f04a0904",
@@ -27151,8 +27151,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e46000e27901600146ff74014e",
@@ -33608,8 +33608,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3cbb3c016f402ac5580116",
@@ -34022,8 +34022,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0ffcd7a1965",
@@ -34070,8 +34070,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0a9a81f18c0",
@@ -34103,8 +34103,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179ac2750531acc",
@@ -34135,8 +34135,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179aba907b0179b",
@@ -34151,8 +34151,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179b0a8a0272bec",
@@ -34232,8 +34232,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179ad2437231456",
@@ -34393,8 +34393,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0a6f0ae1888",
@@ -34559,8 +34559,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff80808177e757ac0178006f0efe1b55",
@@ -34607,8 +34607,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179b095de1617d5",
@@ -34721,8 +34721,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0988b7717e5",
@@ -35001,8 +35001,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df4000179b0a035fe1845",
@@ -35050,8 +35050,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179abdc12cd18c3",
@@ -35082,8 +35082,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179abd986f3189b",
@@ -35114,8 +35114,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179b09b45d92b5e",
@@ -35263,8 +35263,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179b0e257122c76",
@@ -35407,8 +35407,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179abb37ad417fb",
@@ -35423,8 +35423,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179abacd81117d3",
@@ -35970,8 +35970,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8081817e8f99c0017e9af07ac66ce5",
@@ -36234,8 +36234,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff80818181cdceb30181d801c31c4070",
@@ -36553,8 +36553,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8081818d170bdb018d1b9c1213139f",
@@ -36752,8 +36752,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181981cf0ec019831790a392ff0",
@@ -36882,8 +36882,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e45ffb0c10015ffb411b0601f9",
@@ -37727,8 +37727,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "402881e46005230d0160059113d705e9",
@@ -38840,8 +38840,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8081817bdd7f8c017be343d14e35cc",
@@ -38856,8 +38856,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8081817e9b2546017e9b74da1a0075",
@@ -39057,8 +39057,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff80818197f7595f019806d08cae139d",
@@ -39411,8 +39411,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff8080816f3e9784016f41fe72fb0269",
@@ -39444,8 +39444,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "ff808181799df6140179b08345562ab8",
@@ -39605,8 +39605,8 @@
       "score": 0.0,
       "my_dir": "司法解释",
       "my_cate": 4,
-      "my_status": -5,
-      "my_time": "20250924T11+0800"
+      "my_status": 404,
+      "my_time": "20250925T02+0800"
     },
     {
       "bbbs": "e5b7171d3778455eb4dd699f2f1e5854",
