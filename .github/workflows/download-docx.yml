@@ -1,13 +1,11 @@
 name: Download files
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   schedule:
     - cron: "10 */1 * * *"
-    # - cron: "5 */12 * * *"
-    # - cron: "15 14 * * 2"
   workflow_dispatch:
 
 jobs:
@@ -21,7 +19,7 @@ jobs:
       USER: ${{ github.repository_owner }}
       REPO_NAME: ${{ github.event.repository.name }}
       SRC_NAME: ${{ secrets.REPO }}
-      COUNT: 100
+      COUNT: 50
 
     steps:
       - uses: actions/checkout@v4
@@ -45,15 +43,6 @@ jobs:
           if [ "${{ github.event.schedule }}" == "15 14 * * 2" ]; then
             echo "COUNT=100" >> $GITHUB_ENV
           fi
-
-      # - name: Run download Docx
-      #   if: github.event.schedule == '5 */12 * * *'
-      #   run: |
-      #     count=${{ env.COUNT }}
-      #     echo "Update count = $count"
-      #     pushd ${{ env.SRC_NAME }} && 
-      #     bash scripts/run-docx.sh v1 $count &&
-      #     popd
 
       - name: Run download PDF
         # if: github.event.schedule != '5 */12 * * *'
